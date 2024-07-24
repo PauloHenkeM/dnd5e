@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes Forasteiro"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/forasteiro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/forasteiro/","tags":["Antecedentes Forasteiro"]}
 ---
 
 **FORASTEIRO**  

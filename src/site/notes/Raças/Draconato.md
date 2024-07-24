@@ -1,5 +1,5 @@
 ---
-{"tags":["Raças Draconato"],"created":"2024-07-19","dg-publish":true,"permalink":"/racas/draconato/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/racas/draconato/","tags":["Raças Draconato"]}
 ---
 
 ![Draconato.webp|left|300](/img/user/Arquivos/Draconato.webp)
@@ -46,7 +46,3 @@
 | Latão      | Fogo             | 1,5 x 9 m Linha (Des) |
 | Ouro       | Fogo             | 4,5 m Cone (Des)      |
 | Prata      | Gelo             | 4,5 m Cone (Cons)     |
-
-___
-**Links para esse site:**
-- [[Outros/Home\|Home]]

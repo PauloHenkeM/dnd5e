@@ -1,5 +1,5 @@
 ---
-{"tags":null,"created":"2024-07-18","dg-publish":true,"permalink":"/outros/links-uteis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/links-uteis/"}
 ---
 
 - [Montar Personagem](https://www.heroforge.com/)

@@ -1,5 +1,5 @@
 ---
-{"tags":["Sub-Classes","Druida"],"created":"2024-07-23","dg-publish":true,"permalink":"/classes/extras/druida/circulo-da-lua/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/extras/druida/circulo-da-lua/","tags":["Sub-Classes","Druida"]}
 ---
 
 

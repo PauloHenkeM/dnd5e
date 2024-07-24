@@ -1,5 +1,5 @@
 ---
-{"tags":["Sub-Classes Bardo"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/extras/bardo/colegio-do-saber/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/extras/bardo/colegio-do-saber/","tags":["Sub-Classes Bardo"]}
 ---
 
 

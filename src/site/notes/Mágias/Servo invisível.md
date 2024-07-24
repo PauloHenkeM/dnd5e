@@ -1,5 +1,5 @@
 ---
-{"tags":["Mágias"],"created":"2024-07-23","dg-publish":true,"permalink":"/magias/servo-invisivel/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/magias/servo-invisivel/","tags":["Mágias"]}
 ---
 
 

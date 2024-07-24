@@ -1,5 +1,5 @@
 ---
-{"tags":["Mágias"],"created":"2024-07-23","dg-publish":true,"permalink":"/magias/raio-doentio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/magias/raio-doentio/","tags":["Mágias"]}
 ---
 
 

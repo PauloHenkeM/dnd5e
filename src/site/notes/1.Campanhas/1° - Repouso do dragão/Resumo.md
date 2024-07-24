@@ -1,5 +1,5 @@
 ---
-{"tags":["Timeline"],"created":"2024-07-23","dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/resumo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/resumo/","tags":["Timeline"]}
 ---
 
 

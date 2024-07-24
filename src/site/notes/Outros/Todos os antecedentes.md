@@ -1,9 +1,8 @@
 ---
-{"tags":["Antecedentes"],"created":"2024-07-24","dg-publish":true,"permalink":"/outros/todos-os-antecedentes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/todos-os-antecedentes/","tags":["Antecedentes"]}
 ---
 
 
-- [[Outros/Todos os antecedentes\|Todos os antecedentes]]
 - [[Antecedentes e Personalidades/Sábio\|Sábio]]
 - [[Antecedentes e Personalidades/Soldado\|Soldado]]
 - [[Antecedentes e Personalidades/Nobre\|Nobre]]
@@ -12,15 +11,12 @@
 - [[Antecedentes e Personalidades/Marinheiro\|Marinheiro]]
 - [[Antecedentes e Personalidades/Eremita\|Eremita]]
 - [[Antecedentes e Personalidades/Forasteiro\|Forasteiro]]
-- [[Antecedentes e Personalidades/Criminoso\|Criminoso]]
 - [[Antecedentes e Personalidades/Charlatão\|Charlatão]]
 - [[Antecedentes e Personalidades/Artista\|Artista]]
 - [[Antecedentes e Personalidades/Artesão de guilda\|Artesão de guilda]]
 - [[Antecedentes e Personalidades/Acólito\|Acólito]]
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
+- [[Antecedentes e Personalidades/Criminoso\|Criminoso]]
+- [[Outros/Todos os antecedentes\|Todos os antecedentes]]
 
 { .block-language-dataview}
-
-___
-**Links para esta página**  
-- [[Outros/Home\|Home]]

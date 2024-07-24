@@ -1,5 +1,5 @@
 ---
-{"tags":["Raças Meio_Elfo"],"created":"2024-07-19","dg-publish":true,"permalink":"/racas/meio-elfo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/racas/meio-elfo/","tags":["Raças Meio_Elfo"]}
 ---
 
 
@@ -51,6 +51,3 @@
 ## Descendência elfo da aquático
 #Descendência_elfo_aquático
 - **Parentesco:** Um meio-elfo com descendência de elfo aquático pode escolher um deslocamento de natação de 9 metros.
-___
-**Links para esse site:**
-- [[Outros/Home\|Home]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes","Soldado"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/soldado/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/soldado/","tags":["Antecedentes","Soldado"]}
 ---
 
 Você foi treinado desde jovem para o combate, vivendo e respirando a guerra.

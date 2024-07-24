@@ -1,5 +1,5 @@
 ---
-{"tags":["Truques"],"created":"2024-07-22","dg-publish":true,"permalink":"/truques/toque-chocante/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/truques/toque-chocante/","tags":["Truques"]}
 ---
 
 

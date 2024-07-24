@@ -1,5 +1,5 @@
 ---
-{"tags":null,"created":"2024-07-24","dg-publish":true,"permalink":"/outros/todas-as-magias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/todas-as-magias/"}
 ---
 
 
@@ -11,7 +11,3 @@
 - [[Mágias/Disco Flutuante de Tenser\|Disco Flutuante de Tenser]]
 
 { .block-language-dataview}
-
-___
-**Links para esta página**  
-- [[Outros/Home\|Home]]

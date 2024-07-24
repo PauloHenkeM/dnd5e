@@ -1,5 +1,5 @@
 ---
-{"tags":["Raças Halfling"],"created":"2024-07-19","dg-publish":true,"permalink":"/racas/halfling/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/racas/halfling/","tags":["Raças Halfling"]}
 ---
 
 
@@ -46,6 +46,3 @@
 #Fantasma
 **Atributo:** +1 em Sabedoria.  
 **Dialeto Silêncio:** Falar telepaticamente com qualquer criatura a até 9 metros de você. A criatura compreende você apenas se ambos partilharem um idioma. Você pode falar telepaticamente dessa forma apenas com uma criatura por vez.
-___
-**Links para esse site:**
-- [[Outros/Home\|Home]]

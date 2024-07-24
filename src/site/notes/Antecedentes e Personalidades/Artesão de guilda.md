@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes Artesão_de_guilda"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/artesao-de-guilda/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/artesao-de-guilda/","tags":["Antecedentes Artesão_de_guilda"]}
 ---
 
 Você é membro de uma guilda de artesãos, hábil em um campo particular e intimamente associado com outros artesãos. Você é uma parte bem estabelecida de um mundo mercantil, libertado pelo talento e riqueza de restrições da ordem social feudal. Você aprendeu suas habilidades como um aprendiz de um mestre artesão, sob o patrocínio de sua guilda, até que você se tornou um mestre de direito.

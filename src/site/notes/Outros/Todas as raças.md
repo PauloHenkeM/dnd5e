@@ -1,24 +1,20 @@
 ---
-{"tags":["Raças"],"created":"2024-07-24","dg-publish":true,"permalink":"/outros/todas-as-racas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/todas-as-racas/","tags":["Raças"]}
 ---
 
 
-- [[Raças/Tiefling\|Tiefling]]
-- [[Raças/Meio orc\|Meio orc]]
-- [[Raças/Meio Elfo\|Meio Elfo]]
-- [[Raças/Humano\|Humano]]
-- [[Raças/Halfling\|Halfling]]
 - [[Raças/Golias\|Golias]]
-- [[Raças/Gnomo\|Gnomo]]
-- [[Raças/Genasi\|Genasi]]
-- [[Raças/Elfo\|Elfo]]
-- [[Raças/Draconato\|Draconato]]
-- [[Raças/Anão\|Anão]]
-- [[Raças/AArakocra\|AArakocra]]
 - [[Outros/Todas as raças\|Todas as raças]]
+- [[Raças/Gnomo\|Gnomo]]
+- [[Raças/AArakocra\|AArakocra]]
+- [[Raças/Anão\|Anão]]
+- [[Raças/Draconato\|Draconato]]
+- [[Raças/Elfo\|Elfo]]
+- [[Raças/Genasi\|Genasi]]
+- [[Raças/Halfling\|Halfling]]
+- [[Raças/Humano\|Humano]]
+- [[Raças/Meio Elfo\|Meio Elfo]]
+- [[Raças/Meio orc\|Meio orc]]
+- [[Raças/Tiefling\|Tiefling]]
 
 { .block-language-dataview}
-
-___
-**Links para esta página**  
-- [[Outros/Home\|Home]]

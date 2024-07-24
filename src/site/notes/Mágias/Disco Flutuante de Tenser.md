@@ -1,5 +1,5 @@
 ---
-{"tags":["Mágias"],"created":"2024-07-24","dg-publish":true,"permalink":"/magias/disco-flutuante-de-tenser/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/magias/disco-flutuante-de-tenser/","tags":["Mágias"]}
 ---
 
 

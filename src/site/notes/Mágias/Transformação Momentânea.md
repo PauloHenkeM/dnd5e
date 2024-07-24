@@ -1,5 +1,5 @@
 ---
-{"tags":null,"created":"2024-07-24","dg-publish":true,"permalink":"/magias/transformacao-momentanea/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/magias/transformacao-momentanea/"}
 ---
 
 

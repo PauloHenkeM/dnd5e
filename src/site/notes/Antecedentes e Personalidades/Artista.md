@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes Artista"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/artista/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/artista/","tags":["Antecedentes Artista"]}
 ---
 
 Você prospera na frente de uma plateia. Você sabe como arrebatar, entreter e até inspirar os outros. Suas poesias podem agitar os corações dos ouvintes, despertar tristeza ou alegria, riso ou fúria. Sua música levanta os espíritos ou capta a tristeza. Seus passos de dança cativam, seu humor ofende. Qualquer que seja a técnica que você usa, sua arte é sua vida.

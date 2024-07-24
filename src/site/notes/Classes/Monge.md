@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Monge"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/monge/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/monge/","tags":["Classes","Monge"]}
 ---
 
 

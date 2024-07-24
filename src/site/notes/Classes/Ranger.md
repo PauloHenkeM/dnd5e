@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Ranger"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/ranger/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/ranger/","tags":["Classes","Ranger"]}
 ---
 
 

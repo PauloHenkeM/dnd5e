@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/outros/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/home/","tags":["gardenEntry"]}
 ---
 
 
@@ -19,5 +19,6 @@ ___
 - [[Outros/Todos os personagens\|Todos os personagens]]
 - [[Outros/Todos os truques\|Todos os truques]]
 - [[Outros/Links úteis\|Links úteis]]
-- [[Como escolher uma classe.canvas]]
+
+
 ___

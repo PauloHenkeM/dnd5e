@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes Criminoso"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/criminoso/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/criminoso/","tags":["Antecedentes Criminoso"]}
 ---
 
 Você é um criminoso experiente com um histórico de contravenções. Você gastou um bom tempo entre outros criminosos e ainda mantém contato com eles e com o submundo do crime. Você está mais perto do que a maioria das pessoas do assassinato, roubo e violência que prevalecem no ventre da sociedade, e você sobreviveu até esse ponto desprezando a lei e os regulamentos da sociedade.
@@ -81,4 +81,3 @@ Embora suas habilidades não sejam muito diferentes das habilidades de ladrões 
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

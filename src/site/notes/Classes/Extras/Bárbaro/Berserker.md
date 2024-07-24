@@ -1,5 +1,5 @@
 ---
-{"tags":["Sub-Classes Bárbaros"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/extras/barbaro/berserker/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/extras/barbaro/berserker/","tags":["Sub-Classes Bárbaros"]}
 ---
 
 

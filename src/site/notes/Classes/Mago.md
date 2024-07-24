@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Mago"],"created":"2024-07-19","dg-publish":true,"permalink":"/classes/mago/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/mago/","tags":["Classes","Mago"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Sub-Classes Feérico"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/extras/bruxo/grande-antigo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/extras/bruxo/grande-antigo/","tags":["Sub-Classes Feérico"]}
 ---
 
 

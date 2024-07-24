@@ -1,5 +1,5 @@
 ---
-{"tags":["Mágias"],"created":"2024-07-24","dg-publish":true,"permalink":"/magias/convocar-familiar/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/magias/convocar-familiar/","tags":["Mágias"]}
 ---
 
 

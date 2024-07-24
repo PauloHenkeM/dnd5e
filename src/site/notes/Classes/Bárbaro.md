@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes Bárbaros"],"created":"2024-07-19","dg-publish":true,"permalink":"/classes/barbaro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes Bárbaros"]}
 ---
 
 

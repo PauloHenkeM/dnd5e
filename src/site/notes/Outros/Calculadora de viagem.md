@@ -1,5 +1,5 @@
 ---
-{"obsidianUIMode":"visualização","obsidianEditingMode":"fonte","BaseSpeed":50.001,"SpeedMultiplier":1,"AdditionalBonus":0,"Encumbered":false,"HorseshoesofSpeed":false,"HoursPerDay":2,"MinutesPerMile":20,"ExhaustionLevel":6,"TravelDistance":100,"varMins":60,"ShipCostPerM":0,"MessengerCostPerM":0,"CoachCost":0,"CoachCostPerM":0,"DangerLevel":1.5,"FamiliarRoute":true,"PartyMembers":4,"LifestyleCostSP":0,"IncludeMeals":false,"TravelCalc":39.99866671110963,"dg-publish":true,"permalink":"/outros/calculadora-de-viagem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/calculadora-de-viagem/"}
 ---
 
 
@@ -43,8 +43,3 @@ Cada falha adiciona um nível de [[Outros/Exaustão\|Exaustão]].
 | Coche (dentro da cidade)   | `INPUT[number:CoachCost]`         | `VIEW[round(({CoachCost}*({DangerLevel}+({FamiliarRoute} ? -0.5 : 0))*{PartyMembers}),0)/100]`gp.          |
 | Enviar Mensageiro        | `INPUT[number:MessengerCostPerM]` | `VIEW[round({TravelDistance}*({MessengerCostPerM}*({DangerLevel}+({FamiliarRoute} ? -0.5 : 0))),0)/100]`gp.           |
 | Passagem de Navio         | `INPUT[number:ShipCostPerM]`      | `VIEW[round({TravelDistance}*({ShipCostPerM}*({DangerLevel}+({FamiliarRoute} ? -0.5 : 0))*{PartyMembers}),0)/100+(({IncludeMeals} ? 1 : 0)*(({LifestyleCostSP}/10)*{PartyMembers})*round(({TravelDistance} * ({varMins}/(({BaseSpeed} / ({ExhaustionLevel} > 1 ? 2 : 1) + ({Encumbered} ? -10 : 0) + ({HorseshoesofSpeed} ? 30 : 0) + {AdditionalBonus}) / 10) * {SpeedMultiplier})) / 60 / {HoursPerDay}))]`gp.           |
-
-
-___
-**Links para esta página**  
-- [[Outros/Home\|Home]]

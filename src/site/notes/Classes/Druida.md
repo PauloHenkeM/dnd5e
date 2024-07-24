@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Druida"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/druida/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/druida/","tags":["Classes","Druida"]}
 ---
 
 

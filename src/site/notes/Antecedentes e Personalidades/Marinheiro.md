@@ -1,5 +1,5 @@
 ---
-{"tags":["Antecedentes","Marinheiro"],"created":"2024-07-19","dg-publish":true,"permalink":"/antecedentes-e-personalidades/marinheiro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/marinheiro/","tags":["Antecedentes","Marinheiro"]}
 ---
 
 Você navegou em uma embarcação por anos. Nesse tempo, enfrentou poderosas tempestades, monstros das profundezas e aqueles que queriam afundar sua embarcação para a profundidade sem fim. Seu primeiro amor é a linha distante do horizonte, mas chegou a hora de tentar algo novo. Discuta a natureza do navio que você navegou anteriormente com seu Mestre. Era um navio mercante, uma embarcação naval, um navio de descoberta, ou um navio pirata? Quão famoso (ou abominável) você é? Essa fama é amplamente explorada? Ainda está navegando, ou sente saudades e presume-se perdido? Quais eram suas funções a bordo – contramestre, capitão, navegador, cozinheiro, ou outra posição? Quem era o capitão e o primeiro imediato? Você deixou o navio de bom grado com seus companheiros, ou em fuga?

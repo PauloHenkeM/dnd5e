@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Bardo"],"created":"2024-07-19","dg-publish":true,"permalink":"/classes/bardo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/bardo/","tags":["Classes","Bardo"]}
 ---
 
 

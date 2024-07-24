@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Clérigo"],"created":"2024-07-20","dg-publish":true,"permalink":"/classes/clerigo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/clerigo/","tags":["Classes","Clérigo"]}
 ---
 
 

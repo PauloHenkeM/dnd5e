@@ -1,5 +1,5 @@
 ---
-{"CoinsCopper":2000,"CoinsSiler":1,"CoinsElectrum":20,"CoinsGold":1,"CoinsPlatinum":100,"PartySize":4,"tags":["Calculadoras"],"created":"2024-07-24","dg-publish":true,"permalink":"/outros/calculadora-de-moeda/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/calculadora-de-moeda/","tags":["Calculadoras"]}
 ---
 
 
@@ -26,8 +26,3 @@ Tamanho do Grupo: `INPUT[number:PartySize]`
 |Ouro|`VIEW[(({CoinsCopper}+({CoinsSiler}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/100)]`|`VIEW[(({CoinsCopper}+({CoinsSiler}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/100)/{PartySize}]`|
 |Platina|`VIEW[(({CoinsCopper}+({CoinsSiler}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/1000)]`|`VIEW[(({CoinsCopper}+({CoinsSiler}*10)+({CoinsElectrum}*50)+({CoinsGold}*100)+({CoinsPlatinum}*1000))/1000)/{PartySize}]`|
 
-
-
-___
-**Links para esta página**  
-- [[Outros/Home\|Home]]

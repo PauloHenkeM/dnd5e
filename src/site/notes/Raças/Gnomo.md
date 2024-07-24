@@ -1,5 +1,5 @@
 ---
-{"tags":["Raças Gnomo"],"created":"2024-07-19","dg-publish":true,"permalink":"/racas/gnomo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/racas/gnomo/","tags":["Raças Gnomo"]}
 ---
 
 
@@ -50,6 +50,3 @@
 - **Idade:** Adulto aos 45. Vivem até 250.  
 - **Visão no Escuro:** 36m.  
 - **Camuflagem Rochosa:** Vantagem em testes de Destreza (Furtividade) feitos para se esconder em terreno rochoso.
-___
-**Links para esse site:**
-- [[Outros/Home\|Home]]

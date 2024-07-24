@@ -1,5 +1,5 @@
 ---
-{"tags":null,"created":"2024-07-18","dg-publish":true,"permalink":"/outros/todos-os-personagens/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/outros/todos-os-personagens/"}
 ---
 
 

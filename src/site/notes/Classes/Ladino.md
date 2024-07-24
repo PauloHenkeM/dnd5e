@@ -1,5 +1,5 @@
 ---
-{"tags":["Classes","Ladino"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/ladino/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/ladino/","tags":["Classes","Ladino"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Meu-Personagem","Alto_elfo"],"created":"2024-07-10","Mestre":"Thais Fernandes","Inicio":"2024-07-13","Término":null,"Campanha":"Repouso do dragão","Morto":false,"dg-publish":true,"Timeline":"[[Resumo]]","permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha/","tags":["Meu-Personagem","Alto_elfo"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Sub-Classes Clérigo"],"created":"2024-07-21","dg-publish":true,"permalink":"/classes/extras/clerigo/luz/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/classes/extras/clerigo/luz/","tags":["Sub-Classes Clérigo"]}
 ---
 
 
