@@ -7,8 +7,8 @@
 - [[Mágias/Servo invisível\|Servo invisível]]
 - [[Mágias/Raio Doentio\|Raio Doentio]]
 - [[Mágias/Mísseis mágicos\|Mísseis mágicos]]
-- [[Mágias/Disco Flutuante de Tenser\|Disco Flutuante de Tenser]]
 - [[Mágias/Convocar familiar\|Convocar familiar]]
+- [[Mágias/Disco Flutuante de Tenser\|Disco Flutuante de Tenser]]
 
 { .block-language-dataview}
 
