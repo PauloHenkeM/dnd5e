@@ -7,7 +7,7 @@
 
 ![Mananas.png|center|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex|clean no-t]
+> [!column|flex| no-t]
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
@@ -58,7 +58,7 @@
 ___
 > [!info] 13 Sabedoria Passiva (Percepção)
 
-> [!column|flex|clean no-t]
+> [!column|flex| no-t]
 >> #### Classe de armadura
 >> 12
 >>
