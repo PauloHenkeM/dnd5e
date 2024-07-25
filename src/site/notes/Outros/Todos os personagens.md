@@ -3,8 +3,8 @@
 ---
 
 
-| File                                                                                           | Timeline                                                 | Campanha          | Mestre          | Inicio     | Término | Morto |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------- | --------------- | ---------- | ------- | ----- |
-| [[1.Campanhas/1° - Repouso do dragão/Mananas - Ficha - Nível 2\|Mananas - Ficha - Nível 2]] | [[1.Campanhas/1° - Repouso do dragão/Resumo\|Resumo]] | Repouso do dragão | Thais Fernandes | 13/07/2024 | \-      | false |
+| File                                                                                           | Timeline                                                 | Campanha          | Mestre          | Inicio      | Término | Morto |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------- | --------------- | ----------- | ------- | ----- |
+| [[1.Campanhas/1° - Repouso do dragão/Mananas - Ficha - Nível 2\|Mananas - Ficha - Nível 2]] | [[1.Campanhas/1° - Repouso do dragão/Resumo\|Resumo]] | Repouso do dragão | Thais Fernandes | 13/Jul/2024 | \-      | false |
 
 { .block-language-dataview}
