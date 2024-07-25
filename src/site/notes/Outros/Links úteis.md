@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/links-uteis/"}
+{"dg-publish":true,"permalink":"/outros/links-uteis/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 - [Montar Personagem](https://www.heroforge.com/)
@@ -14,7 +14,3 @@
 - [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials)
 - [Structure of a Query - Dataview](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 - [Biblioteca Élfica](https://bibliotecaelfica.org/)
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

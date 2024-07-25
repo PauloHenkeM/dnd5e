@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/elfo/","tags":["Raças Elfo"]}
+{"dg-publish":true,"permalink":"/racas/elfo/","tags":["Raças Elfo"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -58,7 +58,3 @@
 - **Visão no Escuro Superior:** Visão no escuro estendida para 36m (24 quadrados).  
 - **Magia Drow:** Conhece o truque Globos de Luz. A partir do nível 3, pode usar Fogo das Fadas uma vez por dia. A partir do nível 5, também pode usar Escuridão uma vez por dia.  
 - **Treinamento em Armas Drows:** Você tem proficiência com sabre, espada curta e besta de mão.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

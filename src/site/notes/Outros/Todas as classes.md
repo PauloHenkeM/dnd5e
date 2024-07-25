@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/todas-as-classes/","tags":["Classes"]}
+{"dg-publish":true,"permalink":"/outros/todas-as-classes/","tags":["Classes"],"created":"2024-07-24T08:42:30.472-03:00"}
 ---
 
 
@@ -7,19 +7,15 @@
 - [[Classes/Ranger\|Ranger]]
 - [[Classes/Paladino\|Paladino]]
 - [[Classes/Monge\|Monge]]
-- [[Classes/Mago\|Mago]]
 - [[Classes/Ladino\|Ladino]]
+- [[Classes/Mago\|Mago]]
 - [[Classes/Guerreiro\|Guerreiro]]
 - [[Classes/Feiticeiro\|Feiticeiro]]
-- [[Classes/Druida\|Druida]]
-- [[Classes/Clérigo\|Clérigo]]
 - [[Classes/Bárbaro\|Bárbaro]]
-- [[Classes/Bruxo\|Bruxo]]
+- [[Classes/Clérigo\|Clérigo]]
+- [[Classes/Druida\|Druida]]
 - [[Classes/Bardo\|Bardo]]
+- [[Classes/Bruxo\|Bruxo]]
 - [[Classes/1.Resumo\|1.Resumo]]
 
 { .block-language-dataview}
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

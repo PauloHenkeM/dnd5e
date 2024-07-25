@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/feiticeiro/","tags":["Classes","Feiticeiro"]}
+{"dg-publish":true,"permalink":"/classes/feiticeiro/","tags":["Classes","Feiticeiro"],"created":"2024-07-23T13:35:39.139-03:00"}
 ---
 
 

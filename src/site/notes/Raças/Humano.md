@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/humano/","tags":["Raças Humano"]}
+{"dg-publish":true,"permalink":"/racas/humano/","tags":["Raças Humano"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -28,7 +28,3 @@
 - **Ajuste de Atributo:** +1 em dois atributos à sua escolha.  
 - **Perícias:** Adquire proficiência em uma perícia de sua escolha.  
 - **Talentos:** Ganha um talento de sua escolha.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

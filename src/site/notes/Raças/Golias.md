@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/golias/","tags":["Raças Golias"]}
+{"dg-publish":true,"permalink":"/racas/golias/","tags":["Raças Golias"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -37,7 +37,3 @@
 
 > **Nascido nas Montanhas**
 > Está aclimatado a altas altitudes, incluindo elevações acima de 6.000 metros. Também é naturalmente adaptado a climas frios, como descrito no capítulo 5 do Guia do Mestre.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

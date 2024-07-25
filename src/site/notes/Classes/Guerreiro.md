@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/guerreiro/","tags":["Classes","Guerreiro"]}
+{"dg-publish":true,"permalink":"/classes/guerreiro/","tags":["Classes","Guerreiro"],"created":"2024-07-23T13:36:15.068-03:00"}
 ---
 
 

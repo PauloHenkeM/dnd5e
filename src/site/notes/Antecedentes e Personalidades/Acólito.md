@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/acolito/","tags":["Antecedentes Acólito"]}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/acolito/","tags":["Antecedentes Acólito"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 **Acolito**  

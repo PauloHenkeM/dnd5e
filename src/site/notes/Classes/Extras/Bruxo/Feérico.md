@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/bruxo/feerico/","tags":["Sub-Classes Feérico"]}
+{"dg-publish":true,"permalink":"/classes/extras/bruxo/feerico/","tags":["Sub-Classes Feérico"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 

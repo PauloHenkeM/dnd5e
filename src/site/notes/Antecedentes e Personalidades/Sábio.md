@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/sabio/","tags":["Antecedentes","Sábio"]}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/sabio/","tags":["Antecedentes","Sábio"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 Você dedicou anos ao estudo e ao aprendizado sobre o multiverso, tornando-se um mestre em seu campo de estudo.

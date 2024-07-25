@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/a-arakocra/","tags":["Raças AArakocra"]}
+{"dg-publish":true,"permalink":"/racas/a-arakocra/","tags":["Raças AArakocra"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 ![AArakocra.jpg|left|300](/img/user/Arquivos/AArakocra.jpg)
@@ -28,7 +28,3 @@
 
 > **Idiomas**
 > Pode falar, ler e escrever Comum, Aarakocra e Auran.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/truques/maos-magicas/","tags":["Truques"]}
+{"dg-publish":true,"permalink":"/truques/maos-magicas/","tags":["Truques"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -27,7 +27,3 @@ O jogador pode usar a mão para manipular um objeto, abrir uma porta ou  recipie
 O jogador pode mover a mão 9 metros (6 quadrados) cada vez que a usar.
 
 A mão não pode atacar, ativar itens mágicos ou carregar mais do que 4,5kg. 
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/meio-orc/","tags":["Raças Meio_Orc"]}
+{"dg-publish":true,"permalink":"/racas/meio-orc/","tags":["Raças Meio_Orc"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -34,7 +34,3 @@
 
 > **Visão no Escuro**
 > Trata escuridão a 18m (12 quadrados) como penumbra e penumbra como claridade.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

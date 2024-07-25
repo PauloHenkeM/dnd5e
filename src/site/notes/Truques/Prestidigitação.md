@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/truques/prestidigitacao/","tags":["Truques"]}
+{"dg-publish":true,"permalink":"/truques/prestidigitacao/","tags":["Truques"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -23,7 +23,3 @@ Esta magia é um truque mágico simples que os novatos usam para praticar sua ma
 - O jogador cria uma bugiganga não mágica ou uma imagem ilusória, que caiba em sua mão com duração até o final do seu próximo turno. 
 
 Se o jogador lançar esta magia múltiplas vezes, ele pode ter até 3 efeitos não instantâneos ativos ao mesmo tempo, e o jogador pode cancelar tal efeito usando uma ação.
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

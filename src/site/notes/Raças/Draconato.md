@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/draconato/","tags":["Raças Draconato"]}
+{"dg-publish":true,"permalink":"/racas/draconato/","tags":["Raças Draconato"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 ![Draconato.webp|left|300](/img/user/Arquivos/Draconato.webp)
@@ -34,19 +34,15 @@
 ## Ancestral dracônico  
 #Ancestral_dracônico
 
-| **Dragão** | **Tipo de Dano** | **Sopro**             |
-| ---------- | ---------------- | --------------------- |
-| Azul       | Elétrico         | 1,5 x 9 m Linha (Des) |
-| Branco     | Gelo             | 4,5 m Cone (Cons)     |
-| Preto      | Ácido            | 1,5 x 9 m Linha (Des) |
-| Verde      | Veneno           | 4,5 m Cone (Cons)     |
-| Vermelho   | Fogo             | 4,5 m Cone (Des)      |
-| Bronze     | Elétrico         | 1,5 x 9 m Linha (Des) |
-| Cobre      | Ácido            | 1,5 x 9 m Linha (Des) |
-| Latão      | Fogo             | 1,5 x 9 m Linha (Des) |
-| Ouro       | Fogo             | 4,5 m Cone (Des)      |
-| Prata      | Gelo             | 4,5 m Cone (Cons)     |
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]
+| Dragão | Tipo de Dano | Sopro |
+| - | -| - |
+| Azul | Elétrico | 1,5 x 9 m Linha (Des) |
+| Branco | Gelo | 4,5 m Cone (Cons) |
+| Preto | Ácido | 1,5 x 9 m Linha (Des) |
+| Verde | Veneno | 4,5 m Cone (Cons) |
+| Vermelho | Fogo | 4,5 m Cone (Des) |
+| Bronze | Elétrico | 1,5 x 9 m Linha (Des) |
+| Cobre | Ácido | 1,5 x 9 m Linha (Des) |
+| Latão | Fogo | 1,5 x 9 m Linha (Des) |
+| Ouro | Fogo | 4,5 m Cone (Des) |
+| Prata | Gelo | 4,5 m Cone (Cons) |

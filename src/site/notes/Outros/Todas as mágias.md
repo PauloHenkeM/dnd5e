@@ -1,17 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/outros/todas-as-magias/"}
+{"dg-publish":true,"permalink":"/outros/todas-as-magias/","created":"2024-07-24T08:35:57.335-03:00"}
 ---
 
 
-- [[Mágias/Raio Doentio\|Raio Doentio]]
 - [[Mágias/Sono\|Sono]]
 - [[Mágias/Servo invisível\|Servo invisível]]
-- [[Mágias/Convocar familiar\|Convocar familiar]]
 - [[Mágias/Mísseis mágicos\|Mísseis mágicos]]
+- [[Mágias/Raio Doentio\|Raio Doentio]]
 - [[Mágias/Disco Flutuante de Tenser\|Disco Flutuante de Tenser]]
+- [[Mágias/Convocar familiar\|Convocar familiar]]
 
 { .block-language-dataview}
-
-___
-**Links para este site**  
-- [[Outros/Home\|Home]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/morador-de-rua/","tags":["Antecedentes","Morador_de_rua"]}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/morador-de-rua/","tags":["Antecedentes","Morador_de_rua"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 Você cresceu nas ruas, sozinho, órfão e pobre. Sem ninguém para cuidar de você, aprendeu a se virar sozinho, lutando por alimento e mantendo uma vigília constante contra outras almas desesperadas. Dormia em telhados e becos, exposto aos elementos, e suportou doenças sem remédios ou lugares de recuperação. Sobreviveu através da astúcia, força, velocidade, ou uma combinação de cada.

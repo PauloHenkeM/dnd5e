@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes Bárbaros"]}
+{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes Bárbaros"],"created":"2024-07-23T13:21:55.699-03:00"}
 ---
 
 

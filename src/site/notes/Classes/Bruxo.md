@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/bruxo/","tags":["Classes","Bruxo"]}
+{"dg-publish":true,"permalink":"/classes/bruxo/","tags":["Classes","Bruxo"],"created":"2024-07-23T13:25:18.145-03:00"}
 ---
 
 

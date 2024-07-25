@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/outros/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/outros/home/","tags":["gardenEntry"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
 # Personagens Vivos e Ativos
-| File                                                                                           | Timeline                                                 | Campanha          | Mestre          | Inicio        |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------- | --------------- | ------------- |
-| [[1.Campanhas/1° - Repouso do dragão/Mananas - Ficha - Nível 2\|Mananas - Ficha - Nível 2]] | [[1.Campanhas/1° - Repouso do dragão/Resumo\|Resumo]] | Repouso do dragão | Thais Fernandes | July 13, 2024 |
+| File                                                                                           | Timeline                                                 | Campanha          | Mestre          | Inicio     |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------- | --------------- | ---------- |
+| [[1.Campanhas/1° - Repouso do dragão/Mananas - Ficha - Nível 2\|Mananas - Ficha - Nível 2]] | [[1.Campanhas/1° - Repouso do dragão/Resumo\|Resumo]] | Repouso do dragão | Thais Fernandes | 13/07/2024 |
 
 { .block-language-dataview}
 
@@ -19,6 +19,3 @@ ___
 - [[Outros/Todos os personagens\|Todos os personagens]]
 - [[Outros/Todos os truques\|Todos os truques]]
 - [[Outros/Links úteis\|Links úteis]]
-
-
-___

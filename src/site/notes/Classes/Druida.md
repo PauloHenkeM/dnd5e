@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/druida/","tags":["Classes","Druida"]}
+{"dg-publish":true,"permalink":"/classes/druida/","tags":["Classes","Druida"],"created":"2024-07-23T13:35:06.733-03:00"}
 ---
 
 

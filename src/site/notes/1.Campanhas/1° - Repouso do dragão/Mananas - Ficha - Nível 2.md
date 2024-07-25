@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem","Alto_elfo"]}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem","Alto_elfo"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -146,5 +146,5 @@
 A carta falava de um observatório arcano construído em uma ilha próxima por magos há muito desaparecidos e dava a pista de uma poderosa magia escondida lá. Um pequeno mosteiro conhecido como Repouso do Dragão também se situa na ilha. A cuidadora do templo desse mosteiro, dedicado ao deus dragão Bahamut, que é patrono dos heróis e defensor da justiça, deve ter alguma informação sobre o observatório. A Anciã Runara pode colocá-lo no caminho para descobrir o conhecimento que seu amigo nunca encontrou.
 
 ## Antecedente
-**Sábio**
+[[Antecedentes e Personalidades/Sábio\|Sábio]]
 Seus pais identificaram seu talento mágico no início de sua longa vida élfica e conseguiram fazer com que você fosse aprendiz de um gentil [[Classes/Mago\|Mago]] na cidade de Nevenunca. Você se destacou em seus estudos e forjou amizades e rivalidades com outros aprendizes. Você sempre teve um talento especial para manejar forças chamativas e energéticas, e concentrou seu estudo na escola da evocação. Seu antecedente moldou seu personagem de maneiras importantes. Um segredo procurado por um colega motiva você. Suas proficiências em Arcanismo e História também refletem sua educação, estudando a natureza da magia e os grandes magos do passado que a exerciam. Depois de se formar em seu aprendizado, você e seus colegas seguiram caminhos separados para se concentrar em seus próprios estudos. Recentemente, você recebeu uma carta de um de seus colegas, apontando para uma fonte de conhecimento perdido. Logo após a chegada da carta, você recebeu uma notícia trágica: **seu amigo morreu em circunstâncias misteriosas.**
