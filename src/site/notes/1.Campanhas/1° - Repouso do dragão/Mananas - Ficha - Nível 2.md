@@ -5,7 +5,7 @@
 
 ![Mananas.png|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex 2] Informações
+> [!column|flex 2 no-t]
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
@@ -114,7 +114,6 @@
 >> 
 
 > [!column|fle 2]  Inventário
->
 >> #### Definido
 >> - Espada curta
 >> - Faca pequena
