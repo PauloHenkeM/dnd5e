@@ -5,7 +5,7 @@
 
 ![Mananas.png|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex 2 no-t]
+> [!column|2 no-t]
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
@@ -56,7 +56,7 @@
 
 > [!info] 13 Sabedoria Passiva (Percepção)
 
-> [!column|flex 2]
+> [!column|2 no-t]
 >> #### Classe de armadura
 >> 12
 >>
@@ -113,7 +113,8 @@
 >> [[Classes/Extras/Mago/Encantamento\|Encantamento]]
 >> 
 
-> [!column|fle 2]  Inventário
+## Inventário
+> [!column|no-t]
 >> #### Definido
 >> - Espada curta
 >> - Faca pequena
