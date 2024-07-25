@@ -25,5 +25,5 @@ Esta magia é um truque mágico simples que os novatos usam para praticar sua ma
 Se o jogador lançar esta magia múltiplas vezes, ele pode ter até 3 efeitos não instantâneos ativos ao mesmo tempo, e o jogador pode cancelar tal efeito usando uma ação.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

@@ -23,6 +23,5 @@ Ao acertar uma criatura com um ataque, você pode instantaneamente transportar o
 | 4º        | Escudo de Fogo, Muralha de Fogo |
 | 5º        | Coluna de Chamas, Santificar    |
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Bruxo\|Bruxo]]
-- [[Outros/Home\|Home]]

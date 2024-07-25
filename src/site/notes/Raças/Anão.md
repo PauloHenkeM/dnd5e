@@ -58,3 +58,7 @@
 	- 5º nível: você pode conjurar a magia invisibilidade em si mesmo uma vez com esse traço.
 	
 		Você não precisa de componentes materiais para nenhuma das magias e não pode conjurá-las enquanto estiver sob luz solar direta, apesar da luz solar não ter efeito sobre elas após serem conjuradas. Você recupera a capacidade de conjurar essas magias com esse traço quando termina um descanso longo. Sua habilidade de conjuração para essas magias é Inteligência.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

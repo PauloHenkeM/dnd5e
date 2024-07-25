@@ -37,5 +37,5 @@ Esta magia não possui efeitos adicionais em níveis superiores.
 - Use o familiar com cuidado, pois sua ausência pode ser um inconveniente até que o jogador possa conjurá-lo novamente.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

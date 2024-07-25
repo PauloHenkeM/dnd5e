@@ -29,6 +29,5 @@ Uma vez por turno, quando acertar um ataque com uma arma, você pode adicionar 1
 ## 17º Nível – Duplicidade Aprimorada
 Você ganha a habilidade de voar com o mesmo deslocamento que seu deslocamento em terra, exceto em lugares subterrâneos ou em espaços fechados.
 ___
-**Links para esta página**  
+**Links para esse página**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

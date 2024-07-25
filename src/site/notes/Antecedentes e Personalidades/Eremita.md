@@ -82,4 +82,3 @@ Este antecedente Eremita assume um tipo contemplativo de reclusão que permite e
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

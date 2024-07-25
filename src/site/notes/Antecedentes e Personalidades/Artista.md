@@ -83,4 +83,3 @@ Um gladiador é um artista tanto quanto um menestrel ou artista de circo, treina
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

@@ -29,5 +29,5 @@ Quando o jogador conjura essa magia usando um espaço de magia de 2º nível ou 
 - Use essa magia com cuidado, pois ela pode ser perigosa para seus aliados se eles estiverem dentro da área de efeito.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

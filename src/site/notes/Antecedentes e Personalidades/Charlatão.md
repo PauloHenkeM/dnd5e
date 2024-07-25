@@ -76,4 +76,3 @@ Charlatães são personagens coloridos que escondem seu eu verdadeiro por trás 
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

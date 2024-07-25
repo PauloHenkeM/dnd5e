@@ -29,6 +29,5 @@ Adicione seu modificador de Sabedoria às rolagens de dano dos truques de cléri
 ## 17º Nível – Coroa de Luz
 Você pode usar sua reação para criar uma aura de luz solar que dura 1 minuto ou até ser dispersada por você com uma ação. A aura emite claridade em um raio de 18 metros e penumbra em 9 metros além disso. Inimigos dentro da claridade têm desvantagem em testes de resistência contra magias que causam dano de fogo ou radiante.
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

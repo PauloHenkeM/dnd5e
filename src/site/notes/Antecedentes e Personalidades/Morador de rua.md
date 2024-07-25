@@ -64,4 +64,3 @@ Moradores de rua são moldados pela vida de pobreza, para o bem e para o mal. El
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

@@ -51,3 +51,7 @@
 ## Tiefling língua do diabo
 #Tiefling_Língua_do_Diabo 
 - Você conhece o truque Zombaria Viciosa. Quando você alcança o 3° nível, pode conjurar a magia Enfeitiçar Pessoa como uma magia de 2° nível uma vez com esse traço. Quando você alcança o 5° nível, pode conjurar a magia Cativar uma vez com esse traço. Você deve terminar um descanso longo para conjurar essas magias novamente com esse traço. Sua habilidade de conjuração para elas é Carisma. Esse traço substitui o traço Legado Infernal.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

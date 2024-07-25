@@ -28,3 +28,7 @@
 - **Ajuste de Atributo:** +1 em dois atributos à sua escolha.  
 - **Perícias:** Adquire proficiência em uma perícia de sua escolha.  
 - **Talentos:** Ganha um talento de sua escolha.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

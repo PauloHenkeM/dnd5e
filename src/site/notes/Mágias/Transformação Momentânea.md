@@ -33,5 +33,5 @@ Esta magia não possui efeitos adicionais em níveis superiores.
 - A eficácia da magia depende da habilidade da criatura em discernir ilusões, então estar atento à CD de resistência à magia pode ser crucial para manter o disfarce.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

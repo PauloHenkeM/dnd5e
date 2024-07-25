@@ -29,6 +29,5 @@ Uma vez por turno, quando acertar um ataque com uma arma, você pode adicionar 1
 ## 17º Nível – Cura Suprema
 Quando rolar dados para restaurar pontos de vida, você usa o valor máximo possível da rolagem. Por exemplo, se fosse rolar 2d6, você curaria 12 pontos de vida.
 ___
-**Links para esta página**  
+**Links para esse página**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

@@ -14,3 +14,7 @@
 - [Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials)
 - [Structure of a Query - Dataview](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)
 - [Biblioteca Élfica](https://bibliotecaelfica.org/)
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

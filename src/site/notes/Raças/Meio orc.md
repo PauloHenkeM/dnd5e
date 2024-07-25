@@ -34,3 +34,7 @@
 
 > **Visão no Escuro**
 > Trata escuridão a 18m (12 quadrados) como penumbra e penumbra como claridade.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

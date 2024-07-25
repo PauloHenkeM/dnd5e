@@ -23,6 +23,5 @@ Com uma ação, escolha uma criatura que possa ver até 18 metros. Ela faz um te
 | 4º    | Dominar Animais, Invisibilidade Maior |
 | 5º    | Dominar Pessoa, Similaridade          |
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Bruxo\|Bruxo]]
-- [[Outros/Home\|Home]]

@@ -49,3 +49,7 @@
 - **Visão no Escuro:** Trata escuridão a 18m (12 quadrados) como penumbra e penumbra como claridade. Vê no escuro em tons de vermelho.  
 - **Resistência a Fogo:** Resistência a dano de fogo.  
 - **Alcançar as Chamas:** Conhece o truque Criar Chamas. No 3° nível, você pode conjurar a magia Mãos Flamejantes uma vez com esse traço como uma magia de 1° nível, sem necessidade de componentes materiais. Você recupera a habilidade de conjurar dessa forma quando termina um descanso longo. Sua habilidade de conjuração para essa magia é Constituição.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

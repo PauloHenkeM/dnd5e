@@ -33,6 +33,7 @@ Quando o jogador conjura essa magia usando um espaço de magia de 2º nível ou 
 - Essa magia pode ser usada para incapacitar vários inimigos de uma só vez.
 - É uma ótima maneira de controlar o campo de batalha e proteger seus aliados.
 - Use essa magia com cuidado, pois ela pode afetar seus amigos e aliados se eles estiverem dentro da área de efeito.
+
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

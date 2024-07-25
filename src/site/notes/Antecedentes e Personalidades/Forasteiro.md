@@ -82,4 +82,3 @@ Muitas vezes considerado rude e grosseiro entre as pessoas civilizadas, forastei
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

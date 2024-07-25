@@ -29,5 +29,5 @@ O jogador pode mover a mão 9 metros (6 quadrados) cada vez que a usar.
 A mão não pode atacar, ativar itens mágicos ou carregar mais do que 4,5kg. 
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

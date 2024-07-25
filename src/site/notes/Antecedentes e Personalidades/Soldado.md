@@ -85,4 +85,3 @@ A experiência de guerra e a rígida disciplina militar moldam profundamente a p
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

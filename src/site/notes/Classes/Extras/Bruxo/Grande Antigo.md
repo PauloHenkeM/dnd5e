@@ -23,6 +23,5 @@ Com uma ação, toque um humanoide incapacitado. Ele fica encantado por você at
 | 4º        | Dominar Animais, Tentáculos Negros de Evard |
 | 5º        | Dominar Pessoa, Telecinesia         |
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Bruxo\|Bruxo]]
-- [[Outros/Home\|Home]]

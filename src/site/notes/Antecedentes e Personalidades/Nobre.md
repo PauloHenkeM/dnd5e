@@ -84,4 +84,3 @@ Se o seu personagem tem um antecedente Nobre, você pode selecionar essa habilid
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

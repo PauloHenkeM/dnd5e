@@ -156,3 +156,6 @@ ___
 | 18°   | +6           | Segredos Mágicos                                     | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19°   | +6           | Incremento no Valor de Habilidade                    | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20°   | +6           | Inspiração Superior                                  | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+___
+**Links para esse site**
+- [[Classes/1.Resumo\|1.Resumo]]

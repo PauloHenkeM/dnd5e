@@ -34,5 +34,5 @@ Esta magia não possui efeitos adicionais em níveis superiores.
 - Caso o disco seja perdido de vista devido a obstáculos, a magia se encerra, então o jogador deve estar atento às suas condições de movimentação e ao alcance do disco.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

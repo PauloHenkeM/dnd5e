@@ -116,3 +116,6 @@ ___
 | 18º | +6 | 6 | +4 |
 | 19º | +6 | 6 | +4 |
 | 20º | +6 | Infin. | +4 |
+___
+**Links para esse site**
+- [[Classes/1.Resumo\|1.Resumo]]

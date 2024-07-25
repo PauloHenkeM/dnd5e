@@ -33,6 +33,5 @@ Você recebe vislumbres de eventos recentes. Pode meditar por um número de minu
 - **Ler Área:** Você pode descobrir eventos recentes em uma área de até 15 m cúbicos, ocorridos nos últimos dias iguais ao seu modificador de Sabedoria. Cada minuto meditando revela um evento significativo, começando pelo mais recente. Eventos significativos geralmente incluem emoções poderosas, como batalhas e traições, casamentos e assassinatos, nascimentos e funerais, e também podem incluir eventos mundanos relevantes para sua situação atual.
 
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

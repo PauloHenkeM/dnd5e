@@ -28,3 +28,7 @@
 
 > **Idiomas**
 > Pode falar, ler e escrever Comum, Aarakocra e Auran.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

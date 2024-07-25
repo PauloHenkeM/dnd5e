@@ -102,4 +102,3 @@ Em vez de proficiência com ferramentas de artesão, você pode ser proficiente 
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

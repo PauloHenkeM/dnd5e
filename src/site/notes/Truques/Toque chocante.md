@@ -18,5 +18,5 @@ Relâmpagos saem das mãos do jogador e tentam eletrocutar uma criatura que ele 
 O dano da magia aumenta para 2d8 no 5º nível, 3d8 no 11º nível e 4d8 no 17º nível.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

@@ -29,6 +29,5 @@ Uma vez por turno, quando acertar um ataque com uma arma, você pode adicionar 1
 ## 17º Nível – Avatar da Guerra
 Você ganha resistência a dano de concussão, cortante e perfurante de armas não mágicas.
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

@@ -39,5 +39,5 @@ Esta magia não possui efeitos adicionais em níveis superiores.
 - Como o servo não pode se mover por distâncias maiores do que 18 metros do jogador, é melhor usá-lo para tarefas que estejam dentro desse alcance.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

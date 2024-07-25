@@ -18,5 +18,5 @@ Uma luz fria branco-azulada em forma de viga golpeia uma criatura dentro do alca
 O dano da magia aumenta para 2d8 no 5º nível, 3d8 no 11° nível e 4d8 no 17º nível.
 
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

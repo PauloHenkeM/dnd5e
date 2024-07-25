@@ -15,6 +15,5 @@ Quando usar a ação Atacar, você pode atacar duas vezes em vez de uma.
 ## 14º Nível – Combatente Mágico  
 Ao conjurar uma magia de bardo, você pode fazer um ataque com sua arma como uma ação bônus.
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Bardo\|Bardo]]
-- [[Outros/Home\|Home]]

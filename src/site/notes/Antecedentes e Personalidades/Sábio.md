@@ -86,4 +86,3 @@ Sábios são definidos por sua dedicação ao estudo e ao conhecimento. Eles val
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

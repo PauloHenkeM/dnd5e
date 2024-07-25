@@ -28,6 +28,5 @@ Uma vez por turno, quando acertar um ataque com uma arma, você pode adicionar 1
 ## 17º Nível – Duplicidade Aprimorada
 Quando usar Invocar Duplicidade, você pode criar até 4 cópias de você. Com uma ação bônus em seu turno, você pode mover essas cópias 9 metros, até um máximo de 36 metros de você.
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Clérigo\|Clérigo]]
-- [[Outros/Home\|Home]]

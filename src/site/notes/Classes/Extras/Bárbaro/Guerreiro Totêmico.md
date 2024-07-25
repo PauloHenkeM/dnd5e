@@ -25,6 +25,5 @@ Você pode escolher um dos seguintes aspectos:
 - **Águia:** Quando em fúria, você tem deslocamento de voo igual ao seu deslocamento em terra. Você cai se terminar o turno no ar ou não tiver algo que o sustente.
 - **Lobo:** Quando em fúria, você pode usar uma ação bônus para derrubar uma criatura Grande ou menor que você acertar com um ataque corpo a corpo.
 ___
-**Links para esta página**
+**Links para esse site**
 - [[Classes/Bárbaro\|Bárbaro]]
-- [[Outros/Home\|Home]]

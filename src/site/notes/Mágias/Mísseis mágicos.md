@@ -23,6 +23,7 @@ diversos.
 Quando o jogador lança esta magia usando o
 espaço de uma magia de 2º nível ou maior, a magia cria um dardo a
 mais para cada nível acima do 1º. 
+
 ___
-**Links para esta página**  
+**Links para este site**  
 - [[Outros/Home\|Home]]

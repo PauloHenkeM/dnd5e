@@ -46,3 +46,7 @@
 | Latão      | Fogo             | 1,5 x 9 m Linha (Des) |
 | Ouro       | Fogo             | 4,5 m Cone (Des)      |
 | Prata      | Gelo             | 4,5 m Cone (Cons)     |
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]

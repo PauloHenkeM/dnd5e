@@ -80,4 +80,3 @@ Um herói popular é uma pessoa comum, para melhor ou para pior. Muitos heróis 
 ___
 **Links para esse site**
 - [[Antecedentes e Personalidades/1.Explicação\|1.Explicação]]
-- [[Outros/Home\|Home]]

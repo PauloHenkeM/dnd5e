@@ -15,6 +15,5 @@ Escolha uma criatura até 9 m de você. Se ela puder vê-lo ou ouvi-lo, deve faz
 #### 14º Nível – Retaliação
 Quando sofrer dano de uma criatura a até 1,5 m de você, você pode usar sua reação para fazer um ataque corpo a corpo contra aquela criatura.
 ___
-**Links para esta página**
+**Links para esse site**
 - [[Classes/Bárbaro\|Bárbaro]]
-- [[Outros/Home\|Home]]

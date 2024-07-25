@@ -15,6 +15,5 @@ Escolha duas magias de qualquer classe, incluindo esta, e adicione-as às suas m
 ## 14º Nível – Habilidade Inigualável  
 Quando fizer um teste de habilidade, você pode gastar um uso de Inspiração do Bardo. Role o dado de Inspiração e adicione o valor ao seu teste. Você pode optar por fazer isso depois da rolagem, mas antes de saber se a rolagem obteve sucesso ou não
 ___
-**Links para esta página**  
+**Links para esse site**  
 - [[Classes/Bardo\|Bardo]]
-- [[Outros/Home\|Home]]

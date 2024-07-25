@@ -50,3 +50,7 @@
 - **Idade:** Adulto aos 45. Vivem até 250.  
 - **Visão no Escuro:** 36m.  
 - **Camuflagem Rochosa:** Vantagem em testes de Destreza (Furtividade) feitos para se esconder em terreno rochoso.
+
+___
+**Links para este site**  
+- [[Outros/Home\|Home]]
