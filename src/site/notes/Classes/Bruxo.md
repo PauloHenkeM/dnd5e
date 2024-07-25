@@ -25,7 +25,8 @@ Você começa com o seguinte equipamento, além do concedido pelo seu antecedent
 - Corselete de couro, qualquer arma simples e duas adagas
 
 
->[!column|flex] Níveis
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°
 >> **Patrono Extraplanar**
 >> Para o pacto, escolha entre o [[Classes/Extras/Bruxo/Feérico\|Feérico]], [[Classes/Extras/Bruxo/Infernal\|Infernal]] ou [[Classes/Extras/Bruxo/Grande Antigo\|Grande Antigo]].

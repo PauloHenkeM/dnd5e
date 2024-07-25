@@ -25,7 +25,8 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 - Uma cimitarra ou (b) qualquer arma corpo a corpo simples
 - Corselete de couro, pacote do explorador e um foco druídico
 
->[!column|flex] Níveis
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°  
 >> **Druídico:**  
 >> Conhece Druídico, o idioma secreto dos druidas. Pode falar e deixar mensagens secretas. Você e outros que conhecerem este idioma podem automaticamente encontrar essas mensagens. Quem não souber, encontra com um teste bem-sucedido de Sabedoria (Percepção) CD 15, mas não conseguem decifrá-la sem usar magia.  

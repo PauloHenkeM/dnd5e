@@ -23,8 +23,9 @@ Você começa com o equipamento a seguir, além do equipamento do seu antecedent
 - **Arma Secundária:** (a) Duas machadinhas ou (b) qualquer arma simples
 - **Pacote de Aventureiro:** Um pacote do explorador
 - **Projéteis:** Quatro azagaias
-___
->[!column|flex] Níveis
+
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°
 >> **Fúria:** Ação bônus; não pode estar usando armadura pesada.
 >> - Vantagem em testes de Força e testes de resistência de Força.

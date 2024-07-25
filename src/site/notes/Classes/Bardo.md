@@ -24,7 +24,8 @@ Você começa com os seguintes equipamentos, além do concedido pelo seu anteced
 - Um alaúde ou (b) Qualquer outro instrumento musical  
 - Corselete de couro e uma adaga
 
->[!column|flex] Níveis
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°
 >> **Magias Conhecidas:** Ao ganhar um nível, você pode trocar uma magia que conhece por outra de qualquer nível que possa conjurar.
 >> 

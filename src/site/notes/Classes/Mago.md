@@ -24,7 +24,8 @@ Você começa com os seguintes equipamentos, em adição ao equipamento concedid
 - Pacote do estudioso ou (b) um pacote do explorador
 - Um grimório
 
->[!column|flex] Níveis
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°  
 >> **Grimório:**  
 >> Seu grimório contém seis magias de 1º nível da lista de mago à sua escolha.

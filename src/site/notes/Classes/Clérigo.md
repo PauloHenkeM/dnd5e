@@ -25,7 +25,8 @@ Você começa com os seguintes equipamentos, em adição ao equipamento concedid
 - Pacote de sacerdote ou (b) um pacote de explorador
 - Um escudo e um símbolo sagrado
 
->[!column|flex] Níveis
+# Níveis
+>[!column|flex no-t] Níveis
 >> [!info] 1°  
 >> **Preparando e Conjurando Magias:**  
 >> Ganha todos os usos com descanso longo. Você prepara magias da lista de clérigo, escolhendo um número de magias igual ao seu modificador de Sabedoria + seu nível de clérigo (mínimo de uma magia). Devem ser de níveis que você tenha espaços de magia. Pode trocar a lista de magias preparadas quando termina um descanso longo.
