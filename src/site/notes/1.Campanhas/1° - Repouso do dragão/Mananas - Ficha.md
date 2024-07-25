@@ -7,34 +7,35 @@
 
 ![Mananas.png|center|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex] Definições
+> [!column|flex|clean no-t]
+>> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
 >>  - #Alto_elfo 
 >>  - Médio
 >>  - Neuto e bom
 >>
->>  **Características**
+>> #### Caracteristicas
 >> - Visão no escuro
 >> - Ancestralidade Feérica 
 >> - Transe
 >> - Truque
 >> 
->> **Idiomas**
+>> #### Idiomas
 >> - Comum
 >> - Celestial
 >> - Dracônico
 >> - Anão
 >> - Élfico
 >
->> **Salvaguardas**
+>> #### Salvaguarda
 >> - [ ] +0 Força
 >> - [ ] +2 Destreza
 >> - [x] +5 Inteligência
 >> - [x] +3 Sabedoria
 >> - [ ] -1 Carisma
 >>
->> **Perícia**
+>> #### Pericia
 >> - [ ] +2 Acrobacia **(Destreza)**
 >> - [x] +5 Arcanismo **(Inteligência)**
 >> - [ ] +0 Atletismo **(Força)**
@@ -57,55 +58,24 @@
 ___
 > [!info] 13 Sabedoria Passiva (Percepção)
 
-> [!column|flex] Informações
->> [!caution] Classe de armadura
+> [!column|flex|clean no-t]
+>> #### Classe de armadura
 >> 12
->
->> [!caution] Iniciativa
+>>
+>> #### Iniciativa
 >> +2
->
->> [!caution] Deslocamento
+>>
+>> #### Deslocamento
 >> 9m
->
->> [!caution] Vida
+>>
+>> #### Vida
 >> 8
 >> 1d6
->
->> [!hint] Ataque
->> <=1,5m
->> **Salva guarda magia:** 13
->
->> [!hint] Acerto
->> 1d20 + 4
->> **Mágico:** 1d20 + 5
->
->> [!hint] Dano
->> 1d6 
->> **Espada curta:** 1d6+ 2
->
->> [!hint] Tradição Arcana
->> [[Classes/Extras/Mago/Encantamento\|Encantamento]]
->
->> [!cite] Salvaguarda de morte
+>> 
+>> #### Salvaguarda de morte
 >> - Sucesso 3
 >> - Falha 3 
->
->> [!cite] Magias
->> - [[Mágias/Mísseis mágicos\|Mísseis mágicos]] V.S
->> 	- 3d4 +1
->> - [[Mágias/Servo invisível\|Servo invisível]] V.S.M
->> 	- 1d10
->> - [[Mágias/Raio Doentio\|Raio Doentio]] V.S
->> 	- 2d8
->
->> [!cite] Truques
->> 1. [[Truques/Mãos mágicas\|Mãos mágicas]]
->> 2. [[Truques/Prestidigitação\|Prestidigitação]]
->> 3. [[Truques/Raio de gelo\|Raio de gelo]]
->> 4. [[Truques/Toque chocante\|Toque chocante]]
->
->
->> [!cite] Proficiências
+>> #### Proficiências
 >> **Bônus +2**
 >> - Salvaguardas
 >> - Perícias
@@ -114,11 +84,41 @@ ___
 >> 	- Bestas leves | Espadas longas
 >> 	- Bastões | Arcos curtos
 >> 	- Espadas curtas e fundas
+>
+>> #### Ataque
+>> <=1,5m
+>> **Salva guarda magia:** 13
+>>
+>> #### Acerto
+>> 1d20 + 4
+>> **Mágico:** 1d20 + 5
+>>
+>> #### Dano
+>> 1d6 
+>> **Espada curta:** 1d6+ 2
+>>
+>> #### Magias
+>> - [[Mágias/Mísseis mágicos\|Mísseis mágicos]] V.S
+>> 	- 3d4 +1
+>> - [[Mágias/Servo invisível\|Servo invisível]] V.S.M
+>> 	- 1d10
+>> - [[Mágias/Raio Doentio\|Raio Doentio]] V.S
+>> 	- 2d8
+>>
+>> #### Truques
+>> 1. [[Truques/Mãos mágicas\|Mãos mágicas]]
+>> 2. [[Truques/Prestidigitação\|Prestidigitação]]
+>> 3. [[Truques/Raio de gelo\|Raio de gelo]]
+>> 4. [[Truques/Toque chocante\|Toque chocante]]
+>>
+>> #### Tradição Arcana
+>> [[Classes/Extras/Mago/Encantamento\|Encantamento]]
+>> 
 
-___
-
-> [!column|flex] Inventário
->> [!summary] Definido
+## Inventário
+> [!column|flex|clear no-t] 
+>
+>> #### Definido
 >> - Espada curta
 >> - Faca pequena
 >> - Bolsa para componentes
@@ -133,12 +133,12 @@ ___
 >> - Conjunto de roupas comuns
 >> - Algibeira
 >
->> [!check] Campanha
+>> #### Campanha
 >> - Poções Vida 3
 >> - Poção saúde 1
 >> - Cristal Roxo 1
 >>
->> **Moedas**
+>> #### Moeda
 >> - PC: 
 >> - PE: 
 >> - PL: 

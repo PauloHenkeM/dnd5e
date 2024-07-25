@@ -3,10 +3,10 @@
 ---
 
 
-- [[Truques/Mãos mágicas\|Mãos mágicas]]
-- [[Truques/Prestidigitação\|Prestidigitação]]
-- [[Truques/Raio de gelo\|Raio de gelo]]
 - [[Truques/Toque chocante\|Toque chocante]]
+- [[Truques/Raio de gelo\|Raio de gelo]]
+- [[Truques/Prestidigitação\|Prestidigitação]]
+- [[Truques/Mãos mágicas\|Mãos mágicas]]
 
 { .block-language-dataview}
 
