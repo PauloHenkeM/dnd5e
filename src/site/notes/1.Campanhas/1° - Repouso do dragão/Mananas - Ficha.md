@@ -5,9 +5,9 @@
 
 # Nível: 2 | Mananas
 
-![Mananas.png|center|250](/img/user/Arquivos/Mananas.png)
+![Mananas.png|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex] Informações
+> [!column|flex 2] Informações
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
@@ -58,7 +58,7 @@
 ___
 > [!info] 13 Sabedoria Passiva (Percepção)
 
-> [!column|flex| no-t]
+> [!column|flex 2]
 >> #### Classe de armadura
 >> 12
 >>
@@ -116,7 +116,7 @@ ___
 >> 
 
 ## Inventário
-> [!column|flex|clear no-t] 
+> [!column|fle 2] 
 >
 >> #### Definido
 >> - Espada curta
