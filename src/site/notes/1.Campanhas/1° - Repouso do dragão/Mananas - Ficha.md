@@ -7,7 +7,7 @@
 
 ![Mananas.png|center|250](/img/user/Arquivos/Mananas.png)
 
-> [!column|flex| no-t]
+> [!column|flex] Informações
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
