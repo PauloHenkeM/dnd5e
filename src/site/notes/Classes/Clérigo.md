@@ -19,10 +19,10 @@
 
 # Equipamento
 Você começa com os seguintes equipamentos, em adição ao equipamento concedido pelo seu antecedente:
-- Uma maça ou (b) um machado de batalha (se proficiente)
-- Armadura de escamas, (b) armadura de couro, ou (c) cota de malha (se proficiente)
-- Uma besta leve e 20 virotes ou (b) uma arma simples
-- Pacote de sacerdote ou (b) um pacote de explorador
+- Uma maça ou um machado de batalha (se proficiente)
+- Armadura de escamas, armadura de couro, ou cota de malha (se proficiente)
+- Uma besta leve e 20 virotes ou uma arma simples
+- Pacote de sacerdote ou um pacote de explorador
 - Um escudo e um símbolo sagrado
 
 # Níveis

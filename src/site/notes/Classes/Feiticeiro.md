@@ -21,9 +21,9 @@
 # Equipamento
 Você começa com os seguintes equipamentos, além do equipamento concedido pelo seu antecedente:
 
-- Uma besta leve e 20 virotes ou (b) qualquer arma simples
-- Uma bolsa de componentes ou (b) um foco arcano
-- Pacote de masmorra ou (b) um pacote do explorador
+- Uma besta leve e 20 virotes ou qualquer arma simples
+- Uma bolsa de componentes ou um foco arcano
+- Pacote de masmorra ou um pacote do explorador
 - Duas adagas
 
 # Níveis

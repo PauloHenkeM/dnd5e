@@ -21,8 +21,8 @@
 
 Você começa com os seguintes equipamentos, além do equipamento concedido pelo seu antecedente:
 
-- Um escudo de madeira ou (b) qualquer arma simples
-- Uma cimitarra ou (b) qualquer arma corpo a corpo simples
+- Um escudo de madeira ou qualquer arma simples
+- Uma cimitarra ou qualquer arma corpo a corpo simples
 - Corselete de couro, pacote do explorador e um foco druídico
 
 # Níveis

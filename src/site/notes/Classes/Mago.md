@@ -3,7 +3,7 @@
 ---
 
 
-![Mago.jpeg|left|300](/img/user/Arquivos/Mago.jpeg)
+![Mago.jpeg|left|250](/img/user/Arquivos/Mago.jpeg)
 
 # Proficiências
 - **Armaduras:** Nenhuma  
@@ -12,16 +12,16 @@
 - **Testes de Resistência:** Inteligência e Sabedoria  
 - **Perícias:** Escolha duas de Arcanismo, História, Intuição, Investigação, Medicina e Religião
 
-# Dado de Vida
+# Dados de Vida
 - **Dado de Vida:** d6  
 - **PV 1º nível:** 6 + modificador de Constituição  
 - **PV níveis posteriores:** 1d6 (ou 4) + modificador de Constituição
 
 # Equipamento
 Você começa com os seguintes equipamentos, em adição ao equipamento concedido pelo seu antecedente:
-- Um cajado ou (b) uma adaga
-- Uma bolsa de componentes ou (b) um foco arcano
-- Pacote do estudioso ou (b) um pacote do explorador
+- Um cajado ou uma adaga
+- Uma bolsa de componentes ou um foco arcano
+- Pacote do estudioso ou um pacote do explorador
 - Um grimório
 
 # Níveis

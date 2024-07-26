@@ -19,9 +19,9 @@
 
 # Equipamento
 Você começa com os seguintes equipamentos, além do concedido pelo seu antecedente:
-- Um florete, (b) Uma espada longa, ou (c) Qualquer arma simples  
-- Pacote do diplomata ou (b) Pacote do artista  
-- Um alaúde ou (b) Qualquer outro instrumento musical  
+- Um florete, Uma espada longa, ou Qualquer arma simples  
+- Pacote do diplomata ou Pacote do artista  
+- Um alaúde ou Qualquer outro instrumento musical  
 - Corselete de couro e uma adaga
 
 # Níveis

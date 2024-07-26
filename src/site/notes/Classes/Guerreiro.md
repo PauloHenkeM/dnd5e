@@ -22,10 +22,10 @@
 
 Você começa com os seguintes equipamentos, além do equipamento dado pelo seu antecedente:
 
-- Cota de malha ou (b) corselete de couro, arco longo e 20 flechas
-- Uma arma marcial e um escudo ou (b) duas armas marciais
-- Uma besta leve e 20 virotes ou (b) duas machadinhas
-- Um pacote de masmorra ou (b) um pacote do explorador
+- Cota de malha ou corselete de couro, arco longo e 20 flechas
+- Uma arma marcial e um escudo ou duas armas marciais
+- Uma besta leve e 20 virotes ou duas machadinhas
+- Um pacote de masmorra ou um pacote do explorador
 
 # Níveis
 >[!column|flex no-t] Níveis

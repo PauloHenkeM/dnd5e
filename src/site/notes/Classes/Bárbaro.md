@@ -19,8 +19,8 @@
 
 # Equipamento
 Você começa com o equipamento a seguir, além do equipamento do seu antecedente:
-- **Arma Corpo-a-Corpo:** (a) Um machado grande ou (b) qualquer arma marcial corpo-a-corpo
-- **Arma Secundária:** (a) Duas machadinhas ou (b) qualquer arma simples
+- **Arma Corpo-a-Corpo:** Um machado grande ou qualquer arma marcial corpo-a-corpo
+- **Arma Secundária:** Duas machadinhas ou qualquer arma simples
 - **Pacote de Aventureiro:** Um pacote do explorador
 - **Projéteis:** Quatro azagaias
 

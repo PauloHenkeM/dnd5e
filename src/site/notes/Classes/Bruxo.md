@@ -19,9 +19,9 @@
 
 # Equipamento
 Você começa com o seguinte equipamento, além do concedido pelo seu antecedente:
-- Uma besta leve e 20 virotes ou (b) Qualquer arma simples
-- Uma bolsa de componentes ou (b) Um foco arcano
-- Um pacote de estudioso ou (b) Um pacote de masmorra
+- Uma besta leve e 20 virotes ou Qualquer arma simples
+- Uma bolsa de componentes ou Um foco arcano
+- Um pacote de estudioso ou Um pacote de masmorra
 - Corselete de couro, qualquer arma simples e duas adagas
 
 

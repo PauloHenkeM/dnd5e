@@ -36,11 +36,11 @@ Cada falha adiciona um nível de [[Outros/Exaustão\|Exaustão]].
 
 **Membros do Grupo:** `INPUT[number:PartyMembers]`
 
-**Estilo de Vida:** `INPUT[inlineSelect(option(0, Wretched), option(1, Squalid), option(2, Poor), option(10, Modest), option(20, Comfortable), option(40, Wealthy), option(100, Aristocratic)):LifestyleCostSP]`
+**Estilo de Vida:** `INPUT[inlineSelect(option(0, Desprezível), option(1, Sórdido), option(2, Pobre), option(10, Modesto), option(20, Confortável), option(40, Rico), option(100, Aristocrático)):LifestyleCostSP]`
 
 **Incluir Refeições:** `INPUT[toggle:IncludeMeals]` `VIEW[round(({IncludeMeals} ? 1 : 0)*(({LifestyleCostSP}/10)*{PartyMembers})*round(({TravelDistance} * ({varMins}/(({BaseSpeed} / ({ExhaustionLevel} > 1 ? 2 : 1) + ({Encumbered} ? -10 : 0) + ({HorseshoesofSpeed} ? 30 : 0) + {AdditionalBonus}) / 10) * {SpeedMultiplier})) / 60 / {HoursPerDay}),1)]`gp.
 
-| Service | Cost Per Mile (cp.) | Total Cost gp.cp |
+| Serviço | Custo por Mile (cp.) | Custo total gp.cp |
 |-|-|-|
 | Carroça (entre cidades) | `INPUT[number:CoachCostPerM]` | `VIEW[round({TravelDistance}*({CoachCostPerM}*({DangerLevel}+({FamiliarRoute} ? -0.5 : 0))*{PartyMembers}),0)/100+(({IncludeMeals} ? 1 : 0)*(({LifestyleCostSP}/10)*{PartyMembers})*round(({TravelDistance} * ({varMins}/(({BaseSpeed} / ({ExhaustionLevel} > 1 ? 2 : 1) + ({Encumbered} ? -10 : 0) + ({HorseshoesofSpeed} ? 30 : 0) + {AdditionalBonus}) / 10) * {SpeedMultiplier})) / 60 / {HoursPerDay}))]`gp. |
 | Carroça (dentro da cidade)   | `INPUT[number:CoachCost]` | `VIEW[round(({CoachCost}*({DangerLevel}+({FamiliarRoute} ? -0.5 : 0))*{PartyMembers}),0)/100]`gp.          |

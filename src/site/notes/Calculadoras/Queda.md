@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/queda/","title":"Calculadora de Queda","created":"2024-07-25T10:09:38.676-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/queda/","title":"Calculadora de Queda","created":"2024-07-25T10:09:38.000-03:00"}
 ---
 
 
@@ -56,7 +56,7 @@ Falha = Fica caída.
 
 **Salvamento de Destreza:** `INPUT[number(class(nb-mb-css)):dex_save]`
 
-**DC:** `VIEW[round(sqrt(10*{fall_dmg}), 0)]`
+**CD:** `VIEW[round(sqrt(10*{fall_dmg}), 0)]`
 
 **Prosa?:** `VIEW[{dex_save} >= round(sqrt(10*{fall_dmg}), 0) ? "Não" : "Sim"]`
 

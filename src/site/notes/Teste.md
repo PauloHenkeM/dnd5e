@@ -4,6 +4,12 @@
 
 
 `dice: 2d6`
+
+
+`BUTTON[example-id]`
+
+
+`BUTTON[example-id]`
 ___
 **Links para esse site**
 - 
