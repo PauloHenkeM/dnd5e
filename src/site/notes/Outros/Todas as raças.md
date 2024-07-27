@@ -3,10 +3,10 @@
 ---
 
 
-- [[Raças/Tiefling\|Tiefling]]
 - [[Raças/Meio orc\|Meio orc]]
-- [[Raças/Meio Elfo\|Meio Elfo]]
+- [[Raças/Tiefling\|Tiefling]]
 - [[Raças/Humano\|Humano]]
+- [[Raças/Meio Elfo\|Meio Elfo]]
 - [[Raças/Halfling\|Halfling]]
 - [[Raças/Golias\|Golias]]
 - [[Raças/Gnomo\|Gnomo]]
