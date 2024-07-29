@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem","Alto_elfo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem"],"created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
->>  - #Alto_elfo 
+>>  - [[Raças/Elfo#Alfo elfo\|Alto elfo]] 
 >>  - Médio
 >>  - Neuto e bom
 >>

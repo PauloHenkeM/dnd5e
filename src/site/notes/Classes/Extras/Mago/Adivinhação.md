@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/mago/adivinhacao/","tags":["Sub-Classes","Mago"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/mago/adivinhacao/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 

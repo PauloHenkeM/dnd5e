@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/gnomo/","tags":["Raças Gnomo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/gnomo/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -30,13 +30,11 @@
 > Pode falar, ler e escrever Comum e Gnomo.
 
 ## Gnomo da floresta
-#Gnomo_da_floresta
 - **Atributo:** +1 em Destreza.  
 - **Ilusionista Natural:** Conhece o truque Ilusão Menor.  
 - **Falar com Feras Pequenas:** Pode comunicar ideias simples para feras pequenas ou menores.
 
 ## Gnomo da rocha
-#Gnomo_da_rocha
 - **Atributo:** +1 em Constituição.  
 - **Conhecimento do Artífice:** Adiciona dobro de proficiência para testes de História relacionados a itens mágicos, objetos alquímicos e tecnológicos.  
 - **Engenhoca:** Proficiente com Ferramentas de Engenhoqueiro. Com 10 po e uma hora de trabalho, você pode criar um dispositivo mecânico (CA 5, 1 PV) que funciona por até 24h ou até ser desmontado (recuperando os materiais). Você pode ter até três mecanismos ativos ao mesmo tempo. Ao criá-lo, escolha uma das seguintes funções:
@@ -45,7 +43,6 @@
 	- **Isqueiro:** Com uma ação, produz uma chama miniatura que pode ser usada para acender outras coisas.
 
 ## Gnomo das profundezas
-#Gnomo_das_profundezas
 - **Atributo:** +1 em Destreza.  
 - **Idade:** Adulto aos 45. Vivem até 250.  
 - **Visão no Escuro:** 36m.  

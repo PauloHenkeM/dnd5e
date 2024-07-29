@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/meio-elfo/","tags":["Raças Meio_Elfo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/meio-elfo/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -33,21 +33,16 @@
 > Pode falar, ler e escrever Comum, Élfico e mais um idioma.
 
 ## Descendência elfo da floresta
-#Descendência_elfo_da_floresta
 - **Parentesco:** Um meio-elfo com descendência de elfo da floresta pode escolher o treinamento Élfico com Arma, Pés Ligeiros ou Máscara da Natureza do elfo da floresta.
 
 ## Descendência elfo da lua
-#Descendência_elfo_da_lua
 - **Parentesco:** Um meio-elfo com descendência de elfo da lua pode escolher o Treinamento Élfico com Arma ou Truque do alto elfo.
 
 ## Descendência elfo da sol
-#Descendência_elfo_do_Sol
 - **Parentesco:** Um meio-elfo com descendência de elfo do sol pode escolher o Treinamento Élfico com Arma ou Truque do alto elfo.
 
 ## Descendência elfo da negro
-#Descendência_negro #Drow
 - **Parentesco:** Um meio-elfo com descendência drow pode escolher a Magia Drow do drow.
 
 ## Descendência elfo da aquático
-#Descendência_elfo_aquático
 - **Parentesco:** Um meio-elfo com descendência de elfo aquático pode escolher um deslocamento de natação de 9 metros.

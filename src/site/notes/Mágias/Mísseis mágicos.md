@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magias/misseis-magicos/","tags":["Mágias"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/magias/misseis-magicos/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 _1º Nível Evocação_

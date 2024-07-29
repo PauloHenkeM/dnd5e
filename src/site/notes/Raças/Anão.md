@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/anao/","tags":["Raças Anão"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/anao/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 ![Anão.webp|left|320](/img/user/Arquivos/An%C3%A3o.webp)
@@ -38,17 +38,14 @@
 > Pode falar, ler e escrever Comum e Anão.
 
 ## Anão da colina
-#Anão_da_colina
 - **Ajuste de Atributo:** +1 em Sabedoria.  
 - **Resistência dos Anões:** +1 de PV por nível.
 
 ## Anão da montanha
-#Anão_da_montanha
 - **Ajuste de Atributo:** +2 em Força.  
 - **Treino em Armaduras dos Anões:** Proficiência em armaduras leves e médias.
 
 ## Anão cinzentos e Duergar
-#Anão_cinzentos #Duergar
 - **Ajuste de Atributo:** +1 em Força.  
 - **Treino em Armaduras dos Anões:** Proficiência em armaduras leves e médias.  
 - **Visão no Escuro Superior:** Visão no escuro tem um raio de 36 metros.  

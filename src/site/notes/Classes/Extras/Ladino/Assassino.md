@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ladino/assassino/","tags":["Sub-Classes","Ladino"],"created":"2024-07-26T08:13:35.137-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ladino/assassino/","created":"2024-07-26T08:13:35.137-03:00"}
 ---
 
 

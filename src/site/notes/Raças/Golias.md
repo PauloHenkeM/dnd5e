@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/golias/","tags":["Raças Golias"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/golias/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 

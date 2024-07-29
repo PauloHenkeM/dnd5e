@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magias/servo-invisivel/","tags":["Mágias"],"created":"2024-07-23T22:59:58.891-03:00"}
+{"dg-publish":true,"permalink":"/magias/servo-invisivel/","created":"2024-07-23T22:59:58.891-03:00"}
 ---
 
 
@@ -7,8 +7,7 @@ _1ª Nível conjuração (ritual)_
 
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 18 metros (12 quadrados)
-- **Componentes:** V, G, M (um pedaço de barbante e um pouco de 
-madeira)
+- **Componentes:** V, G, M (um pedaço de barbante e um pouco de madeira)
 
 - **Duração:** 1 hora
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/eremita/","tags":["Antecedentes Eremita"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/eremita/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 Você viveu em reclusão – seja em uma comunidade protegida, como um mosteiro, ou totalmente sozinho – durante uma parte significativa de sua vida. Em seu tempo afastado do clamor da sociedade, você encontrou silêncio, solidão, e talvez algumas das respostas que procurava.

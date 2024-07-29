@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/paladino/ancioes/","tags":["Sub-Classes","Paladino"],"created":"2024-07-26T08:48:18.706-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/paladino/ancioes/","created":"2024-07-26T08:48:18.706-03:00"}
 ---
 
 

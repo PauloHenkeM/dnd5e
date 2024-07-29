@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/draconato/","tags":["Raças Draconato"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/draconato/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 ![Draconato.webp|left|300](/img/user/Arquivos/Draconato.webp)
@@ -32,7 +32,6 @@
 > Pode falar, ler e escrever Comum e Dracônico.
 
 ## Ancestral dracônico  
-#Ancestral_dracônico
 
 | Dragão | Tipo de Dano | Sopro |
 | - | -| - |

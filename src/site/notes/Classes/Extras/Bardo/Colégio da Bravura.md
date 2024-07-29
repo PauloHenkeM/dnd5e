@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/bardo/colegio-da-bravura/","tags":["Sub-Classes Bardo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/bardo/colegio-da-bravura/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
-
-![[Bardo-Colégio da Bravura.webp\|left]]
 
 ## 3º Nível – Proficiência Bônus e Inspiração de Combate
 Você ganha proficiência em armaduras médias, escudos e armas marciais.  

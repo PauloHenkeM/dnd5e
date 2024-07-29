@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/truques/toque-chocante/","tags":["Truques"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/truques/toque-chocante/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 

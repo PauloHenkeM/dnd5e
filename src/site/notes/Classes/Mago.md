@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/mago/","tags":["Classes","Mago"],"created":"2024-07-23T13:36:15.068-03:00"}
+{"dg-publish":true,"permalink":"/classes/mago/","created":"2024-07-23T13:36:15.068-03:00"}
 ---
 
 

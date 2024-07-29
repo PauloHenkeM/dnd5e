@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/humano/","tags":["Raças Humano"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/humano/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -24,7 +24,6 @@
 > Um humano pode falar, ler e escrever Comum e um outro idioma adicional à escolha do jogador.
 
 ## Traços raciais alternativos
-#Traços_raciais_alternativos
 - **Ajuste de Atributo:** +1 em dois atributos à sua escolha.  
 - **Perícias:** Adquire proficiência em uma perícia de sua escolha.  
 - **Talentos:** Ganha um talento de sua escolha.

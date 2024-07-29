@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/clerigo/enganacao-c/","tags":["Sub-Classes Clérigo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/clerigo/enganacao-c/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 

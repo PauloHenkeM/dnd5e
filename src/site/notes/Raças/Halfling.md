@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/halfling/","tags":["Raças Halfling"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/halfling/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -33,16 +33,13 @@
 > Pode falar, ler e escrever Comum e Halfling.
 
 ## Robusto
-#Robusto
 **Atributo:** +1 em Constituição.  
 **Resiliência:** Vantagem em testes de resistência contra veneno e tem resistência contra dano venenoso.
 
 ## Pés leves
-#Pés_Leves
 **Atributo:** +1 em Carisma.  
 **Furtividade Natural:** Pode tentar se esconder mesmo quando possui apenas a cobertura de uma criatura que seja, no mínimo, uma categoria de tamanho maior que a sua.
 
 ## Fantasma
-#Fantasma
 **Atributo:** +1 em Sabedoria.  
 **Dialeto Silêncio:** Falar telepaticamente com qualquer criatura a até 9 metros de você. A criatura compreende você apenas se ambos partilharem um idioma. Você pode falar telepaticamente dessa forma apenas com uma criatura por vez.

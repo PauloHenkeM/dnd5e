@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/elfo/","tags":["Raças Elfo"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/elfo/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -36,14 +36,12 @@
 > Pode falar, ler e escrever Comum e Élfico.
 
 ## Alfo elfo
-#Alto_Elfo
 - **Ajuste de Atributo:** +1 em Inteligência.  
 - **Treinamento em Armas Élficas:** Proficiência em Espada Longa, Espada Curta, Arco Longo e Arco Curto.  
 - **Truque:** Conhece um truque da lista de truques do mago. A Inteligência é o atributo usado para conjurar este truque.  
 - **Idioma Adicional:** Pode falar, ler e escrever um idioma adicional de sua escolha.
 
 ## Elfo da floresta
-#Elfo_Da_Floresta
 - **Ajuste de Atributo:** +1 em Sabedoria.  
 - **Treinamento em Armas Élficas:** Proficiência em Espada Longa, Espada Curta, Arco Longo e Arco Curto.  
 - **Pés Ligeiros:** O deslocamento aumenta para 10,5m (7 quadrados).  
@@ -51,8 +49,7 @@
 { #59db96}
 
 
-## Elfo negro
-#Elfo_Negro (Drow)
+## Elfo negro (Droe)
 - **Ajuste de Atributo:** +1 em Carisma.  
 - **Sensibilidade à Luz Solar:** Desvantagem nas jogadas de ataque e testes de Sabedoria (Percepção) quando estiver diretamente na luz solar.  
 - **Visão no Escuro Superior:** Visão no escuro estendida para 36m (24 quadrados).  

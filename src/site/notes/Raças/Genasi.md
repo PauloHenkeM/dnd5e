@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/racas/genasi/","tags":["Raças Genasi"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/racas/genasi/","created":"2024-07-23T08:29:11.000-03:00"}
 ---
 
 
@@ -24,7 +24,6 @@
 > Pode falar, ler e escrever Comum e Primordial.
 
 ## Genasi da água
-#Genasi_da_água
 - **Ajuste de Atributos:** +1 em Sabedoria.  
 - **Resistência a Ácido:** Você tem resistência a dano de ácido.  
 - **Anfíbio:** Respira ar e água.  
@@ -32,19 +31,16 @@
 - **Chamas das Ondas:** Você conhece o truque Moldar Água. No 3° nível, você pode conjurar a magia Criar ou Destruir Água uma vez com esse traço como uma magia de 2° nível, sem necessidade de componentes materiais. Você recupera a habilidade de conjurar dessa forma quando termina um descanso longo. Sua habilidade de conjuração para essa magia é Constituição.
 
 ## Genasi da terra
-#Genasi_da_terra
 - **Ajuste de Atributos:** +1 em Força.  
 - **Caminhada Terrestre:** Pode se mover através de terreno difícil feito de terra ou pedra sem gastar movimento extra.  
 - **Mesclar-se às Rochas:** Você pode conjurar a magia Passos Sem Pegadas uma vez com esse traço, sem necessidade de componentes materiais. Você recupera a habilidade de conjurar dessa forma quando termina um descanso longo. Sua habilidade de conjuração para essa magia é Constituição.
 
 ## Genasi do ar
-#Genasi_do_Ar
 - **Ajuste de Atributos:** +1 em Destreza.  
 - **Fôlego Interminável:** Pode prender seu fôlego indefinidamente enquanto não estiver incapacitado.  
 - **Misturar-se ao Vento:** Você pode conjurar a magia Levitação uma vez com esse traço, sem necessidade de componentes materiais. Você recupera a habilidade de conjurar dessa forma quando termina um descanso longo. Sua habilidade de conjuração para essa magia é Constituição.
 
 ## Genasi do fogo
-#Genasi_do_fogo
 - **Ajuste de Atributos:** +1 em Inteligência.  
 - **Visão no Escuro:** Trata escuridão a 18m (12 quadrados) como penumbra e penumbra como claridade. Vê no escuro em tons de vermelho.  
 - **Resistência a Fogo:** Resistência a dano de fogo.  
