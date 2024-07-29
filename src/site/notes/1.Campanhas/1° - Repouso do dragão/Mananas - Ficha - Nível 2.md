@@ -96,18 +96,18 @@
 >> **Espada curta:** 1d6+ 2
 >>
 >> #### Magias
->> - [[Mísseis mágicos\|Mísseis mágicos]] V.S
+>> - [[Mágias/Nível 1°#Mísseis Mágicos\|Mísseis mágico]] V.S
 >> 	- 3d4 +1
->> - [[Servo invisível\|Servo invisível]] V.S.M
+>> - [[Mágias/Nível 1°#Servo Invisível\|Servo Invisível]] V.S.M
 >> 	- 1d10
->> - [[Raio Doentio\|Raio Doentio]] V.S
+>> - [[Mágias/Nível 1°#Raio Doentio\|Raio Doentio]] V.S
 >> 	- 2d8
 >>
 >> #### Truques
->> 1. [[Truques/Mãos mágicas\|Mãos mágicas]]
->> 2. [[Truques/Prestidigitação\|Prestidigitação]]
->> 3. [[Truques/Raio de gelo\|Raio de gelo]]
->> 4. [[Truques/Toque chocante\|Toque chocante]]
+>> 1. [[Outros/Truques#Mãos Mágicas\|Mãos Mágicas]]
+>> 2. [[Outros/Truques#Prestidigitação\|Prestidigitação]]
+>> 3. [[Outros/Truques#Raio de Gelo\|Raio de gelo]]
+>> 4. [[Outros/Truques#Toque Chocante\|Toque chocante]]
 >>
 >> #### Tradição Arcana
 >> [[Classes/Extras/Mago/Encantamento\|Encantamento]]

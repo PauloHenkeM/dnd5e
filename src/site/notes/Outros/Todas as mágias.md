@@ -3,5 +3,7 @@
 ---
 
 
+- [[Mágias/Nível 1°\|Nível 1°]]
+- [[Mágias/Nível 2°\|Nível 2°]]
 
 { .block-language-dataview}
