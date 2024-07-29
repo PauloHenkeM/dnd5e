@@ -5,10 +5,10 @@
 
 - [[Raças/AArakocra\|AArakocra]]
 - [[Raças/Anão\|Anão]]
-- [[Raças/Draconato\|Draconato]]
 - [[Raças/Elfo\|Elfo]]
-- [[Raças/Genasi\|Genasi]]
+- [[Raças/Draconato\|Draconato]]
 - [[Raças/Gnomo\|Gnomo]]
+- [[Raças/Genasi\|Genasi]]
 - [[Raças/Golias\|Golias]]
 - [[Raças/Halfling\|Halfling]]
 - [[Raças/Humano\|Humano]]
