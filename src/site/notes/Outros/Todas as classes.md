@@ -5,15 +5,15 @@
 
 - [[Classes/Ranger\|Ranger]]
 - [[Classes/Paladino\|Paladino]]
-- [[Classes/Monge\|Monge]]
 - [[Classes/Mago\|Mago]]
+- [[Classes/Monge\|Monge]]
 - [[Classes/Ladino\|Ladino]]
 - [[Classes/Guerreiro\|Guerreiro]]
 - [[Classes/Feiticeiro\|Feiticeiro]]
 - [[Classes/Druida\|Druida]]
 - [[Classes/Clérigo\|Clérigo]]
-- [[Classes/Bruxo\|Bruxo]]
 - [[Classes/Bárbaro\|Bárbaro]]
+- [[Classes/Bruxo\|Bruxo]]
 - [[Classes/Bardo\|Bardo]]
 
 { .block-language-dataview}

@@ -6,14 +6,14 @@
 - [[Raças/AArakocra\|AArakocra]]
 - [[Raças/Anão\|Anão]]
 - [[Raças/Elfo\|Elfo]]
+- [[Raças/Genasi\|Genasi]]
 - [[Raças/Draconato\|Draconato]]
 - [[Raças/Gnomo\|Gnomo]]
-- [[Raças/Genasi\|Genasi]]
-- [[Raças/Golias\|Golias]]
-- [[Raças/Halfling\|Halfling]]
-- [[Raças/Humano\|Humano]]
 - [[Raças/Meio Elfo\|Meio Elfo]]
+- [[Raças/Golias\|Golias]]
 - [[Raças/Meio orc\|Meio orc]]
 - [[Raças/Tiefling\|Tiefling]]
+- [[Raças/Humano\|Humano]]
+- [[Raças/Halfling\|Halfling]]
 
 { .block-language-dataview}

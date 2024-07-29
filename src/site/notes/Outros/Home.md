@@ -17,5 +17,5 @@ ___
 - [[Outros/Todas as raças\|Todas as raças]]
 - [[Outros/Todos os antecedentes\|Todos os antecedentes]]
 - [[Outros/Todos os personagens\|Todos os personagens]]
-- [[Outros/Todos os truques\|Todos os truques]]
+- [[Outros/Truques\|Todos os truques]]
 - [[Outros/Links úteis\|Links úteis]]
