@@ -10,10 +10,10 @@
 - [[Raças/Genasi\|Genasi]]
 - [[Raças/Gnomo\|Gnomo]]
 - [[Raças/Golias\|Golias]]
-- [[Raças/Humano\|Humano]]
 - [[Raças/Halfling\|Halfling]]
+- [[Raças/Humano\|Humano]]
 - [[Raças/Meio Elfo\|Meio Elfo]]
-- [[Raças/Tiefling\|Tiefling]]
 - [[Raças/Meio orc\|Meio orc]]
+- [[Raças/Tiefling\|Tiefling]]
 
 { .block-language-dataview}

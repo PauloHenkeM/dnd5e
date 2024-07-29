@@ -96,11 +96,11 @@
 >> **Espada curta:** 1d6+ 2
 >>
 >> #### Magias
->> - [[Mágias/Mísseis mágicos\|Mísseis mágicos]] V.S
+>> - [[Mísseis mágicos\|Mísseis mágicos]] V.S
 >> 	- 3d4 +1
->> - [[Mágias/Servo invisível\|Servo invisível]] V.S.M
+>> - [[Servo invisível\|Servo invisível]] V.S.M
 >> 	- 1d10
->> - [[Mágias/Raio Doentio\|Raio Doentio]] V.S
+>> - [[Raio Doentio\|Raio Doentio]] V.S
 >> 	- 2d8
 >>
 >> #### Truques
