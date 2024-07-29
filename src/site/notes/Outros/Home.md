@@ -11,7 +11,7 @@
 { .block-language-dataview}
 
 ## Calculadoras
-> [!column|no-t]
+> [!column|flex 2 clean no-t]
 >> [[Calculadoras/Detecção e Furtividade\|Detecção e Furtividade]]
 >> [[Calculadoras/Erro de Teletransporte\|Erro de Teletransporte]]
 >>[[Calculadoras/Moedas\|Moedas]]
@@ -21,7 +21,7 @@
 >> [[Calculadoras/Viagem\|Viagem]]
 
 ## Links para esse site
-> [!column|no-t]
+> [!column|flex 2 clean no-t]
 >> [[Outros/Todas as classes\|Todas as classes]]
 >> [[Outros/Todas as mágias\|Todas as mágias]]
 >> [[Outros/Todas as raças\|Todas as raças]]
