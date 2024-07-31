@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes"],"created":"2024-07-23T13:21:55.699-03:00"}
+{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes"],"created":"2024-07-23T13:21:55.000-03:00"}
 ---
 
 

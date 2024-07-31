@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/magias/nivel-5/","created":"2024-07-29T14:31:06.940-03:00"}
+{"dg-publish":true,"permalink":"/magias/nivel-5/","created":"2024-07-29T14:31:06.000-03:00"}
 ---
 
 
-### Animar Objetos
-**5ª Nível Transmutação**
-
+# Animar Objetos
+- **5ª Nível Transmutação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 36 metros (24 quadrados)
 - **Componentes:** V, G
@@ -39,9 +38,8 @@ O Mestre pode determinar que um objeto em específico cause dano do tipo cortant
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o jogador pode animar até mais dois objetos adicionais para cada nível acima do 5ª.
 
-### Aljava Veloz
-**5ª Nível Transmutação**
-
+# Aljava Veloz
+- **5ª Nível Transmutação**
 - **Tempo de lançamento:** 1 ação bônus
 - **Alcance:** Toque
 - **Componentes:** V, G, M (uma aljava contendo ao menos uma munição)
@@ -51,9 +49,8 @@ O jogador transmuta sua aljava para que ela produza um fornecimento intermináve
 Cada vez que ele fizer tal ataque à distância, a aljava magicamente repõe a munição que ele usou com outra munição similar não mágica. 
 Quaisquer munições criadas por esta magia se desintegram quando a magia encerra. Se a aljava sair das posses do jogador, a magia também se encerra.
 
-### Âncora Planar
-**5ª Nível Abjuração**
-
+# Âncora Planar
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 hora
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V, G, M (uma joia que valha ao menos 1.000 p.o., a qual é consumida pela magia)
@@ -71,9 +68,8 @@ Se o jogador estiver em um plano de existência diferente, ela retorna para o lo
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de nível superior, a duração aumenta para 10 dias se usado o espaço de 6º nível, para 30 dias se usado o espaço de 7º nível, para 180 dias se usado o espaço de 8º nível, e para 1 ano e 1 dia se usado o espaço de 9º nível.
 
-### Círculo de Teletransporte
-**5ª Nível Conjuração**
-
+# Círculo de Teletransporte
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** 3 metros (2 quadrados)
 - **Componentes:** V, M (gizes raros e tintas infundidas com gemas preciosas que valham ao menos 50 p.o., o quais são consumidos pela magia)
@@ -90,9 +86,8 @@ O jogador pode se emprenhar sobre uma nova sequência de símbolos, estudando-a 
 
 O jogador pode criar um círculo de teleporte permanente lançando esta magia no mesmo local, todos os dias, durante um ano. O jogador não precisa usar o círculo para se teleportar quando lança a magia deste modo.
 
-### Caminhar por Árvores
-**5ª Nível Conjuração**
-
+# Caminhar por Árvores
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador
 - **Componentes:** V, G
@@ -105,9 +100,8 @@ O jogador surge em um ponto à escolha dele dentro de 1,5m (1 quadrado) de dist�
 
 O jogador pode usar esta habilidade de transporte uma vez por rodada pela duração da magia. O jogador deve terminar cada um dos seus turnos do lado de fora de uma árvore.
 
-### Barreira Antivida
-**5ª Nível Abjuração**
-
+# Barreira Antivida
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador (um raio de 3 metros – 2 quadrados – a partir dele)
 - **Componentes:** V, G
@@ -120,9 +114,8 @@ A magia previne que uma criatura, exceto as citadas acima, passe ou alcance algo
 
 Se o jogador se mover de um modo que force uma criatura a passar através da barreira, a magia é dissipada.
 
-### Círculo de Poder
-**5ª Nível Abjuração**
-
+# Círculo de Poder
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador (9 metros de raio - 6 quadrados)
 - **Componentes:** V
@@ -132,9 +125,8 @@ Uma energia divina irradia do jogador, distorcendo e difundindo energia mágica 
 Até o término da magia, a esfera se move com o jogador, sempre centrada nele. Em sua duração, cada criatura aliada na área (incluindo o jogador) tem vantagem nas jogadas de teste de resistência contra magias e outros efeitos mágicos. 
 Em soma, quando uma criatura afetada tem sucesso em um teste de resistência feito contra uma magia ou efeito mágico que cause metade do dano em caso de sucesso, ao invés de receber metade do dano o alvo não recebe dano algum, se tiver sucesso no teste de resistência.
 
-### Coluna de Chamas
-**5º Nível Evocação**
-
+# Coluna de Chamas
+- **5º Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V, G, M (uma pitada de enxofre)
@@ -145,9 +137,8 @@ Cada criatura em um cilindro com um raio de 3 metros (2 quadrados), por 12 metro
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o dano do fogo, ou o dano radiante (à escolha do jogador) aumenta em 1d6 para cada nível acima do 5º.
 
-### Comunhão
-**5ª Nível Encantamento (Ritual)**
-
+# Comunhão
+- **5ª Nível Encantamento (Ritual)**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** O jogador
 - **Componentes:** V, G, M (incenso e um frasco de água benta ou água profana)
@@ -161,9 +152,8 @@ Em um caso onde a palavra de resposta possa ser enganadora ou contrária aos int
 
 Se o jogador lançar a magia 2 ou mais vezes antes de terminar seu próximo descanso prolongado, há uma chance cumulativa de 25% para cada lançamento após o primeiro em que o jogador não obteve a resposta desejada. O mestre faz essa rolagem em segredo.
 
-### Contato Extraplanar 
-**5ª Nível Adivinhação (ritual)**
-
+# Contato Extraplanar 
+- **5ª Nível Adivinhação (ritual)**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** Jogador
 - **Componentes:** V
@@ -181,9 +171,8 @@ O jogador deve fazer suas perguntas antes da magia terminar.
 O Mestre responde cada pergunta com uma palavra, como "sim", "não", "talvez", "nunca", "irrelevante", ou "incerto" (se a entidade não souber a resposta para esta pergunta). 
 Se a resposta na forma de uma única palavra puder ser dúbia ou enganadora, o Mestre pode usar uma pequena frase como resposta ao invés da palavra.
 
-### Comunhão com a Natureza 
-**5ª Nível Adivinhação (ritual)**
-
+# Comunhão com a Natureza 
+- **5ª Nível Adivinhação (ritual)**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** O jogador
 - **Componentes:** V, G
@@ -202,9 +191,8 @@ O jogador recebe instantaneamente o conhecimento de até três fatos à escolha 
 
 Por exemplo, o jogador determina a localização de um poderoso morto-vivo na área, a localização da maior fonte segura de água potável, e a localização das cidades mais próximas.
 
-### Cone Glacial 
-**5ª Nível Evocação**
-
+# Cone Glacial 
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador (cone de 18 metros a partir dele – 12 quadrados)
 - **Componentes:** V, G, M (um pequeno cristal ou cone de vidro)
@@ -217,9 +205,8 @@ Uma criatura morta por esta magia se torna uma estátua congelada até derreter.
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou maior, o dano aumenta em 1d8 para cada nível acima do 5º.
 
-### Conjurar Rajada 
-**5ª Nível Conjuração**
-
+# Conjurar Rajada 
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 45 metros (30 quadrados)
 - **Componentes:** V, G, M (uma munição ou uma arma de arremesso)
@@ -230,9 +217,8 @@ Centenas de duplicatas da munição ou da arma recaem na área, vindas de cima, 
 Cada criatura em um raio cilíndrico de 12 metros de diâmetro (8 quadrados) por 6 metros de altura (4 quadrados), centrado no ponto escolhido, deve fazer um TR de Destreza. Se falhar, uma criatura recebe 8d8 de dano, ou metade se tiver sucesso. 
 O tipo de dano é o mesmo da munição ou arma utilizada.
 
-### Criação 
-**5ª Nível Ilusão**
-
+# Criação 
+- **5ª Nível Ilusão**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** 9 metros (6 quadrados)
 - **Componentes:** V, G, M (um pequeno pedaço da matéria do mesmo tipo de item que o jogador pretende criar)
@@ -254,9 +240,8 @@ Usar qualquer material desta magia como componente material para outra magia far
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o tamanho do cubo aumenta em 1,5m (1 quadrado) para cada nível acima do 5º.
 
-### Criar Passagens 
-**5º Nível Encantamento**
-
+# Criar Passagens 
+- **5º Nível Encantamento**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 9 metros (6 quadrados)
 - **Componentes:** V, G, M (uma pitada de sementes de sésamo)
@@ -267,9 +252,8 @@ O jogador escolhe as dimensões da abertura: até 1,5m (1 quadrado) de largura, 
 
 Quando a abertura desaparecer, qualquer criatura ou objeto ainda dentro da passagem criada pela magia são expelidos com segurança para o espaço desocupado mais próximo à superfície na qual o jogador lançou a magia.
 
-### Dissipar Bem e Mal 
-**5ª Nível Abjuração**
-
+# Dissipar Bem e Mal 
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador
 - **Componentes:** V, G, M (água benta ou pó de prata ou de ferro)
@@ -285,9 +269,8 @@ O jogador pode encerrar a magia prematuramente utilizando uma das funções espe
 A criatura deve ter sucesso em um TR de Carisma ou será enviada de volta para seu plano natal (caso já não esteja nele). 
 Se eles não estão em seu plano natal, mortos-vivos são enviados para o Pendor das Sombras, e seres feéricos para a Agrestia das Fadas.
 
-### Curar Ferimentos em Massa 
-**5º Nível Conjuração**
-
+# Curar Ferimentos em Massa 
+- **5º Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V, G
@@ -298,9 +281,8 @@ Cada alvo recupera pontos de vida equivalentes a 3d8 + o modificador de habilida
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou maior, a cura aumenta em 1d8 para cada nível acima do 5º.
 
-### Despertar 
-**5ª Nível Transmutação**
-
+# Despertar 
+- **5ª Nível Transmutação**
 - **Tempo de lançamento:** 8 horas
 - **Alcance:** Toque
 - **Componentes:** V, G, M (uma ágata que valha ao menos 1.000 p.o., que é consumida pela magia)
@@ -314,9 +296,8 @@ O Mestre escolhe as estatísticas apropriadas para uma planta desperta, como as 
 A besta ou a planta desperta está encantada pelo jogador pelos próximos 30 dias, ou até o jogador ou um de seus companheiros fazerem algo que possa machucá-la. 
 Quando a condição de encantado terminar, a criatura desperta escolhe se permanece amiga do jogador, baseando-se em como o jogador a tratou enquanto ela estava encantada por ele.
 
-### Despistar 
-**5ª Nível Ilusão**
-
+# Despistar 
+- **5ª Nível Ilusão**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador
 - **Componentes:** G
@@ -326,9 +307,8 @@ O jogador se torna invisível ao mesmo tempo que uma ilusão dupla do jogador su
 O jogador pode ver através dos olhos e ouvir através dos ouvidos da duplicata, como se estivesse no local dela. Em cada um dos turnos do jogador, como uma ação bônus, ele pode alternar entre o uso dos sentidos da duplicata e do jogador. 
 Enquanto o jogador estiver usando os sentidos da duplicata, ele fica cego e surdo no que diz respeito ao que está à sua própria volta.
 
-### Dominar Pessoa 
-**5º Nível Encantamento**
-
+# Dominar Pessoa 
+- **5º Nível Encantamento**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V, G
@@ -349,9 +329,8 @@ Cada vez que o alvo receber dano, ele deve fazer um novo TR de Sabedoria contra 
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível, a duração da concentração aumenta para 10 minutos. Quando o jogador usa o espaço de uma magia de 7º nível, a duração da concentração aumenta para 1 hora. Quando o jogador usa o espaço de uma magia de 8º nível ou superior, a duração da concentração aumenta para 8 horas.
 
-### Invocar Elemental
-**5ª Nível Conjuração**
-
+# Invocar Elemental
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** 27 metros (18 quadrados)
 - **Componentes:** V, G, M (um incenso aceso para elemental do ar, argila mole para elemental da terra, enxofre e fósforo para elemental do fogo, ou água e areia para elemental da água)
@@ -371,9 +350,8 @@ O Mestre possui as estatísticas do elemental.
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o nível de desafio aumenta em 1 para cada nível acima do 5º.
 
-### Epidemia
-**5ª Nível Necromancia**
-
+# Epidemia
+- **5ª Nível Necromancia**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** Toque
 - **Componentes:** V, G
@@ -393,9 +371,8 @@ Já que a magia induz uma doença natural no alvo, qualquer efeito que remova do
 - **Apreensão:** A criatura fica trêmula. Ela tem desvantagem nos testes de Destreza, nos testes de resistência de Destreza, e nas jogadas de ataque que usem o atributo Destreza.
 - **Fim Sangrento:** A criatura começa a sangrar incontrolavelmente. Ela tem desvantagem nos testes de Constituição, nos testes de resistência de Constituição. Em soma, sempre que a criatura receber dano, ela fica paralisada até o final do seu próximo turno.
 
-### Imobilizar Monstro
-**5ª Nível Encantamento**
-
+# Imobilizar Monstro
+- **5ª Nível Encantamento**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 27 metros (18 quadrados)
 - **Componentes:** V, G, M (um pedaço estreito e pequeno de ferro)
@@ -405,9 +382,8 @@ O jogador escolhe uma criatura que possa ver dentro do alcance. O alvo deve ser 
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o jogador pode adicionar uma criatura para cada nível acima do 5º. As criaturas devem estar a até 9 metros (6 quadrados) uma da outra quando o jogador os tiver como alvos.
 
-### Lendas e Histórias
-**5ª Nível Adivinhação**
-
+# Lendas e Histórias
+- **5ª Nível Adivinhação**
 - **Tempo de lançamento:** 10 minutos
 - **Alcance:** O jogador
 - **Componentes:** V, G, M (um pedaço estreito e pequeno de ferro)
@@ -421,9 +397,8 @@ Quanto mais informação o jogador já tiver sobre a coisa, mais precisa e detal
 A informação que o jogador descobre é precisa, mas pode ser revertida em uma linguagem figurativa. 
 Por exemplo, se o jogador tiver um machado mágico misterioso em mãos, a magia pode dar a seguinte informação: “Coitado do malfeitor cujas mãos tocarem o machado, mesmo aqueles cujo punho decepe a mão dos malignos. Somente a Cria da Pedra, amante e amada de Moradin, pode despertar os verdadeiros poderes do machado, e somente com a palavra sagrada Rudnogg em seus lábios.”
 
-### Ligação Telepática de Rary
-**5ª Nível Adivinhação**
-
+# Ligação Telepática de Rary
+- **5ª Nível Adivinhação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 9 metros (6 quadrados)
 - **Componentes:** V, G, M (pedaços de casca de ovo de dois tipos diferentes de criaturas)
@@ -434,9 +409,8 @@ Criaturas com atributo de Inteligência 2 ou menos não são afetadas pela magia
 Até a magia terminar, os alvos podem se comunicar telepaticamente através do vínculo, tendo ou não uma linguagem em comum. 
 A comunicação é possível sob qualquer distância, embora ela não possa se estender para além de outros planos de existência.
 
-### Modificar Memória
-**5ª Nível Encantamento**
-
+# Modificar Memória
+- **5ª Nível Encantamento**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 9 metros (6 quadrados)
 - **Componentes:** V, G
@@ -459,9 +433,8 @@ Uma magia remover maldição ou restauração maior lançada no alvo restaura a 
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o jogador pode alterar as memórias do alvo em um evento que tenha ocorrido a até 7 dias (usando espaço de 6º nível), a até 30 dias (usando espaço de magia de 7º nível), a até 1 ano (usando espaço de magia de 8º nível), ou uma memória da criatura de qualquer tempo passado (9º nível).
 
-### Mão de Bigby
-**5ª Nível Evocação**
-
+# Mão de Bigby
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 36 metros (24 quadrados)
 - **Componentes:** V, G, M (uma casca de ovo e uma luva de pele de cobra)
@@ -482,9 +455,8 @@ Quando o jogador lança a magia, pode mover a mão, como ação bônus em seus t
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o dano da opção punho cerrado aumenta em 2d8, e o dano do aperto de mão aumenta em 2d6, para cada nível acima do 5º.
 
-### Missão
-**5ª Nível Encantamento**
-
+# Missão
+- **5ª Nível Encantamento**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V
@@ -501,9 +473,8 @@ O jogador pode encerrar a magia prematuramente usando sua ação para dissipá-l
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 7º nível ou 8º nível, a duração será de 1 ano; quando lança esta magia usando o espaço de uma magia de 9º nível, a magia dura até ser dissipada por uma das magias descritas acima.
 
-### Névoa Mortal
-**5ª Nível Conjuração**
-
+# Névoa Mortal
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 36 metros (24 quadrados)
 - **Componentes:** V, G
@@ -517,9 +488,8 @@ A névoa move-se 3 metros (2 quadrados) para longe do jogador no começo de cada
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o dano aumenta em 1d8 para cada nível acima do 5º.
 
-### Muralha de Energia
-**5ª Nível Evocação**
-
+# Muralha de Energia
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 36 metros (24 quadrados)
 - **Componentes:** V, G, M (uma pitada de pó gerado ao esmagar uma gema preciosa)
@@ -529,9 +499,8 @@ Uma parede de energia invisível surge no plano existencial em um ponto escolhid
 
 Nada pode atravessar fisicamente a parede. Ela é imune a todo tipo de dano e não pode ser dissipada por dissipar magia, no entanto, a magia desintegrar destrói a parede instantaneamente. A parede também se estende dentro do Plano Etéreo, bloqueando travessias etéreas através dela.
 
-### Muralha de Pedra
-**5ª Nível Evocação**
-
+# Muralha de Pedra
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 36 metros (24 quadrados)
 - **Componentes:** V, G, M (um pequeno bloco de granito)
@@ -547,9 +516,8 @@ A parede é um objeto feito de pedra que pode ser danificado e atravessado. Cada
 
 Se o jogador mantiver sua concentração durante toda a duração da magia, a parede se torna permanente e não pode ser cancelada. Caso contrário, a parede desaparece quando a magia acabar.
 
-### Praga de Insetos
-**5ª Nível Conjuração**
-
+# Praga de Insetos
+- **5ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 90 metros (60 quadrados)
 - **Componentes:** V, G, M (alguns grãos de açúcar, alguns miolos de sementes, e um filete de gordura)
@@ -561,9 +529,8 @@ Quando a área surge, cada criatura nela deve fazer um TR de Constituição. Uma
 
 **Em Níveis Superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 6º nível ou superior, o dano aumenta em 1d10 para cada nível acima do 5º.
 
-### Punição Banidora
-**5ª Nível Abjuração**
-
+# Punição Banidora
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 ação bônus
 - **Alcance:** O jogador
 - **Componentes:** V
@@ -571,9 +538,8 @@ Quando a área surge, cada criatura nela deve fazer um TR de Constituição. Uma
 
 A próxima vez que o jogador acertar uma criatura com um ataque de arma antes do término da magia, sua arma crepita com força, e o golpe causa 5d10 a mais de dano de força ao alvo. Em soma, se este ataque reduzir os pontos de vida da criatura para 50 ou menos, o jogador o bane. Se o alvo for nativo de um diferente plano de existência em que o jogador se encontra no momento, o alvo desaparece, retornando para seu plano natal. Se o alvo for nativo do plano em que o jogador se encontra, a criatura desaparece dentro de um semiplano inofensivo. Enquanto estiver lá, o alvo estará incapacitado. O alvo permanece lá até o término da magia, quando isso acontecer o alvo reaparece no espaço em que deixou, ou no espaço desocupado mais próximo, caso ele esteja sendo ocupado.
 
-### Restauração Maior
-**5ª Nível Abjuração**
-
+# Restauração Maior
+- **5ª Nível Abjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** Toque
 - **Componentes:** V, G, M (pó de diamante que valha ao menos 100 p.o., que é consumido pela magia)
@@ -585,9 +551,8 @@ O jogador imbui com energia positiva uma criatura que ele toque, com o fim de de
 - Qualquer redução de uma das habilidades do alvo
 - Um efeito que tenha reduzido os pontos de vida máximos do alvo
 
-### Reencarnação
-**5ª Nível Transmutação**
-
+# Reencarnação
+- **5ª Nível Transmutação**
 - **Tempo de lançamento:** 1 hora
 - **Alcance:** Toque
 - **Componentes:** V, G, M (óleos raros e unguentos que valham ao menos 1.000 p.o., os quais são consumidos pela magia)
@@ -616,9 +581,8 @@ A magia modela um novo corpo para a criatura habitá-lo, o que provavelmente faz
 
 A criatura reencarnada se lembra de sua vida e suas experiências. Ela mantém suas capacidades que possuía em sua forma original, exceto as mudanças da raça original para a nova e traços raciais por consequência.
 
-### Reviver Mortos
-**5ª Nível Necromancia**
-
+# Reviver Mortos
+- **5ª Nível Necromancia**
 - **Tempo de lançamento:** 1 hora
 - **Alcance:** Toque
 - **Componentes:** V, G, M (um diamante que valha ao menos 500 p.o, que é consumido pela magia)
@@ -632,9 +596,8 @@ Esta magia fecha todos os ferimentos mortais, mas não recupera membros perdidos
 
 Voltar dos mortos é uma provação. O alvo recebe uma penalidade de -4 em todas as jogadas de ataque, TR’s e testes de habilidades. Cada vez que o alvo terminar um descanso prolongado, a penalidade é reduzida em 1 até desaparecer.
 
-### Punição Destrutiva
-**5ª Nível Evocação**
-
+# Punição Destrutiva
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** O jogador (raio de 9 metros – 6 quadrados)
 - **Componentes:** V
@@ -642,9 +605,8 @@ Voltar dos mortos é uma provação. O alvo recebe uma penalidade de -4 em todas
 
 O jogador golpeia o chão, criando uma onda de energia divina que ondula para longe dele. Cada criatura que o jogador escolher a até 9 metros dele (6 quadrados), deve ser bem-sucedida em um TR de Constituição ou receberá 5d6 de dano trovejante, bem como 5d6 de dano radiante ou necrótico (à escolha do jogador), e ficará derrubada. Uma criatura que tiver sucesso no teste de resistência, recebe apenas metade do dano e não fica derrubada.
 
-### Santificar
-**5ª Nível Evocação**
-
+# Santificar
+- **5ª Nível Evocação**
 - **Tempo de lançamento:** 24 horas
 - **Alcance:** Toque
 - **Componentes:** V, G, M (ervas, óleos, e incenso, que valham ao menos 1.000 p.o., os quais são consumidos pela magia)
@@ -654,7 +616,7 @@ O jogador toca um ponto e imbui uma área em volta com poder sacro (ou profano).
 - Celestiais, elementais, feéricos, demônios ou mortos-vivos não podem entrar na área, nem tais criaturas podem enfeitiçar, assustar, ou possuir criaturas dentro da área. Qualquer criatura enfeitiçada, assustada ou possuída por estas criaturas não mais ficará sob tais condições ao entrar na área. O jogador pode excluir um ou mais destes tipos de criaturas deste efeito.
 - O jogador pode vincular um efeito extra à área. Ele escolhe o efeito da seguinte lista, ou escolhe um efeito ofertado pelo mestre. Alguns detalhes destes efeitos aplicáveis para criaturas na área permitem: o jogador pode designar se o efeito se aplica para todas as criaturas, criaturas que seguem uma divindade específica ou líder, ou criaturas de um tipo específico, como orcs ou trolls. Quando uma criatura que possa ser afetada entra na área pela primeira vez no turno dela, ou começa o turno já dentro da área, ela pode fazer um TR de Carisma. Se tiver sucesso, a criatura ignora o efeito extra até deixar a área.
 
-#### Efeitos Extras
+## Efeitos Extras
 - **Coragem:** Criaturas afetadas não podem ficar assustadas enquanto estiverem na área.
 - **Escuridão:** Escuridão preenche a área. Luzes normais, bem como luzes mágicas criadas por magias de nível menor do que o nível usado para lançar esta magia, não podem iluminar a área.
 - **Luz do Dia:** Luz plena preenche a área. Escuridão mágica, criada por magias de nível menor do que o nível usado para lançar esta magia, não pode extinguir a luz.
@@ -666,9 +628,8 @@ O jogador toca um ponto e imbui uma área em volta com poder sacro (ou profano).
 - **Silêncio:** Nenhum som pode emanar da área, e nenhum som pode entrar nela.
 - **Idiomas:** Criaturas afetadas podem se comunicar umas com as outras na área, mesmo que elas não compartilhem um idioma em comum.
 
-### Similaridade
-**5ª Nível Ilusão**
-
+# Similaridade
+- **5ª Nível Ilusão**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 9 metros (6 quadrados)
 - **Componentes:** V, G
@@ -682,9 +643,8 @@ As mudanças feitas pela magia falham se confrontadas por uma inspeção física
 
 Uma criatura pode usar sua ação para inspecionar um alvo e fazer um teste de Inteligência (Investigação) contra o teste de resistência à magia do jogador. Se tiver sucesso, ela fica ciente de que o alvo está disfarçado.
 
-### Sonho
-**5° Nível Ilusão**
-
+# Sonho
+- **5° Nível Ilusão**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** Especial
 - **Componentes:** V, G, M (um punhado de areia, uma pincelada de tinta, e uma pena para escrita arrancada de um pássaro adormecido)
@@ -698,9 +658,8 @@ O jogador pode fazer com que o mensageiro pareça monstruoso e assustador para o
 
 Se o jogador tiver uma parte do corpo, uma mecha do cabelo, um pedaço da unha, ou uma porção similar do corpo do alvo, o alvo deve fazer seu TR com desvantagem.
 
-### Telecinésia
-**5ª Nível Transmutação**
-
+# Telecinésia
+- **5ª Nível Transmutação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 18 metros (12 quadrados)
 - **Componentes:** V, G
@@ -708,15 +667,14 @@ Se o jogador tiver uma parte do corpo, uma mecha do cabelo, um pedaço da unha, 
 
 O jogador ganha a habilidade de manipular ou mover criaturas ou objetos com o pensamento. Quando o jogador lança esta magia, e como uma ação em cada turno pela duração da magia, ele pode exercer sua vontade em uma criatura ou objeto que ele possa ver dentro do alcance, causando o efeito apropriado abaixo. O jogador pode afetar o mesmo alvo rodada após rodada, ou escolher um novo alvo em cada vez. Se o jogador alternar entre alvos, o alvo primário não mais fica afetado pela magia.
 
-#### Efeitos
+## Efeitos
 
 **Criatura:** O jogador pode tentar mover uma criatura de tamanho Enorme ou menor. O jogador faz um teste de atributo com o modificador de atributo de conjuração competindo contra o teste de Força da criatura. Se o jogador vencer a competição, ele move a criatura até 9 metros em qualquer direção, incluindo para cima, mas não além do alcance da magia. Até o final do próximo turno do jogador, a criatura fica impedida pela força telecinética do jogador. Uma criatura movida para cima fica suspensa no ar. Nas rodadas subsequentes, o jogador pode usar sua ação para tentar manter sua força telecinética sobre a criatura repetindo as jogadas de competição.
 
 **Objeto:** O jogador pode tentar mover um objeto que pese até 450kg. Se o objeto não estiver sendo usado ou carregado por uma criatura, o jogador automaticamente o move 9 metros (6 quadrados) em qualquer direção, mas não além do alcance da magia. Se o objeto estiver sendo usado ou carregado por uma criatura, o jogador deve fazer um teste de atributo com seu modificador de atributo de conjuração competindo contra o teste de Força da criatura. Se tiver sucesso, o jogador arranca o objeto da criatura e pode movê-lo até 9 metros (6 quadrados) em qualquer direção, mas não além do alcance da magia. O jogador pode exercer um detalhado controle em objetos com sua força telecinética, como até mesmo manipular ferramentas, abrir uma porta ou recipiente, arrumar ou recuperar um item de um recipiente aberto, ou derramar o conteúdo de um frasco.
 
-### Vidência
-**5ª Nível Adivinhação**
-
+# Vidência
+- **5ª Nível Adivinhação**
 - **Tempo de lançamento:** 10 minutos
 - **Alcance:** O jogador
 - **Componentes:** V, G, M (um foco material que valha ao menos 1.000 p.o., tal como uma bola de cristal, um espelho de prata, ou uma fonte preenchida com água benta)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/guerreiro/campeao/","created":"2024-07-25T19:36:05.020-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/guerreiro/campeao/","created":"2024-07-25T19:36:05.000-03:00"}
 ---
 
 ## 3º Nível: Crítico Aprimorado

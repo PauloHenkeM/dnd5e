@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ladino/ladrao/","created":"2024-07-26T08:14:29.398-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ladino/ladrao/","created":"2024-07-26T08:14:29.000-03:00"}
 ---
 
 

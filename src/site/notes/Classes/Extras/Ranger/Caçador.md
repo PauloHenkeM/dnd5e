@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ranger/cacador/","created":"2024-07-26T08:59:56.011-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ranger/cacador/","created":"2024-07-26T08:59:56.000-03:00"}
 ---
 
 

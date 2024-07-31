@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magias/nivel-4/","created":"2024-07-29T14:15:21.701-03:00"}
+{"dg-publish":true,"permalink":"/magias/nivel-4/","created":"2024-07-29T14:15:21.000-03:00"}
 ---
 
 
@@ -145,7 +145,7 @@ No final de cada um dos seus turnos, um alvo afetado pode fazer um TR de Sabedor
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 5º nível ou superior, o raio da esfera aumenta em 1,5m (1 quadrado) para cada nível acima do 4º.
 
-## Fabricação
+# Fabricação
 - **4ª Nível transmutação**
 - **Tempo de lançamento:** 10 minutos 
 - **Alcance:** 36 metros (24 quadrados)
@@ -168,7 +168,7 @@ O jogador também não pode usar a magia para criar itens de comumente se exigir
 Como joias, armas, vidro ou armaduras.  
 A menos que o jogador tenha proficiência com o tipo das ferramentas artesanais usadas para a fabricação de tais objetos.  
 
-## Dominar Animais
+# Dominar Animais
 - **4ª Nível encantamento**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 18 metros (12 quadrados)
@@ -203,7 +203,7 @@ A duração da concentração aumenta para 1 hora.
 Quando o jogador lança esta magia usando o espaço de uma magia de 7º nível ou superior.  
 A duração da concentração aumenta para 8 horas.  
 
-## Escudo de Fogo
+# Escudo de Fogo
 - **4ª Nível evocação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** O jogador
@@ -221,7 +221,7 @@ O escudo irrompe em chamas.
 O atacante recebe 2d8 de dano de fogo do escudo de calor.  
 Ou 2d8 de dano de gelo do escudo de frio.  
 
-## Esfera Resiliente de Otiluke
+# Esfera Resiliente de Otiluke
 - **4ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 9 metros ( 6 quadrados)
@@ -244,7 +244,7 @@ Similarmente, o globo pode ser pego e movido por outras criaturas.
 A magia desintegrar se mirada no globo.  
 O destrói sem danificar nada que esteja dentro dele.  
 
-## Guardião da Fé
+# Guardião da Fé
 - **4º Nível Conjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 9 metros (6 quadrados)
@@ -260,7 +260,7 @@ Se falhar, a criatura recebe 20 pontos de dano radiante.
 Ou metade se tiver sucesso.  
 O guardião desvanece quando ele já tiver causado um total de 60 pontos de dano.  
 
-## Inseto Gigante
+# Inseto Gigante
 - **4º Nível transmutação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 9 metros (6 quadrados)
@@ -283,7 +283,7 @@ O Mestre pode permitir que o jogador escolha diferentes alvos.
 Por exemplo, o jogador transforma uma abelha.  
 E sua versão gigante talvez possua as mesmas estatísticas de uma vespa gigante.
 
-## Metamorfose
+# Metamorfose
 - **4ª Nível transmutação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 18 metros (12 quadrados)
@@ -308,7 +308,7 @@ Não pode falar, lançar magias, ou fazer qualquer outra ação que requeira o u
 O equipamento do alvo se funde à nova forma.  
 A criatura não pode ativar, usar, segurar, ou de qualquer outro modo receber benefícios de qualquer dos seus equipamentos.  
 
-## Invisibilidade Maior
+# Invisibilidade Maior
 - **4º Nível Ilusão**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** Toque
@@ -318,7 +318,7 @@ A criatura não pode ativar, usar, segurar, ou de qualquer outro modo receber be
 O jogador, ou uma criatura que o jogador toque, se torna invisível até o final da magia.  
 Qualquer coisa que o alvo estiver usando ou carregando fica invisível enquanto estiver nas posses do alvo.  
 
-## Invocar Elementais Menores
+# Invocar Elementais Menores
 - **4ª Nível conjuração**
 - **Tempo de lançamento:** 1 minuto
 - **Alcance:** 27 metros (18 quadrados)
@@ -343,7 +343,7 @@ O Mestre possui as estatísticas das criaturas.
 Ele escolhe uma das seguintes opções de invocação descritas acima, e mais criaturas surgem.  
 O dobro se usar o espaço de uma magia de 6º nível, e o triplo se usar o espaço de uma magia de 8º nível.  
 
-## Localizar Criatura
+# Localizar Criatura
 - **4ª Nível adivinhação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** O jogador
@@ -361,7 +361,7 @@ Como sob efeito da magia metamorfose, esta magia não localiza a criatura.
 Esta magia não pode localizar uma criatura se ela estiver há pelo menos com 3 metros (2 quadrados) de água corrente.  
 Bloqueando uma passagem direta entre o jogador e a criatura.  
 
-## Moldar Rochas
+# Moldar Rochas
 - **4ª Nível transmutação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** Toque
@@ -378,7 +378,7 @@ O jogador também pode moldar uma porta de pedra ou a sua armação para selar a
 O objeto que o jogador criar pode ter até duas dobradiças e uma trava.  
 Mas detalhes mecânicos pequenos não são possíveis.  
 
-## Invocar Seres da Floresta
+# Invocar Seres da Floresta
 - **4ª Nível conjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 18 metros (12 quadrados)
@@ -403,7 +403,7 @@ O Mestre possui as estatísticas das criaturas.
 Ele escolhe uma das seguintes opções de invocação descritas acima, e mais criaturas surgem.  
 O dobro se usar o espaço de uma magia de 6º nível, e o triplo se usar o espaço de uma magia de 8º nível.  
 
-## Proteção Contra a Morte
+# Proteção Contra a Morte
 - **4º Nível Abjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** Toque
@@ -414,7 +414,7 @@ O jogador toca uma criatura e concede a ela uma moderada proteção contra a mor
 A primeira vez que o alvo chegar a 0 pontos de vida como resultado de um dano recebido, o alvo, ao invés de cair, fica com 1 ponto de vida e a magia se encerra.  
 Se a magia ainda estiver sob efeito quando o alvo ficar sujeito a um efeito que o possa matar instantaneamente sem receber dano, o efeito que o mataria é anulado e a magia se encerra.  
 
-## Muralha de Fogo
+# Muralha de Fogo
 - **4ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 36 metros (24 quadrados)
@@ -433,7 +433,7 @@ O outro lado da parede não causa dano.
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 5º nível ou superior, o dano aumenta em 1d8 para cada nível acima do 4º.  
 
-## Olho Arcano
+# Olho Arcano
 - **4ª Nível Adivinhação**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 9 metros (6 quadrados)
@@ -447,7 +447,7 @@ Com uma ação, o jogador pode mover o olho a até 9 metros (6 quadrados) para q
 Não há limite para o quão longe o olho pode se mover, mas ele não pode entrar em outro plano de existência.  
 Uma barreira sólida bloqueia o movimento do olho, mas o olho pode passar por aberturas pequenas de até 2,5cm de diâmetro.  
 
-## Pele Rochosa
+# Pele Rochosa
 - **4º Nível Abjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** Toque
@@ -457,7 +457,7 @@ Uma barreira sólida bloqueia o movimento do olho, mas o olho pode passar por ab
 Esta magia torna a carne de uma criatura voluntária que o jogador tocar em algo duro como pedra.  
 Até o final da magia, o alvo tem resistência a concussões, perfurações e cortes não mágicos.  
 
-## Porta Dimensional
+# Porta Dimensional
 - **4º Nível Conjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** 150 metros (100 quadrados)
@@ -472,7 +472,7 @@ O jogador também pode levar consigo uma criatura voluntária de seu tamanho ou 
 A criatura deve estar a até 1,5m (1 quadrado) do jogador quando ele lançar a magia.  
 Se o jogador se teleportar para um ponto já ocupado por uma criatura ou objeto, o jogador e qualquer criatura que esteja se teleportando com ele recebe 4d6 de dano de força, e a magia falha em teleportar o jogador.  
 
-## Movimentação Livre
+# Movimentação Livre
 - **4º Nível Abjuração**
 - **Tempo de lançamento:** 1 ação 
 - **Alcance:** Toque
@@ -485,7 +485,7 @@ Nem é afetado por efeitos que causem paralisia ou o deixem impedido.
 O alvo também pode gastar 1,5m (1 quadrado) de movimento para escapar automaticamente de restrições não mágicas, como algemas ou uma criatura que o esteja agarrando.  
 E finalmente, não sofre as penalidades impostas nos ataques e nos movimentos quando embaixo da água.  
 
-## Punição Arrebatadora
+# Punição Arrebatadora
 - **4º Nível Abjuração**
 - **Tempo de lançamento:** 1 ação bônus
 - **Alcance:** Você
@@ -497,7 +497,7 @@ O ataque causa um dano extra psíquico de 4d6 ao alvo.
 O alvo precisa fazer um TR de Sabedoria.  
 Se falhar, ele tem desvantagem nas jogadas de ataque e testes de atributos, e não pode realizar reações até o final do seu próximo turno.
 
-## Vinhas Sufocantes
+# Vinhas Sufocantes
 - **4ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação bônus
 - **Alcance:** 9 metros (6 quadrados)
@@ -509,7 +509,7 @@ Quando o jogador lança esta magia, ele pode dirigir a vinha para se lançar em 
 A criatura deve ter sucesso em um TR de Destreza ou será puxada 6 metros (4 quadrados) diretamente em direção à vinha.  
 Até o término da magia, o jogador pode dirigir a vinha para se lançar na mesma criatura ou outra criatura como uma ação bônus em cada um de seus turnos.
 
-## Tempestade Glacial
+# Tempestade Glacial
 - **4ª Nível Evocação**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 90 metros (60 quadrados)
@@ -523,7 +523,7 @@ O granizo torna a área de efeito da tempestade em terreno acidentado até o fin
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 5º nível ou maior, o dano de concussão aumenta em 1d8 para cada nível acima do 4º.
 
-## Tentáculos Negros de Evard
+# Tentáculos Negros de Evard
 - **4ª Nível Conjuração**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 27 metros (18 quadrados)
@@ -537,7 +537,7 @@ Uma criatura que comece seu turno na área e que já esteja impedida pelos tent�
 Uma criatura impedida pelos tentáculos pode usar sua ação para fazer um teste de Força ou Destreza (à escolha dela) contra a CD de resistência à magia do jogador.  
 Se tiver sucesso, ela se liberta.
 
-## Terreno Ilusório
+# Terreno Ilusório
 - **4ª Nível Ilusão**
 - **Tempo de lançamento:** 10 minutos
 - **Alcance:** 90 metros (60 quadrados)
@@ -553,7 +553,7 @@ A característica tátil do terreno é imutável, logo criaturas que entrarem na
 Se a diferença não for óbvia ao toque, uma criatura examinando cuidadosamente a ilusão pode tentar um teste de Inteligência (Investigação) contra a CD de resistência à magia do jogador para desacreditar na ilusão.  
 Uma criatura que discernir a ilusão pelo o que ela realmente é, a vê como uma vaga imagem superposta sobre o terreno original.
 
-## Secar
+# Secar
 - **4ª Nível Necromancia**
 - **Tempo de lançamento:** 1 ação
 - **Alcance:** 9 metros (6 quadrados)
@@ -569,7 +569,7 @@ Se o jogador tiver como alvo uma planta não mágica que não seja uma criatura,
 
 **Em níveis superiores:** Quando o jogador lança esta magia usando o espaço de uma magia de 5º nível ou superior, o dano aumenta em 1d8 para cada nível acima do 4º.
 
-## Santuário Particular de Mordenkainen
+# Santuário Particular de Mordenkainen
 - **4ª Nível Abjuração**
 - **Tempo de lançamento:** 10 minutos
 - **Alcance:** 36 metros (24 quadrados)

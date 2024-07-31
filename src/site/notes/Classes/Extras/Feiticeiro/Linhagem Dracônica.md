@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/feiticeiro/linhagem-draconica/","created":"2024-07-25T19:00:04.644-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/feiticeiro/linhagem-draconica/","created":"2024-07-25T19:00:04.000-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magias/nivel-1/","created":"2024-07-29T12:29:34.646-03:00"}
+{"dg-publish":true,"permalink":"/magias/nivel-1/","created":"2024-07-29T12:29:34.000-03:00"}
 ---
 
 # Alarme 

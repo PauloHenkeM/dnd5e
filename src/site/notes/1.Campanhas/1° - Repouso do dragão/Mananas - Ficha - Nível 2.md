@@ -9,7 +9,7 @@
 >> #### Informações
 >>  - [[Classes/Mago\|Mago]]
 >>  - [[Antecedentes e Personalidades/Sábio\|Sábio]]
->>  - [[Raças/Elfo#Alfo elfo\|Alto elfo]] 
+>>  - [[elfo#Alfo elfo\|Alto elfo]] 
 >>  - Médio
 >>  - Neuto e bom
 >>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.981-03:00"}
+{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.000-03:00"}
 ---
 
 Aqui estão os textos formatados conforme o layout solicitado:
