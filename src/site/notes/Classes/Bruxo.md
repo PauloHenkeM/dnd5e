@@ -117,8 +117,9 @@ Você começa com o seguinte equipamento, além do concedido pelo seu antecedent
 >  
 >> [!info] 20°  
 >> **Mestre Místico:**  
->> Pode suplicar ao seu patrono por 1 minuto para recuperar todos os espaços de magia gastos. Pode usar essa habilidade apenas uma vez por descanso longo.  
-___
+>> Pode suplicar ao seu patrono por 1 minuto para recuperar todos os espaços de magia gastos. Pode usar essa habilidade apenas uma vez por descanso longo.
+
+# Tabela
 
 | Bônus<br/>Nível        |  Prof. | Truques<br/>Conhec. | Magias<br/>Conhec. | Espaços de<br/>Magia | Nível do<br/>Espaço | Invocações<br/>Conhec. |
 |------------------------|--------|---------------------|--------------------|----------------------|---------------------|------------------------|
@@ -142,6 +143,112 @@ ___
 | 18º                    | +6     | 4                   | 14                 | 4                    | 5º                  | 8                      |
 | 19º                    | +6     | 4                   | 15                 | 4                    | 5º                  | 8                      |
 | 20º                    | +6     | 4                   | 15                 | 4                    | 5º                  | 8                      |
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Abrigo de Lâminas  
+>> Ataque Certeiro  
+>> Borrifada Venenosa  
+>> Camaradas  
+>> Ilusão Menor  
+>> Mãos Mágicas  
+>> Prestidigitação  
+>> Rajada Mística  
+>> Toque Macabro  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Armadura de Agathys  
+>> Braços de Hadar  
+>> Compreender Idiomas  
+>> Enfeitiçar Pessoa  
+>> Escrita Ilusória  
+>> Faísca da Bruxa  
+>> Praga  
+>> Proteção contra Bem e Mal  
+>> Recuo Acelerado  
+>> Repreensão Infernal  
+>> Servo Invisível  
+> 
+>
+>>[!tip] 2º Nível  
+>> Cativar  
+>> Coroa da Loucura  
+>> Despedaçar  
+>> Escuridão  
+>> Imobilizar Pessoa  
+>> Invisibilidade  
+>> Nuvem de Adagas  
+>> Passo das Brumas  
+>> Patas de Aranha  
+>> Raio do Enfraquecimento  
+>> Reflexos  
+>> Sugestão  
+> 
+>
+>>[!tip] 3º Nível  
+>> Círculo Mágico  
+>> Contramágica  
+>> Dissipar Magia  
+>> Fome de Hadar  
+>> Forma Gasosa  
+>> Idiomas  
+>> Imagem Maior  
+>> Medo  
+>> Padrão Hipnótico  
+>> Remover Maldição  
+>> Toque Vampírico  
+>> Voo  
+> 
+>
+>>[!tip] 4º Nível  
+>> Banimento  
+>> Porta Dimensional  
+>> Secar  
+>> Terreno Ilusório  
+> 
+>
+>>[!tip] 5º Nível  
+>> Contato Extraplanar  
+>> Imobilizar Monstro  
+>> Sonho  
+>> Vidência  
+> 
+>
+>>[!tip] 6º Nível  
+>> Ataque Visual  
+>> Carne para Pedra  
+>> Círculo da Morte  
+>> Criar Morto-Vivo  
+>> Invocar Feérico  
+>> Portão Arcano  
+>> Sugestão em Massa  
+>> Visão da Verdade  
+> 
+>
+>>[!tip] 7º Nível  
+>> Cubo de Energia  
+>> Dedo da Morte  
+>> Forma Etérea  
+>> Viagem Planar  
+> 
+>
+>>[!tip] 8º Nível  
+>> Dominar Monstro  
+>> Eloquência  
+>> Mente Débil  
+>> Palavra de Poder Atordoar  
+>> Semiplano  
+> 
+>
+>>[!tip] 9º Nível  
+>> Aprisionamento  
+>> Metamorfose Verdadeira  
+>> Palavra de Poder Matar  
+>> Previsão  
+>> Projeção Astral  
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

@@ -120,8 +120,9 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> [!info] 20°
 >> **Exterminador de Inimigos:** Uma vez em cada um de seus turnos, pode adicionar o modificador de Sabedoria nas rolagens de ataque ou dano de um ataque que faça contra um de seus inimigos favoritos. Pode escolher usar essa característica antes ou depois da rolagem, mas antes de quaisquer efeitos serem aplicados.
 
+# Tabela
 
-| Nível | Bônus Prof. | Magias Conhec. | 1º | 2º | 3º | 4º | 5º |
+| Nível | Bônus<br>Prof. | Magias<br>Conhec. | 1º | 2º | 3º | 4º | 5º |
 |-------|-------------|----------------|----|----|----|----|----|
 | 1º    | +2          | –              | –  | –  | –  | –  | –  |
 | 2º    | +2          | 2              | 2  | –  | –  | –  | –  |
@@ -144,6 +145,67 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 | 19º   | +6          | 11             | 4  | 3  | 3  | 3  | 2  |
 | 20º   | +6          | 11             | 4  | 3  | 3  | 3  | 2  |
 
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Alarme  
+>> Ataque Restringente  
+>> Bom Fruto  
+>> Chuva de Espinhos  
+>> Curar Ferimentos  
+>> Detectar Magia  
+>> Detectar Veneno e Doença  
+>> Enfeitiçar Animal  
+>> Falar com Animais  
+>> Marca do Caçador  
+>> Névoa  
+>> Passos Longos  
+>> Salto  
+> 
+>
+>>[!tip] 2º Nível  
+>> Bloqueio de Flechas  
+>> Crescer Espinhos  
+>> Encontrar Armadilhas  
+>> Localizar Animais ou Plantas  
+>> Localizar Objeto  
+>> Mensageiro Animal  
+>> Passo sem Pegadas  
+>> Pele de Árvore  
+>> Proteção Contra Venenos  
+>> Restauração Menor  
+>> Sentidos da Besta  
+>> Silêncio  
+>> Visão no Escuro  
+> 
+>
+>>[!tip] 3º Nível  
+>> Ampliar Plantas  
+>> Caminhar na Água  
+>> Conjurar Artilharia  
+>> Dificultar Detecção  
+>> Falar com Plantas  
+>> Flecha Elétrica  
+>> Invocar Animais  
+>> Luz do Dia  
+>> Muralha de Vento  
+>> Proteção contra Energia  
+>> Respirar na Água  
+> 
+>
+>>[!tip] 4º Nível  
+>> Invocar Seres da Floresta  
+>> Localizar Criatura  
+>> Movimentação Livre  
+>> Pele Rochosa  
+>> Vinhas Sufocantes  
+> 
+>
+>>[!tip] 5º Nível  
+>> Aljava Veloz  
+>> Caminhar por Árvores  
+>> Comunhão com a Natureza  
+>> Conjurar Rajada  
 
 ___
 **Links para esse site**

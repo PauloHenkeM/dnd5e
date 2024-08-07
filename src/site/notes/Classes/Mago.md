@@ -129,7 +129,8 @@ Você começa com os seguintes equipamentos, em adição ao equipamento concedid
 >> [!info] 20°  
 >> **Assinatura Mágica:**  
 >> Escolha duas magias de mago de 3º nível em seu grimório. Essas magias estão sempre preparadas e não contam para o número de magias preparadas. Você pode lançar cada uma delas uma vez por dia como magias de 3º nível sem gastar espaço de magia. Depois de usar esta habilidade, você não poderá usá-la novamente até terminar um descanso longo. Se lançar essas magias usando espaços de magia de nível superior, gasta espaços normalmente.
-___
+
+# Tabela
 
 | Nível | Prof. | Conhec. | 1º  | 2º  | 3º  | 4º  | 5º  | 6º  | 7º  | 8º  | 9º  |
 | ----- | ----- | ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -153,6 +154,255 @@ ___
 | 18º   | 6     | 5       | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19º   | 6     | 5       | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20º   | 6     | 5       | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Abrigo de Lâminas  
+>> Ataque Certeiro  
+>> Borrifada Venenosa  
+>> Camaradas  
+>> Consertar  
+>> Globos de Luz  
+>> Ilusão Menor  
+>> Lança de Fogo  
+>> Luz  
+>> Mãos Mágicas  
+>> Mensagem  
+>> Prestidigitação  
+>> Raio de Ácido  
+>> Raio de Gelo  
+>> Toque Chocante  
+>> Toque Macabro  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Alarme  
+>> Área Escorregadia  
+>> Armadura Arcana  
+>> Compreender Idiomas  
+>> Convocar Familiar  
+>> Detectar Magia  
+>> Disco Flutuante de Tenser  
+>> Enfeitiçar Pessoa  
+>> Escrita Ilusória  
+>> Escudo Arcano  
+>> Faísca da Bruxa  
+>> Identificar  
+>> Imagem Silenciosa  
+>> Leque Cromático  
+>> Mãos Flamejantes  
+>> Mísseis Mágicos  
+>> Névoa  
+>> Onda Trovejante  
+>> Orbe Cromático  
+>> Passos Longos  
+>> Proteção contra Bem e Mal  
+>> Queda Suave  
+>> Raio Doentio  
+>> Recuo Acelerado  
+>> Riso Histérico de Tasha  
+>> Salto  
+>> Servo Invisível  
+>> Sono  
+>> Transformação Momentânea  
+>> Vitalidade Ilusória  
+> 
+>
+>>[!tip] 2º Nível  
+>> Abrir  
+>> Alterar-se  
+>> Arma Mágica  
+>> Aumentar/Diminuir  
+>> Aura Mágica de Nystul  
+>> Boca Mágica  
+>> Borrão  
+>> Cegueira/Surdez  
+>> Chama Contínua  
+>> Coroa da Loucura  
+>> Descanso Tranquilo  
+>> Despedaçar  
+>> Detectar Pensamentos  
+>> Escuridão  
+>> Esfera Flamejante  
+>> Flecha Ácida de Melf  
+>> Força Fantasmagórica  
+>> Imobilizar Pessoa  
+>> Invisibilidade  
+>> Levitação  
+>> Localizar Objeto  
+>> Lufada de Vento  
+>> Nuvem de Adagas  
+>> Passo das Brumas  
+>> Patas de Aranha  
+>> Raio Ardente  
+>> Raio do Enfraquecimento  
+>> Reflexos  
+>> Sugestão  
+>> Teia  
+>> Tranca Arcana  
+>> Truque da Corda  
+>> Ver o Invisível  
+>> Visão no Escuro  
+> 
+>
+>>[!tip] 3º Nível  
+>> Animar os Mortos  
+>> Bola de Fogo  
+>> Círculo Mágico  
+>> Clarividência  
+>> Contramágica  
+>> Dificultar Detecção  
+>> Dissipar Magia  
+>> Enviar Mensagem  
+>> Fingir-se de Morto  
+>> Forma Gasosa  
+>> Idiomas  
+>> Imagem Maior  
+>> Lentidão  
+>> Medo  
+>> Montaria Fantasmagórica  
+>> Nevasca  
+>> Névoa Fétida  
+>> Padrão Hipnótico  
+>> Pequeno Refúgio de Leomund  
+>> Piscar  
+>> Proteção contra Energia  
+>> Relâmpago  
+>> Remover Maldição  
+>> Respirar na Água  
+>> Rogar Maldição  
+>> Símbolo de Proteção  
+>> Toque Vampírico  
+>> Velocidade  
+>> Voo  
+> 
+>
+>>[!tip] 4º Nível  
+>> Arca Secreta de Leomund  
+>> Assassino Fantasmagórico  
+>> Banimento  
+>> Cão Fiel de Mordenkainen  
+>> Confusão  
+>> Controlar Água  
+>> Escudo de Fogo  
+>> Esfera Resiliente de Otiluke  
+>> Fabricação  
+>> Invisibilidade Maior  
+>> Invocar Elementais Menores  
+>> Localizar Criatura  
+>> Metamorfose  
+>> Moldar Rochas  
+>> Muralha de Fogo  
+>> Olho Arcano  
+>> Pele Rochosa  
+>> Porta Dimensional  
+>> Santuário Particular de Mordenkainen  
+>> Secar  
+>> Tempestade Glacial  
+>> Tentáculos Negros de Evard  
+>> Terreno Ilusório  
+> 
+>
+>>[!tip] 5º Nível  
+>> Âncora Planar  
+>> Animar Objetos  
+>> Círculo de Teletransporte  
+>> Cone Glacial  
+>> Contato Extraplanar  
+>> Criação  
+>> Criar Passagens  
+>> Despistar  
+>> Dominar Pessoa  
+>> Imobilizar Monstro  
+>> Invocar Elemental  
+>> Lendas e Histórias  
+>> Ligação Telepática de Rary  
+>> Mão de Bigby  
+>> Missão  
+>> Modificar Memória  
+>> Muralha de Energia  
+>> Muralha de Pedra  
+>> Névoa Mortal  
+>> Similaridade  
+>> Sonho  
+>> Telecinésia  
+>> Vidência  
+> 
+>
+>>[!tip] 6º Nível  
+>> Ataque Visual  
+>> Carne para Pedra  
+>> Círculo da Morte  
+>> Contingência  
+>> Corrente de Relâmpagos  
+>> Criar Morto-Vivo  
+>> Dança Irresistível de Otto  
+>> Desintegrar  
+>> Esfera Gélida de Otiluke  
+>> Globo de Invulnerabilidade  
+>> Ilusão Programada  
+>> Invocação Instantânea de Drawmij  
+>> Mover Terra  
+>> Muralha de Gelo  
+>> Portão Arcano  
+>> Proteger Fortalezas  
+>> Raio de Sol  
+>> Recipiente Arcano  
+>> Sugestão em Massa  
+>> Visão da Verdade  
+> 
+>
+>>[!tip] 7º Nível  
+>> Bola de Fogo Controlável  
+>> Cubo de Energia  
+>> Dedo da Morte  
+>> Espada de Mordenkainen  
+>> Forma Etérea  
+>> Inverter a Gravidade  
+>> Isolar  
+>> Mansão Magnífica de Mordenkainen  
+>> Miragem Arcana  
+>> Projetar Imagem  
+>> Rajada Prismática  
+>> Símbolo  
+>> Simulacro  
+>> Teletransporte  
+>> Viagem Planar  
+> 
+>
+>>[!tip] 8º Nível  
+>> Antipatia/Simpatia  
+>> Aprisionar Alma  
+>> Campo Antimagia  
+>> Clone  
+>> Controlar o Clima  
+>> Dominar Monstro  
+>> Explosão Solar  
+>> Labirinto  
+>> Limpar a Mente  
+>> Mente Débil  
+>> Nuvem Incendiária  
+>> Palavra de Poder Atordoar  
+>> Semiplano  
+>> Telepatia  
+> 
+>
+>>[!tip] 9º Nível  
+>> Alterar Forma  
+>> Aprisionamento  
+>> Chuva de Meteoros  
+>> Desejo  
+>> Metamorfose Verdadeira  
+>> Muralha Prismática  
+>> Palavra de Poder Matar  
+>> Parar o Tempo  
+>> Pavor  
+>> Portal  
+>> Previsão  
+>> Projeção Astral  
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

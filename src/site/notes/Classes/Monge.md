@@ -125,6 +125,31 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> **Auto Perfeição:**  
 >> Quando rolar iniciativa e não possuir nenhum ponto de Ki, você recupera 4 pontos de Ki.
 
+# Tabela
+
+| Nível | Bônus | Prof. | Artes<br>Marciais | Pontos<br>Ki | Desloc.<br>Desarmado |
+|-------|-------|-------|----------------|-----------|-------------------------|
+| 1º    | +2    |       | 1d4            | ––        | ––                      |
+| 2º    | +2    |       | 1d4            | 2         | +3 m                    |
+| 3º    | +2    |       | 1d4            | 3         | +3 m                    |
+| 4º    | +2    |       | 1d4            | 4         | +3 m                    |
+| 5º    | +3    |       | 1d6            | 5         | +3 m                    |
+| 6º    | +3    |       | 1d6            | 6         | +4,5 m                  |
+| 7º    | +3    |       | 1d6            | 7         | +4,5 m                  |
+| 8º    | +3    |       | 1d6            | 8         | +4,5 m                  |
+| 9º    | +4    |       | 1d6            | 9         | +4,5 m                  |
+| 10º   | +4    |       | 1d6            | 10        | +6 m                    |
+| 11º   | +4    |       | 1d8            | 11        | +6 m                    |
+| 12º   | +4    |       | 1d8            | 12        | +6 m                    |
+| 13º   | +5    |       | 1d8            | 13        | +6 m                    |
+| 14º   | +5    |       | 1d8            | 14        | +7,5 m                  |
+| 15º   | +5    |       | 1d8            | 15        | +7,5 m                  |
+| 16º   | +5    |       | 1d8            | 16        | +7,5 m                  |
+| 17º   | +6    |       | 1d10           | 17        | +7,5 m                  |
+| 18º   | +6    |       | 1d10           | 18        | +9 m                    |
+| 19º   | +6    |       | 1d10           | 19        | +9 m                    |
+| 20º   | +6    |       | 1d10           | 20        | +9 m                    |
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

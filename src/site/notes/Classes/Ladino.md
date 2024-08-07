@@ -118,6 +118,32 @@ Você começa com os seguintes equipamentos, além do equipamento dado pelo seu 
 >> [!info] 20°  
 >> **Golpe de Sorte:**  
 >> Se falhar em um ataque contra um alvo ao seu alcance, pode transformar a falha em um acerto. Ou se falhar em qualquer teste, pode tratar a rolagem como se tivesse tirado um 20 natural. Só pode usar isso uma vez por descanso curto ou longo.
+
+# Tabela
+
+| Nível | Bônus | Prof. | Ataque<br>Furtivo |
+|-------|-------|-------|----------------|
+| 1º    | +2    |       | 1d6            |
+| 2º    | +2    |       | 1d6            |
+| 3º    | +2    |       | 2d6            |
+| 4º    | +2    |       | 2d6            |
+| 5º    | +3    |       | 3d6            |
+| 6º    | +3    |       | 3d6            |
+| 7º    | +3    |       | 4d6            |
+| 8º    | +3    |       | 4d6            |
+| 9º    | +4    |       | 5d6            |
+| 10º   | +4    |       | 5d6            |
+| 11º   | +4    |       | 6d6            |
+| 12º   | +4    |       | 6d6            |
+| 13º   | +5    |       | 7d6            |
+| 14º   | +5    |       | 7d6            |
+| 15º   | +5    |       | 8d6            |
+| 16º   | +5    |       | 8d6            |
+| 17º   | +6    |       | 9d6            |
+| 18º   | +6    |       | 9d6            |
+| 19º   | +6    |       | 10d6           |
+| 20º   | +6    |       | 10d6           |
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

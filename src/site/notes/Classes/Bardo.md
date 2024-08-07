@@ -133,30 +133,183 @@ Você começa com os seguintes equipamentos, além do concedido pelo seu anteced
 >> [!info] 20°
 >> **Inspiração Superior**
 >> Quando você rolar iniciativa e não tiver usos de Inspiração de Bardo sobrando, você recupera um uso.
-___
 
-| Nível | Proficiência | Características                                      | Conhecidos | Conhecidas | 1°  | 2°  | 3°  | 4°  | 5°  | 6°  | 7°  | 8°  | 9°  |
-| ----- | ------------ | ---------------------------------------------------- | ---------- | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1°    | +2           | Conjuração, Inspiração de Bardo (d6)                 | 2          | 4          | 2   | –   | –   | –   | –   | –   | –   | –   | –   |
-| 2°    | +2           | Versatilidade, Canção do Descanso (d6)               | 2          | 5          | 3   | –   | –   | –   | –   | –   | –   | –   | –   |
-| 3°    | +2           | Colégio de Bardo, Aptidão                            | 2          | 6          | 4   | 2   | –   | –   | –   | –   | –   | –   | –   |
-| 4°    | +2           | Incremento no Valor de Habilidade                    | 3          | 7          | 4   | 3   | –   | –   | –   | –   | –   | –   | –   |
-| 5°    | +3           | Inspiração de Bardo (d8), Fonte de<br/>Inspiração    | 3          | 8          | 4   | 3   | 2   | –   | –   | –   | –   | –   | –   |
-| 6°    | +3           | Habilidade de Colégio de Bardo, Canção de Proteção   | 3          | 9          | 4   | 3   | 3   | –   | –   | –   | –   | –   | –   |
-| 7°    | +3           | –                                                    | 3          | 10         | 4   | 3   | 3   | 1   | –   | –   | –   | –   | –   |
-| 8°    | +3           | Incremento no Valor de Habilidade                    | 3          | 11         | 4   | 3   | 3   | 2   | –   | –   | –   | –   | –   |
-| 9°    | +4           | Canção do Descanso (d8)                              | 3          | 12         | 4   | 3   | 3   | 3   | 1   | –   | –   | –   | –   |
-| 10°   | +4           | Inspiração de Bardo (d10), Aptidão, Segredos Mágicos | 4          | 14         | 4   | 3   | 3   | 3   | 2   | –   | –   | –   | –   |
-| 11°   | +4           | –                                                    | 4          | 15         | 4   | 3   | 3   | 3   | 2   | 1   | –   | –   | –   |
-| 12°   | +4           | Incremento no Valor de Habilidade                    | 4          | 15         | 4   | 3   | 3   | 3   | 2   | 1   | –   | –   | –   |
-| 13°   | +5           | Canção do Descanso (d10)                             | 4          | 16         | 4   | 3   | 3   | 3   | 2   | 1   | 1   | –   | –   |
-| 14°   | +5           | Habilidade de Colégio de Bardo, Segredos Mágicos     | 4          | 18         | 4   | 3   | 3   | 3   | 2   | 1   | 1   | –   | –   |
-| 15°   | +5           | Inspiração de Bardo (d12)                            | 4          | 19         | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | –   |
-| 16°   | +5           | Incremento no Valor de Habilidade                    | 4          | 19         | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | –   |
-| 17°   | +6           | Canção do Descanso (d12)                             | 4          | 20         | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18°   | +6           | Segredos Mágicos                                     | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19°   | +6           | Incremento no Valor de Habilidade                    | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20°   | +6           | Inspiração Superior                                  | 4          | 22         | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+# Tabela
+| Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+|-------|-------------|-----------------|----|----|----|----|----|----|----|----|----|
+| 1º    | +2          | 2               | 4  | 2  | -- | -- | -- | -- | -- | -- | -- |
+| 2º    | +2          | 2               | 5  | 3  | -- | -- | -- | -- | -- | -- | -- |
+| 3º    | +2          | 2               | 6  | 4  | 2  | -- | -- | -- | -- | -- | -- |
+| 4º    | +2          | 2               | 7  | 4  | 3  | -- | -- | -- | -- | -- | -- |
+| 5º    | +3          | 3               | 8  | 4  | 3  | 2  | -- | -- | -- | -- | -- |
+| 6º    | +3          | 3               | 9  | 4  | 3  | 3  | -- | -- | -- | -- | -- |
+| 7º    | +3          | 3               | 10 | 4  | 3  | 3  | 1  | -- | -- | -- | -- |
+| 8º    | +3          | 3               | 11 | 4  | 3  | 3  | 2  | -- | -- | -- | -- |
+| 9º    | +4          | 3               | 12 | 4  | 3  | 3  | 3  | 1  | -- | -- | -- |
+| 10º   | +4          | 4               | 14 | 4  | 3  | 3  | 3  | 2  | -- | -- | -- |
+| 11º   | +4          | 4               | 15 | 4  | 3  | 3  | 3  | 2  | 1  | -- | -- |
+| 12º   | +4          | 4               | 15 | 4  | 3  | 3  | 3  | 2  | 1  | -- | -- |
+| 13º   | +5          | 4               | 16 | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -- |
+| 14º   | +5          | 4               | 18 | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -- |
+| 15º   | +5          | 4               | 19 | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 16º   | +5          | 4               | 19 | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 17º   | +6          | 4               | 20 | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 18º   | +6          | 4               | 22 | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  |
+| 19º   | +6          | 4               | 22 | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  |
+| 20º   | +6          | 4               | 22 | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  |
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Abrigo de Lâminas  
+>> Ataque Certeiro  
+>> Camaradas  
+>> Consertar  
+>> Globos de Luz  
+>> Ilusão Menor  
+>> Luz  
+>> Mãos Mágicas  
+>> Mensagem  
+>> Prestidigitação  
+>> Zombaria Malévola  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Compreender Idiomas  
+>> Curar Ferimentos  
+>> Detectar Magia  
+>> Enfeitiçar Animal  
+>> Enfeitiçar Pessoa  
+>> Escrita Ilusória  
+>> Falar com Animais  
+>> Fogo das Fadas  
+>> Heroísmo  
+>> Identificar  
+>> Imagem Silenciosa  
+>> Maldição  
+>> Onda Trovejante  
+>> Palavra de Cura  
+>> Passos Longos  
+>> Queda Suave  
+>> Riso Histérico de Tasha  
+>> Servo Invisível  
+>> Sono  
+>> Sussurros Perturbadores  
+>> Transformação Momentânea  
+> 
+> 
+>>[!tip] 2º Nível  
+>> Abrir  
+>> Acalmar Emoções  
+>> Boca Mágica  
+>> Cativar  
+>> Cegueira/Surdez  
+>> Coroa da Loucura  
+>> Despedaçar  
+>> Detectar Pensamentos  
+>> Esquentar Metais  
+>> Força Fantasmagórica  
+>> Habilidade Melhorada  
+>> Imobilizar Pessoa  
+>> Invisibilidade  
+>> Localizar Animais ou Plantas  
+>> Localizar Objeto  
+>> Mensageiro Animal  
+>> Nuvem de Adagas  
+>> Restauração Menor  
+>> Silêncio  
+>> Sugestão  
+>> Ver o Invisível  
+>> Zona da Verdade  
+>
+>
+>>[!tip] 3º Nível  
+>> Ampliar Plantas  
+>> Clarividência  
+>> Dificultar Detecção  
+>> Dissipar Magia  
+>> Enviar Mensagem  
+>> Falar com os Mortos  
+>> Falar com Plantas  
+>> Fingir-se de Morto  
+>> Idiomas  
+>> Imagem Maior  
+>> Medo  
+>> Névoa Fétida  
+>> Padrão Hipnótico  
+>> Pequeno Refúgio de Leomund  
+>> Rogar Maldição  
+>> Símbolo de Proteção  
+> 
+>
+>>[!tip] 4º Nível  
+>> Compulsão  
+>> Confusão  
+>> Invisibilidade Maior  
+>> Localizar Criatura  
+>> Metamorfose  
+>> Movimentação Livre  
+>> Porta Dimensional  
+>> Terreno Ilusório  
+> 
+>
+>>[!tip] 5º Nível  
+>> Âncora Planar  
+>> Animar Objetos  
+>> Círculo de Teletransporte  
+>> Curar Ferimentos em Massa  
+>> Despertar  
+>> Despistar  
+>> Dominar Pessoa  
+>> Imobilizar Monstro  
+>> Lendas e Histórias  
+>> Missão  
+>> Modificar Memória  
+>> Restauração Maior  
+>> Reviver Mortos  
+>> Similaridade  
+>> Sonho  
+>> Vidência  
+> 
+>
+>>[!tip] 6º Nível  
+>> Ataque Visual  
+>> Dança Irresistível de Otto  
+>> Encontrar o Caminho  
+>> Ilusão Programada  
+>> Proteger Fortalezas  
+>> Sugestão em Massa  
+>> Visão da Verdade  
+> 
+>
+>>[!tip] 7º Nível  
+>> Cubo de Energia  
+>> Espada de Mordenkainen  
+>> Forma Etérea  
+>> Mansão Magnífica de Mordenkainen  
+>> Miragem Arcana  
+>> Projetar Imagem  
+>> Regeneração  
+>> Ressurreição  
+>> Símbolo  
+>> Teletransporte  
+>
+> 
+>>[!tip] 8º Nível  
+>> Dominar Monstro  
+>> Eloquência  
+>> Limpar a Mente  
+>> Mente Débil  
+>> Palavra de Poder Atordoar  
+> 
+>
+>>[!tip] 9º Nível  
+>> Metamorfose Verdadeira  
+>> Palavra de Poder Curar  
+>> Palavra de Poder Matar  
+>> Previsão  
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

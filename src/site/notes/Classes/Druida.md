@@ -135,7 +135,8 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> **Arquidruida:**  
 >> Pode usar Forma Selvagem sem limite.
 
-___
+# Tabela
+
 | Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
 |-------|-------------|------------------|----|----|----|----|----|----|----|----|----|
 | 1º    | +2          | 2                | 2  | –– | –– | –– | –– | –– | –– | –– | –– |
@@ -158,6 +159,148 @@ ___
 | 18º   | +6          | 4                | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
 | 19º   | +6          | 4                | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
 | 20º   | +6          | 4                | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Arma Druídica  
+>> Arte Druida  
+>> Borrifada Venenosa  
+>> Chicote de Espinhos  
+>> Consertar  
+>> Orientação  
+>> Produzir Chama  
+>> Resistência  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Bom Fruto  
+>> Constrição  
+>> Criar ou Destruir Água  
+>> Curar Ferimentos  
+>> Detectar Magia  
+>> Detectar Veneno e Doença  
+>> Enfeitiçar Animal  
+>> Enfeitiçar Pessoa  
+>> Falar com Animais  
+>> Fogo das Fadas  
+>> Névoa  
+>> Onda Trovejante  
+>> Palavra de Cura  
+>> Passos Longos  
+>> Purificar Comida e Bebida  
+>> Salto  
+> 
+>
+>>[!tip] 2º Nível  
+>> Crescer Espinhos  
+>> Encontrar Armadilhas  
+>> Esfera Flamejante  
+>> Esquentar Metais  
+>> Habilidade Melhorada  
+>> Imobilizar Pessoa  
+>> Lâmina Flamejante  
+>> Localizar Animais ou Plantas  
+>> Localizar Objeto  
+>> Lufada de Vento  
+>> Mensageiro Animal  
+>> Passo sem Pegadas  
+>> Pele de Árvore  
+>> Proteção Contra Venenos  
+>> Raio Lunar  
+>> Restauração Menor  
+>> Sentidos da Besta  
+>> Visão no Escuro  
+> 
+>
+>>[!tip] 3º Nível  
+>> Ampliar Plantas  
+>> Caminhar na Água  
+>> Convocar Relâmpagos  
+>> Dissipar Magia  
+>> Falar com Plantas  
+>> Fingir-se de Morto  
+>> Invocar Animais  
+>> Luz do Dia  
+>> Mesclar-se às Rochas  
+>> Muralha de Vento  
+>> Nevasca  
+>> Proteção contra Energia  
+>> Respirar na Água  
+> 
+>
+>>[!tip] 4º Nível  
+>> Confusão  
+>> Controlar Água  
+>> Dominar Animais  
+>> Inseto Gigante  
+>> Invocar Elementais Menores  
+>> Invocar Seres da Floresta  
+>> Localizar Criatura  
+>> Metamorfose  
+>> Moldar Rochas  
+>> Movimentação Livre  
+>> Muralha de Fogo  
+>> Pele Rochosa  
+>> Secar  
+>> Tempestade Glacial  
+>> Terreno Ilusório  
+>> Vinhas Sufocantes  
+> 
+>
+>>[!tip] 5º Nível  
+>> Âncora Planar  
+>> Barreira Antivida  
+>> Caminhar por Árvores  
+>> Comunhão com a Natureza  
+>> Curar Ferimentos em Massa  
+>> Despertar  
+>> Epidemia  
+>> Invocar Elemental  
+>> Missão  
+>> Muralha de Pedra  
+>> Praga de Insetos  
+>> Reencarnação  
+>> Restauração Maior  
+>> Vidência  
+> 
+>
+>>[!tip] 6º Nível  
+>> Banquete de Heróis  
+>> Caminhar no Vento  
+>> Cura  
+>> Encontrar o Caminho  
+>> Invocar Feérico  
+>> Mover Terra  
+>> Muralha de Espinhos  
+>> Raio de Sol  
+>> Teletransporte por Árvores  
+> 
+>
+>>[!tip] 7º Nível  
+>> Inverter a Gravidade  
+>> Miragem Arcana  
+>> Regeneração  
+>> Tempestade de Fogo  
+>> Viagem Planar  
+> 
+>
+>>[!tip] 8º Nível  
+>> Antipatia/Simpatia  
+>> Controlar o Clima  
+>> Explosão Solar  
+>> Forma Animal  
+>> Mente Débil  
+>> Terremoto  
+>> Tsunami  
+> 
+>
+>>[!tip] 9º Nível  
+>> Alterar Forma  
+>> Previsão  
+>> Ressurreição Verdadeira  
+>> Tempestade da Vingança  
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

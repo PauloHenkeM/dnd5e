@@ -143,7 +143,8 @@ Você começa com os seguintes equipamentos, em adição ao equipamento concedid
 >> [!info] 20°  
 >> **Intervenção Divina Aprimorada:**  
 >> Seus pedidos de Intervenção Divina funcionam automaticamente, sem precisar rolar dados.
-___
+
+# Tabela
 
 | Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
 |-------|-------------|-----------------|----|----|----|----|----|----|----|----|----|
@@ -167,6 +168,145 @@ ___
 | 18º   | +6          | 5               | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
 | 19º   | +6          | 5               | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
 | 20º   | +6          | 5               | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Chama Sagrada  
+>> Consertar  
+>> Luz  
+>> Orientação  
+>> Poupar os Moribundos  
+>> Resistência  
+>> Taumaturgia  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Bênção  
+>> Comando  
+>> Criar ou Destruir Água  
+>> Curar Ferimentos  
+>> Detectar Bem e Mal  
+>> Detectar Magia  
+>> Detectar Veneno e Doença  
+>> Escudo da Fé  
+>> Infligir Ferimentos  
+>> Maldição  
+>> Palavra de Cura  
+>> Proteção contra Bem e Mal  
+>> Purificar Comida e Bebida  
+>> Raio Guiado  
+>> Santuário  
+> 
+>
+>>[!tip] 2º Nível  
+>> Acalmar Emoções  
+>> Ajuda  
+>> Arma Espiritual  
+>> Augúrio  
+>> Cegueira/Surdez  
+>> Chama Contínua  
+>> Descanso Tranquilo  
+>> Encontrar Armadilhas  
+>> Habilidade Melhorada  
+>> Imobilizar Pessoa  
+>> Localizar Objeto  
+>> Oração de Cura  
+>> Proteção Contra Venenos  
+>> Restauração Menor  
+>> Silêncio  
+>> Vínculo de Proteção  
+>> Zona da Verdade  
+> 
+>
+>>[!tip] 3º Nível  
+>> Animar os Mortos  
+>> Caminhar na Água  
+>> Círculo Mágico  
+>> Clarividência  
+>> Criar Água e Comida  
+>> Dissipar Magia  
+>> Enviar Mensagem  
+>> Falar com os Mortos  
+>> Farol de Esperança  
+>> Fingir-se de Morto  
+>> Guardiões Espirituais  
+>> Idiomas  
+>> Luz do Dia  
+>> Mesclar-se às Rochas  
+>> Palavra de Cura em Massa  
+>> Proteção contra Energia  
+>> Remover Maldição  
+>> Reviver  
+>> Rogar Maldição  
+>> Símbolo de Proteção  
+> 
+>
+>>[!tip] 4º Nível  
+>> Adivinhação  
+>> Banimento  
+>> Controlar Água  
+>> Guardião da Fé  
+>> Localizar Criatura  
+>> Moldar Rochas  
+>> Movimentação Livre  
+>> Proteção Contra a Morte  
+> 
+>
+>>[!tip] 5º Nível  
+>> Âncora Planar  
+>> Coluna de Chamas  
+>> Comunhão  
+>> Curar Ferimentos em Massa  
+>> Dissipar Bem e Mal  
+>> Epidemia  
+>> Lendas e Histórias  
+>> Missão  
+>> Praga de Insetos  
+>> Restauração Maior  
+>> Reviver Mortos  
+>> Santificar  
+>> Vidência  
+> 
+>
+>>[!tip] 6º Nível  
+>> Aliado Extra-Planar  
+>> Banquete de Heróis  
+>> Barreira de Lâminas  
+>> Criar Morto-Vivo  
+>> Cura  
+>> Doença Plena  
+>> Encontrar o Caminho  
+>> Palavra de Recordação  
+>> Proibição  
+>> Visão da Verdade  
+> 
+>
+>>[!tip] 7º Nível  
+>> Forma Etérea  
+>> Invocar Celestial  
+>> Palavra Divina  
+>> Regeneração  
+>> Ressurreição  
+>> Símbolo  
+>> Tempestade de Fogo  
+>> Viagem Planar  
+> 
+>
+>>[!tip] 8º Nível  
+>> Aura Sagrada  
+>> Campo Antimagia  
+>> Controlar o Clima  
+>> Terremoto  
+> 
+>
+>>[!tip] 9º Nível  
+>> Cura em Massa  
+>> Portal  
+>> Projeção Astral  
+>> Ressurreição Verdadeira  
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

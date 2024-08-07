@@ -94,8 +94,10 @@ Você começa com o equipamento a seguir, além do equipamento do seu antecedent
 >
 >> [!info] 20°
 >> **Campeão Primitivo:** Sua Força e Constituição aumentam em 4. O valor máximo dessas habilidades agora é 24.
-___
-| Nível | Bônus de Proficiência | Fúrias | Dano da Fúria |
+
+# Tabela
+
+| Nível | Bônus<br>Prof. | Fúrias | Dano<br>Fúria |
 |---|---|---|---|
 | 1º | +2 | 2 | +2 |
 | 2º | +2 | 2 | +2 |
@@ -118,11 +120,6 @@ ___
 | 19º | +6 | 6 | +4 |
 | 20º | +6 | Infin. | +4 |
 
-# Truques
-
-Abrigo de Lâminas (p1)
-
-[[Outros/Truques#^8cb7ec\|Abrigo de Lâmina]]
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.981-03:00"}
 ---
 
-Aqui estão os textos formatados conforme o layout solicitado:
-
----
 
 # Chama Sagrada  
 **Truque Evocação**  
@@ -25,6 +22,9 @@ O jogador cria um chicote longo, como uma vinha, coberto de espinhos que se lan�
 O dano desta magia aumenta em 2d6 quando o jogador alcança o 5º nível, 3d6 quando alcança o 11º nível e 4d6 quando alcança o 17º nível.  
 
 # Camaradas  
+{ #ca54a0}
+
+
 **Truque Encantamento**  
 - **Tempo de lançamento:** 1 ação  
 - **Alcance:** O jogador  
@@ -54,6 +54,9 @@ Sussurrando para os espíritos da natureza, o jogador cria um dos seguintes efei
 • O jogador instantaneamente ilumina ou extingue uma vela, uma tocha ou uma pequena fogueira.  
 
 # Ataque Certeiro  
+{ #10b116}
+
+
 **Truque Adivinhação**  
 - **Tempo de lançamento:** 1 ação  
 - **Alcance:** 9 metros (6 quadrados)  
@@ -90,6 +93,9 @@ O jogador toca um objeto não maior do que 3 metros em qualquer dimensão. Até 
 Se o alvo for um objeto usado ou em posse de uma criatura hostil, a criatura deve obter sucesso em um TR de Destreza para evitar o efeito.  
 
 # Consertar  
+{ #6f733d}
+
+
 **Truque Transmutação**  
 - **Tempo de lançamento:** 1 minuto  
 - **Alcance:** Toque  

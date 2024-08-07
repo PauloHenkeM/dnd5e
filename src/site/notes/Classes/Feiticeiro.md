@@ -136,6 +136,192 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> **Restauração do Feiticeiro:**  
 >> Recupera 4 pontos de feitiçaria sempre que terminar um descanso curto.
 
+# Tabela
+| Nível | Bônus Prof. | Pontos Feitiç. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+|-------|-------------|----------------|-----------------|----|----|----|----|----|----|----|----|----|
+| 1º    | +2          | –              | 4               | 2  | 2  | –  | –  | –  | –  | –  | –  | –  |
+| 2º    | +2          | 2              | 4               | 3  | 3  | –  | –  | –  | –  | –  | –  | –  |
+| 3º    | +2          | 3              | 4               | 4  | 4  | 2  | –  | –  | –  | –  | –  | –  |
+| 4º    | +2          | 4              | 5               | 5  | 5  | 3  | –  | –  | –  | –  | –  | –  |
+| 5º    | +3          | 5              | 5               | 6  | 6  | 3  | 2  | -- | –  | –  | –  | –  |
+| 6º    | +3          | 6              | 5               | 7  | 7  | 3  | 3  | –  | –  | –  | –  | –  |
+| 7º    | +3          | 7              | 5               | 8  | 8  | 3  | 3  | 1  | –  | –  | –  | –  |
+| 8º    | +3          | 8              | 5               | 9  | 9  | 3  | 3  | 2  | –  | –  | –  | –  |
+| 9º    | +4          | 9              | 5               | 10 | 10 | 3  | 3  | 3  | 1  | –  | –  | –  |
+| 10º   | +4          | 10             | 6               | 11 | 11 | 3  | 3  | 3  | 2  | –  | –  | –  |
+| 11º   | +4          | 11             | 6               | 12 | 12 | 3  | 3  | 3  | 2  | 1  | –  | –  |
+| 12º   | +4          | 12             | 6               | 12 | 12 | 3  | 3  | 3  | 2  | 1  | –  | –  |
+| 13º   | +5          | 13             | 6               | 13 | 13 | 3  | 3  | 3  | 2  | 1  | 1  | –  |
+| 14º   | +5          | 14             | 6               | 13 | 13 | 3  | 3  | 3  | 2  | 1  | 1  | –  |
+| 15º   | +5          | 15             | 6               | 14 | 14 | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 16º   | +5          | 16             | 6               | 14 | 14 | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 17º   | +6          | 17             | 6               | 15 | 15 | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+| 18º   | +6          | 18             | 6               | 15 | 15 | 3  | 3  | 3  | 3  | 1  | 1  | 1  |
+| 19º   | +6          | 19             | 6               | 15 | 15 | 3  | 3  | 3  | 3  | 2  | 1  | 1  |
+| 20º   | +6          | 20             | 6               | 15 | 15 | 3  | 3  | 3  | 3  | 2  | 2  | 1  |
+
+
+# Truques
+>[!column|flex no-t]
+>> [!info|no-t]
+>> Abrigo de Lâminas  
+>> Ataque Certeiro  
+>> Borrifada Venenosa  
+>> Camaradas  
+>> Consertar  
+>> Globos de Luz  
+>> Ilusão Menor  
+>> Lança de Fogo  
+>> Luz  
+>> Mãos Mágicas  
+>> Mensagem  
+>> Prestidigitação  
+>> Raio de Ácido  
+>> Raio de Gelo  
+>> Toque Chocante  
+>> Toque Macabro  
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Armadura Arcana  
+>> Compreender Idiomas  
+>> Detectar Magia  
+>> Enfeitiçar Pessoa  
+>> Escudo Arcano  
+>> Faísca da Bruxa  
+>> Imagem Silenciosa  
+>> Leque Cromático  
+>> Mãos Flamejantes  
+>> Mísseis Mágicos  
+>> Névoa  
+>> Onda Trovejante  
+>> Orbe Cromático  
+>> Queda Suave  
+>> Raio Doentio  
+>> Recuo Acelerado  
+>> Salto  
+>> Sono  
+>> Transformação Momentânea  
+>> Vitalidade Ilusória  
+> 
+>
+>>[!tip] 2º Nível  
+>> Abrir  
+>> Alterar-se  
+>> Aumentar/Diminuir  
+>> Borrão  
+>> Cegueira/Surdez  
+>> Coroa da Loucura  
+>> Despedaçar  
+>> Detectar Pensamentos  
+>> Escuridão  
+>> Força Fantasmagórica  
+>> Habilidade Melhorada  
+>> Imobilizar Pessoa  
+>> Invisibilidade  
+>> Levitação  
+>> Lufada de Vento  
+>> Nuvem de Adagas  
+>> Passo das Brumas  
+>> Patas de Aranha  
+>> Raio Ardente  
+>> Reflexos  
+>> Sugestão  
+>> Teia  
+>> Ver o Invisível  
+>> Visão no Escuro  
+> 
+>
+>>[!tip] 3º Nível  
+>> Bola de Fogo  
+>> Caminhar na Água  
+>> Clarividência  
+>> Contramágica  
+>> Dissipar Magia  
+>> Forma Gasosa  
+>> Idiomas  
+>> Imagem Maior  
+>> Lentidão  
+>> Luz do Dia  
+>> Medo  
+>> Nevasca  
+>> Névoa Fétida  
+>> Padrão Hipnótico  
+>> Piscar  
+>> Proteção contra Energia  
+>> Relâmpago  
+>> Respirar na Água  
+>> Velocidade  
+>> Voo  
+> 
+>
+>>[!tip] 4º Nível  
+>> Banimento  
+>> Confusão  
+>> Dominar Animais  
+>> Invisibilidade Maior  
+>> Metamorfose  
+>> Muralha de Fogo  
+>> Pele Rochosa  
+>> Porta Dimensional  
+>> Secar  
+>> Tempestade Glacial  
+> 
+>
+>>[!tip] 5º Nível  
+>> Animar Objetos  
+>> Círculo de Teletransporte  
+>> Cone Glacial  
+>> Criação  
+>> Dominar Pessoa  
+>> Imobilizar Monstro  
+>> Muralha de Pedra  
+>> Névoa Mortal  
+>> Praga de Insetos  
+>> Similaridade  
+>> Telecinésia  
+> 
+>
+>>[!tip] 6º Nível  
+>> Ataque Visual  
+>> Círculo da Morte  
+>> Corrente de Relâmpagos  
+>> Desintegrar  
+>> Globo de Invulnerabilidade  
+>> Mover Terra  
+>> Portão Arcano  
+>> Raio de Sol  
+>> Sugestão em Massa  
+>> Visão da Verdade  
+> 
+>
+>>[!tip] 7º Nível  
+>> Bola de Fogo Controlável  
+>> Dedo da Morte  
+>> Forma Etérea  
+>> Inverter a Gravidade  
+>> Rajada Prismática  
+>> Teletransporte  
+>> Tempestade de Fogo  
+>> Viagem Planar  
+> 
+>
+>>[!tip] 8º Nível  
+>> Dominar Monstro  
+>> Explosão Solar  
+>> Nuvem Incendiária  
+>> Palavra de Poder Atordoar  
+>> Terremoto  
+> 
+>
+>>[!tip] 9º Nível  
+>> Chuva de Meteoros  
+>> Desejo  
+>> Palavra de Poder Matar  
+>> Parar o Tempo  
+>> Portal  
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

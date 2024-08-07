@@ -109,6 +109,93 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> [!info] 20°
 >> **Característica de Juramento Sagrado**
 
+# Tabela
+
+| Nível | Bônus<br>Prof. | 1º | 2º | 3º | 4º | 5º |
+|-------|-------------|----|----|----|----|----|
+| 1º    | +2          | -- | -- | -- | -- | -- |
+| 2º    | +2          | 2  | -- | -- | -- | -- |
+| 3º    | +2          | 3  | -- | -- | -- | -- |
+| 4º    | +2          | 3  | -- | -- | -- | -- |
+| 5º    | +3          | 4  | 2  | -- | -- | -- |
+| 6º    | +3          | 4  | 2  | -- | -- | -- |
+| 7º    | +3          | 4  | 3  | -- | -- | -- |
+| 8º    | +3          | 4  | 3  | -- | -- | -- |
+| 9º    | +4          | 4  | 3  | 2  | -- | -- |
+| 10º   | +4          | 4  | 3  | 2  | -- | -- |
+| 11º   | +4          | 4  | 3  | 3  | -- | -- |
+| 12º   | +4          | 4  | 3  | 3  | -- | -- |
+| 13º   | +5          | 4  | 3  | 3  | 1  | -- |
+| 14º   | +5          | 4  | 3  | 3  | 1  | -- |
+| 15º   | +5          | 4  | 3  | 3  | 2  | -- |
+| 16º   | +5          | 4  | 3  | 3  | 2  | -- |
+| 17º   | +6          | 4  | 3  | 3  | 3  | 1  |
+| 18º   | +6          | 4  | 3  | 3  | 3  | 1  |
+| 19º   | +6          | 4  | 3  | 3  | 3  | 2  |
+| 20º   | +6          | 4  | 3  | 3  | 3  | 2  |
+
+
+# Mágias
+> [!column|flex no-t]
+>>[!tip] 1º Nível  
+>> Auxílio Divino  
+>> Bênção  
+>> Comando  
+>> Curar Ferimentos  
+>> Detectar Bem e Mal  
+>> Detectar Magia  
+>> Detectar Veneno e Doença  
+>> Escudo da Fé  
+>> Forçar Duelo  
+>> Heroísmo  
+>> Proteção contra Bem e Mal  
+>> Punição Ardente  
+>> Punição Furiosa  
+>> Punição Trovejante  
+>> Purificar Comida e Bebida  
+> 
+>
+>>[!tip] 2º Nível  
+>> Ajuda  
+>> Arma Mágica  
+>> Convocar Montaria  
+>> Localizar Objeto  
+>> Proteção Contra Venenos  
+>> Punição Sinalizadora  
+>> Restauração Menor  
+>> Zona da Verdade  
+> 
+>
+>>[!tip] 3º Nível  
+>> Arma Elemental  
+>> Aura de Vitalidade  
+>> Círculo Mágico  
+>> Criar Água e Comida  
+>> Dissipar Magia  
+>> Luz do Dia  
+>> Manto do Cruzado  
+>> Punição Cegante  
+>> Remover Maldição  
+>> Reviver  
+> 
+>
+>>[!tip] 4º Nível  
+>> Aura de Pureza  
+>> Aura de Vida  
+>> Banimento  
+>> Localizar Criatura  
+>> Proteção Contra a Morte  
+>> Punição Arrebatadora  
+> 
+>
+>>[!tip] 5º Nível  
+>> Círculo de Poder  
+>> Dissipar Bem e Mal  
+>> Missão  
+>> Punição Banidora  
+>> Punição Destrutiva  
+>> Reviver Mortos  
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

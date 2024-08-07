@@ -114,6 +114,31 @@ Você começa com os seguintes equipamentos, além do equipamento dado pelo seu 
 >> [!info] 20°  
 >> **Ataque Extra:**  
 >> Quando usar ação Atacar, pode atacar quatro vezes.
+
+# Tabela
+| Nível | Bônus | Prof.<br>Fúrias | Dano<br>Fúria |
+|---|---|---|---|
+| 1º    | +2    | 2            | +2         |
+| 2º    | +2    | 2            | +2         |
+| 3º    | +2    | 3            | +2         |
+| 4º    | +2    | 3            | +2         |
+| 5º    | +3    | 3            | +2         |
+| 6º    | +3    | 4            | +2         |
+| 7º    | +3    | 4            | +2         |
+| 8º    | +3    | 4            | +2         |
+| 9º    | +4    | 4            | +3         |
+| 10º   | +4    | 4            | +3         |
+| 11º   | +4    | 4            | +3         |
+| 12º   | +4    | 5            | +3         |
+| 13º   | +5    | 5            | +3         |
+| 14º   | +5    | 5            | +3         |
+| 15º   | +5    | 5            | +3         |
+| 16º   | +5    | 5            | +4         |
+| 17º   | +6    | 6            | +4         |
+| 18º   | +6    | 6            | +4         |
+| 19º   | +6    | 6            | +4         |
+| 20º   | +6    | Infin.       | +4         |
+
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]
