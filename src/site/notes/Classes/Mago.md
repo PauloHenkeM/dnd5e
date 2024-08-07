@@ -3,8 +3,6 @@
 ---
 
 
-![Mago.jpeg|left|250](/img/user/Arquivos/Mago.jpeg)
-
 # Proficiências
 - **Armaduras:** Nenhuma  
 - **Armas:** Adaga, besta leve, cajado, dardo e funda  

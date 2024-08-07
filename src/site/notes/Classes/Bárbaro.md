@@ -3,8 +3,6 @@
 ---
 
 
-![Bárbaro.jpeg|left|250](/img/user/Arquivos/B%C3%A1rbaro.jpeg)
-
 # Proficiências
 - **Armaduras:** Leves, médias, e escudos
 - **Armas:** Simples e marciais

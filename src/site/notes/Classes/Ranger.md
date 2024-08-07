@@ -3,8 +3,6 @@
 ---
 
 
-![Ranger.jpeg|left|230](/img/user/Arquivos/Ranger.jpeg)
-
 # Proficiências
 
 - **Armaduras:** leves, médias e escudos

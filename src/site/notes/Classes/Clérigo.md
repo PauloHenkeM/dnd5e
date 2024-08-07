@@ -3,8 +3,6 @@
 ---
 
 
-![Clérigo.jpeg|left|280](/img/user/Arquivos/Cl%C3%A9rigo.jpeg)
-
 # Proficiências
 - **Armaduras**: Leves, médias e escudos.
 - **Armas**: Simples.
@@ -146,7 +144,7 @@ Você começa com os seguintes equipamentos, em adição ao equipamento concedid
 
 # Tabela
 
-| Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+| Nível | Bônus<br>Prof. | Truques<br>Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
 |-------|-------------|-----------------|----|----|----|----|----|----|----|----|----|
 | 1º    | +2          | 3               | 2  | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2º    | +2          | 3               | 3  | -- | -- | -- | -- | -- | -- | -- | -- |

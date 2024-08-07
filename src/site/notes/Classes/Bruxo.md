@@ -3,8 +3,6 @@
 ---
 
 
-![Bruxo.jpeg|left|280x400](/img/user/Arquivos/Bruxo.jpeg)
-
 # Proficiências
 - **Armaduras:** Leves  
 - **Armas:** Simples  

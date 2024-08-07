@@ -3,8 +3,6 @@
 ---
 
 
-![Monge.jpeg|left|400](/img/user/Arquivos/Monge.jpeg)
-
 # Proficiências
 
 - **Armaduras:** nenhuma

@@ -3,8 +3,6 @@
 ---
 
 
-![Feiticeiro.jpeg|left|270](/img/user/Arquivos/Feiticeiro.jpeg)
-
 # Proficiências
 
 - **Armaduras:** nenhuma
@@ -137,8 +135,8 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 >> Recupera 4 pontos de feitiçaria sempre que terminar um descanso curto.
 
 # Tabela
-| Nível | Bônus Prof. | Pontos Feitiç. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
-|-------|-------------|----------------|-----------------|----|----|----|----|----|----|----|----|----|
+| Nível | Bônus<br>Prof. | Pontos<br>Feitiç. | Truques<br>Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+|---|---|---|----|----|----|---|---|---|---|---|---|---|
 | 1º    | +2          | –              | 4               | 2  | 2  | –  | –  | –  | –  | –  | –  | –  |
 | 2º    | +2          | 2              | 4               | 3  | 3  | –  | –  | –  | –  | –  | –  | –  |
 | 3º    | +2          | 3              | 4               | 4  | 4  | 2  | –  | –  | –  | –  | –  | –  |

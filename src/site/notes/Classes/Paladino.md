@@ -3,8 +3,6 @@
 ---
 
 
-![Paladino.jpeg|left|350](/img/user/Arquivos/Paladino.jpeg)
-
 # Proficiências
 
 - **Armaduras:** leves, médias, pesadas e escudos

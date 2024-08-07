@@ -3,11 +3,11 @@
 ---
 
 
-- [[Classes/Bardo\|Bardo]]
-- [[Classes/Bárbaro\|Bárbaro]]
-- [[Classes/Bruxo\|Bruxo]]
-- [[Classes/Clérigo\|Clérigo]]
 - [[Classes/Druida\|Druida]]
+- [[Classes/Clérigo\|Clérigo]]
+- [[Classes/Bruxo\|Bruxo]]
+- [[Classes/Bárbaro\|Bárbaro]]
+- [[Classes/Bardo\|Bardo]]
 - [[Classes/Feiticeiro\|Feiticeiro]]
 - [[Classes/Guerreiro\|Guerreiro]]
 - [[Classes/Ladino\|Ladino]]

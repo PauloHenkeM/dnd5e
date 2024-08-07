@@ -3,8 +3,6 @@
 ---
 
 
-![Druida.jpeg|left|300](/img/user/Arquivos/Druida.jpeg)
-
 # Proficiências
 - **Armaduras leves, médias e escudos (druidas não usam armadura ou escudo de metal);**  
 **Armas:** adagas, azagaias, bordões, cimitarras, clavas, dardos, foices, fundas, lanças, maças;  
@@ -137,7 +135,7 @@ Você começa com os seguintes equipamentos, além do equipamento concedido pelo
 
 # Tabela
 
-| Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+| Nível | Bônus<br>Prof. | Truques<br>Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
 |-------|-------------|------------------|----|----|----|----|----|----|----|----|----|
 | 1º    | +2          | 2                | 2  | –– | –– | –– | –– | –– | –– | –– | –– |
 | 2º    | +2          | 2                | 3  | –– | –– | –– | –– | –– | –– | –– | –– |

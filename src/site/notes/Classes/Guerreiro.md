@@ -3,8 +3,6 @@
 ---
 
 
-![Guerreiro.jpeg|left|300](/img/user/Arquivos/Guerreiro.jpeg)
-
 # Proficiências
 
 - **Armaduras:** leves, médias, pesadas e escudos

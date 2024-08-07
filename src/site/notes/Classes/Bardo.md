@@ -3,8 +3,6 @@
 ---
 
 
-![Bardo.jpeg|left|200x350](/img/user/Arquivos/Bardo.jpeg)
-
 # Proficiências
 - **Armaduras:** Leves  
 - **Armas:** Simples, besta de mão, espada curta, espada longa, florete  
@@ -135,7 +133,7 @@ Você começa com os seguintes equipamentos, além do concedido pelo seu anteced
 >> Quando você rolar iniciativa e não tiver usos de Inspiração de Bardo sobrando, você recupera um uso.
 
 # Tabela
-| Nível | Bônus Prof. | Truques Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+| Nível | Bônus<br>Prof. | Truques<br>Conhec. | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
 |-------|-------------|-----------------|----|----|----|----|----|----|----|----|----|
 | 1º    | +2          | 2               | 4  | 2  | -- | -- | -- | -- | -- | -- | -- |
 | 2º    | +2          | 2               | 5  | 3  | -- | -- | -- | -- | -- | -- | -- |

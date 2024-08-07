@@ -3,8 +3,6 @@
 ---
 
 
-![Ladino.jpeg|left|200x400](/img/user/Arquivos/Ladino.jpeg)
-
 # Proficiências
 
 - **Armaduras:** leves
