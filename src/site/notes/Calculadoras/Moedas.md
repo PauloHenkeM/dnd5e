@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/moedas/","title":"Calculadora de Moedas","created":"2024-07-25T09:31:59.000-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/moedas/","title":"Calculadora de Moedas","created":"2024-07-25T09:31:59.000-03:00","updated":"2024-07-25T23:45:15.000-03:00"}
 ---
 
 ## Entrada

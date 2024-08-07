@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ranger/mestre-das-feras/","created":"2024-07-26T09:30:01.057-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ranger/mestre-das-feras/","created":"2024-07-26T09:30:01.057-03:00","updated":"2024-07-28T22:17:30.391-03:00"}
 ---
 
 

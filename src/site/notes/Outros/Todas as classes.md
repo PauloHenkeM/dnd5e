@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/todas-as-classes/","created":"2024-07-24T08:42:30.472-03:00"}
+{"dg-publish":true,"permalink":"/outros/todas-as-classes/","created":"2024-07-24T08:42:30.472-03:00","updated":"2024-07-29T11:07:27.701-03:00"}
 ---
 
 

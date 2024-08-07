@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-da-palma-aberta/","created":"2024-07-26T08:25:17.268-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-da-palma-aberta/","created":"2024-07-26T08:25:17.268-03:00","updated":"2024-07-28T22:17:03.329-03:00"}
 ---
 
 

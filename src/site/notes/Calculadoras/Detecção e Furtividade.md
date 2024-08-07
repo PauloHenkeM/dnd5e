@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/deteccao-e-furtividade/","title":"Calculadora de Detecção e Furtividade","created":"2024-07-25T07:50:01.000-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/deteccao-e-furtividade/","title":"Calculadora de Detecção e Furtividade","created":"2024-07-25T07:50:01.000-03:00","updated":"2024-07-25T23:44:24.000-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/paladino/","tags":["Classes"],"created":"2024-07-23T13:39:25.593-03:00"}
+{"dg-publish":true,"permalink":"/classes/paladino/","tags":["Classes"],"created":"2024-07-23T13:39:25.593-03:00","updated":"2024-08-07T16:16:33.443-03:00"}
 ---
 
 

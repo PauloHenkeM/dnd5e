@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/barbaro/berserker/","created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/barbaro/berserker/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:14:40.138-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/guerreiro/cavaleiro-mistico/","created":"2024-07-25T19:44:38.750-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/guerreiro/cavaleiro-mistico/","created":"2024-07-25T19:44:38.750-03:00","updated":"2024-07-28T22:16:09.563-03:00"}
 ---
 
 

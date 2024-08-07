@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/queda/","title":"Calculadora de Queda","created":"2024-07-25T10:09:38.000-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/queda/","title":"Calculadora de Queda","created":"2024-07-25T10:09:38.000-03:00","updated":"2024-07-27T11:47:51.352-03:00"}
 ---
 
 

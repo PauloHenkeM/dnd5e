@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/perseguicao/","title":"Calculadora de Perseguição","created":"2024-07-25T08:23:07.000-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/perseguicao/","title":"Calculadora de Perseguição","created":"2024-07-25T08:23:07.000-03:00","updated":"2024-07-25T23:46:07.000-03:00"}
 ---
 
 

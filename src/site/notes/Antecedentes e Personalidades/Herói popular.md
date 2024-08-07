@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/heroi-popular/","created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/heroi-popular/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:12:58.060-03:00"}
 ---
 
 Você veio de uma classe humilde da sociedade, mas está destinado a muito mais. O povo de sua vila já o reconhece como campeão, e seu destino o conduz a batalhas contra tiranos e monstros que ameaçam o povo onde quer que vá.

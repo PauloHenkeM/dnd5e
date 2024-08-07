@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem"],"created":"2024-07-23T08:29:11.000-03:00"}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/mananas-ficha-nivel-2/","tags":["Meu-Personagem"],"created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-29T12:56:58.829-03:00"}
 ---
 
 
