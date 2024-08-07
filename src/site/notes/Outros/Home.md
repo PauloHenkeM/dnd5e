@@ -26,8 +26,11 @@
 >> [[Outros/Todas as mágias\|Todas as mágias]]
 >> [[Outros/Todas as raças\|Todas as raças]]
 >> [[Outros/Todos os antecedentes\|Todos os antecedentes]]
->
 >> [[Outros/Todos os personagens\|Todos os personagens]]
 >> [[Outros/Truques\|Todos os truques]]
+>
+>> [[Outros/Truques\|Truques]]
 >> [[Antecedentes e Personalidades/1.Explicação\|Explicação Antecedentes e Personalidades]]
 >> [[Outros/Links úteis\|Links úteis]]
+
+![[Como escolher uma classe.canvas]]
