@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ranger/","tags":["Classes"],"created":"2024-07-23T13:39:40.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/ranger/","tags":["Classes"],"created":"2024-07-23T13:39:40.673-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magias/nivel-7/","created":"2024-07-30T08:44:41.000-03:00"}
+{"dg-publish":true,"permalink":"/magias/nivel-7/","created":"2024-07-30T08:44:41.394-03:00"}
 ---
 
 # Bola de Fogo Controlável

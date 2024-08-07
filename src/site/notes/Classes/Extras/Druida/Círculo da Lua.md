@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/druida/circulo-da-lua/","created":"2024-07-23T19:27:31.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/druida/circulo-da-lua/","created":"2024-07-23T19:27:31.973-03:00"}
 ---
 
 

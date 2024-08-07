@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/resumo/","created":"2024-07-23T15:51:59.000-03:00"}
+{"dg-publish":true,"permalink":"/1-campanhas/1-repouso-do-dragao/resumo/","created":"2024-07-23T15:51:59.847-03:00"}
 ---
 
 

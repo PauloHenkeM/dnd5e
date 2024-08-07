@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.000-03:00"}
+{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.981-03:00"}
 ---
 
 Aqui estão os textos formatados conforme o layout solicitado:
@@ -62,6 +62,9 @@ Sussurrando para os espíritos da natureza, o jogador cria um dos seguintes efei
 O jogador estende sua mão e aponta seu dedo sobre o alvo dentro do alcance. A magia garante ao jogador uma breve intuição sobre as defesas do alvo. No próximo turno do jogador, ele ganha vantagem em sua primeira jogada de ataque contra o alvo, considerando que esta magia ainda não tenha acabado.  
 
 # Abrigo de Lâminas  
+{ #8cb7ec}
+
+
 **Truque Abjuração**  
 - **Tempo de lançamento:** 1 ação  
 - **Alcance:** O jogador  

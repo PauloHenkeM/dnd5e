@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/druida/circulo-do-solo/","created":"2024-07-23T19:29:05.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/druida/circulo-do-solo/","created":"2024-07-23T19:29:05.070-03:00"}
 ---
 
 

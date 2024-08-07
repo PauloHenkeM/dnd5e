@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/feiticeiro/magia-selvagem/","created":"2024-07-25T19:04:29.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/feiticeiro/magia-selvagem/","created":"2024-07-25T19:04:29.192-03:00"}
 ---
 
 

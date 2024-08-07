@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ladino/trapaceiro-arcano/","created":"2024-07-26T08:15:04.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ladino/trapaceiro-arcano/","created":"2024-07-26T08:15:04.658-03:00"}
 ---
 
 

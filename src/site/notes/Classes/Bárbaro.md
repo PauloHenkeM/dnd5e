@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes"],"created":"2024-07-23T13:21:55.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/barbaro/","tags":["Classes"],"created":"2024-07-23T13:21:55.699-03:00"}
 ---
 
 
@@ -117,6 +117,12 @@ ___
 | 18º | +6 | 6 | +4 |
 | 19º | +6 | 6 | +4 |
 | 20º | +6 | Infin. | +4 |
+
+# Truques
+
+Abrigo de Lâminas (p1)
+
+[[Outros/Truques#^8cb7ec\|Abrigo de Lâmina]]
 ___
 **Links para esse site**
 - [[Classes/1.Resumo\|1.Resumo]]

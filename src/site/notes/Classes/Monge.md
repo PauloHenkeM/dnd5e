@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/monge/","tags":["Classes"],"created":"2024-07-23T13:37:50.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/monge/","tags":["Classes"],"created":"2024-07-23T13:37:50.706-03:00"}
 ---
 
 

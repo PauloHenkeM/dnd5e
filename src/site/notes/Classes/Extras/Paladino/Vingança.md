@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/paladino/vinganca/","created":"2024-07-26T08:49:54.000-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/paladino/vinganca/","created":"2024-07-26T08:49:54.969-03:00"}
 ---
 
 
