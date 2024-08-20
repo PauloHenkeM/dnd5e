@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-dos-quatro-elementos/","created":"2024-07-26T08:26:48.195-03:00","updated":"2024-07-28T22:17:11.825-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-dos-quatro-elementos/","created":"2024-08-17T10:43:50.352-03:00","updated":"2024-07-28T22:17:11.825-03:00"}
 ---
 
 

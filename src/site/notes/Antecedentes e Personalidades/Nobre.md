@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/nobre/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:13:07.388-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/nobre/","created":"2024-08-17T10:43:57.024-03:00","updated":"2024-07-28T22:13:07.388-03:00"}
 ---
 
 Se o seu personagem tem um antecedente Nobre, você pode

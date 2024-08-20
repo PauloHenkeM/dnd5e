@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/guerreiro/mestre-de-batalha/","created":"2024-07-25T19:36:57.055-03:00","updated":"2024-07-28T22:16:12.085-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/guerreiro/mestre-de-batalha/","created":"2024-08-17T10:43:53.088-03:00","updated":"2024-07-28T22:16:12.085-03:00"}
 ---
 
 

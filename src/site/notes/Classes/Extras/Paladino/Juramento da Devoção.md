@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/paladino/juramento-da-devocao/","created":"2024-07-26T08:46:45.399-03:00","updated":"2024-07-28T22:17:19.906-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/paladino/juramento-da-devocao/","created":"2024-08-17T10:43:48.228-03:00","updated":"2024-07-28T22:17:19.906-03:00"}
 ---
 
 

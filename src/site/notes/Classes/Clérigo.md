@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/clerigo/","tags":["Classes"],"created":"2024-07-23T13:26:54.406-03:00","updated":"2024-08-07T16:16:00.574-03:00"}
+{"dg-publish":true,"permalink":"/classes/clerigo/","tags":["Classes"],"created":"2024-08-17T10:43:58.472-03:00","updated":"2024-08-07T16:16:00.574-03:00"}
 ---
 
 

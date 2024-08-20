@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/bruxo/infernal/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:15:04.693-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/bruxo/infernal/","created":"2024-08-17T10:43:43.632-03:00","updated":"2024-07-28T22:15:04.693-03:00"}
 ---
 
 

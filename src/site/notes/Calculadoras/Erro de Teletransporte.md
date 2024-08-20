@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculadoras/erro-de-teletransporte/","created":"2024-07-25T12:08:06.000-03:00","updated":"2024-08-07T16:28:38.053-03:00"}
+{"dg-publish":true,"permalink":"/calculadoras/erro-de-teletransporte/","created":"2024-08-17T10:43:52.252-03:00","updated":"2024-08-07T16:28:38.053-03:00"}
 ---
 
 

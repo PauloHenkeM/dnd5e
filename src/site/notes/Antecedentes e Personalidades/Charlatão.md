@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/charlatao/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:12:29.687-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/charlatao/","created":"2024-08-17T10:43:56.196-03:00","updated":"2024-07-28T22:12:29.687-03:00"}
 ---
 
 Você sempre teve um jeito com as pessoas. Você sabe o que as toca, pode provocar os desejos de seus corações depois de alguns minutos de conversa, e com algumas perguntas importantes, você pode lê-las como se fossem livros infantis. É um talento útil, e que você está perfeitamente disposto a usar para sua vantagem. Você sabe o que as pessoas querem e você entrega, ou melhor, promete entregar. O bom senso deve guiar as pessoas para longe de coisas que parecem boas demais para ser verdade, mas o senso comum parece estar em falta quando você está por perto. A garrafa de líquido cor-de-rosa certamente vai curar essa erupção inconveniente, esta pomada – nada mais do que um pouco de gordura com uma pitada de pó de prata – pode restaurar a juventude e vigor, e há uma ponte na cidade que de repente está à venda. Estas maravilhas soam improváveis, mas você as faz soar como um negócio real.

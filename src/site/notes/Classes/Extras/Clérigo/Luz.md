@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/clerigo/luz/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:15:25.145-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/clerigo/luz/","created":"2024-08-17T10:43:46.552-03:00","updated":"2024-07-28T22:15:25.145-03:00"}
 ---
 
 

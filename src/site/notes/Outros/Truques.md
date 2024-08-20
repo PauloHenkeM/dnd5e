@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-07-29T12:51:02.981-03:00","updated":"2024-08-07T15:33:58.423-03:00"}
+{"dg-publish":true,"permalink":"/outros/truques/","created":"2024-08-17T10:43:59.504-03:00","updated":"2024-08-07T15:33:58.423-03:00"}
 ---
 
 

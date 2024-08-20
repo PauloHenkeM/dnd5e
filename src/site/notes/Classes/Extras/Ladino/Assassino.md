@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/ladino/assassino/","created":"2024-07-26T08:13:35.137-03:00","updated":"2024-07-28T22:16:15.442-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/ladino/assassino/","created":"2024-08-17T10:43:43.228-03:00","updated":"2024-07-28T22:16:15.442-03:00"}
 ---
 
 

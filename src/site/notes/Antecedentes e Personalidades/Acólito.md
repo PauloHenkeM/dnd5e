@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/acolito/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:22:30.056-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/acolito/","created":"2024-08-17T10:43:53.296-03:00","updated":"2024-07-28T22:22:30.056-03:00"}
 ---
 
 **Acolito**  

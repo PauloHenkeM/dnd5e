@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/outros/exaustao/","created":"2024-07-24T12:26:02.000-03:00","updated":"2024-07-25T23:51:47.000-03:00"}
+{"dg-publish":true,"permalink":"/outros/exaustao/","created":"2024-08-17T10:43:43.428-03:00","updated":"2024-07-25T23:51:47.000-03:00"}
 ---
 
 Algumas habilidades especiais e perigos ambientais, como fome e exposição prolongada a temperaturas congelantes ou escaldantes, podem impor uma condição especial chamada exaustão.

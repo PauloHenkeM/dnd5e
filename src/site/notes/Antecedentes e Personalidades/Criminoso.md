@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/criminoso/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:12:33.916-03:00"}
+{"dg-publish":true,"permalink":"/antecedentes-e-personalidades/criminoso/","created":"2024-08-17T10:43:54.120-03:00","updated":"2024-07-28T22:12:33.916-03:00"}
 ---
 
 Você é um criminoso experiente com um histórico de contravenções. Você gastou um bom tempo entre outros criminosos e ainda mantém contato com eles e com o submundo do crime. Você está mais perto do que a maioria das pessoas do assassinato, roubo e violência que prevalecem no ventre da sociedade, e você sobreviveu até esse ponto desprezando a lei e os regulamentos da sociedade.

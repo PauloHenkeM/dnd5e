@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/mago/encantamento/","created":"2024-07-23T08:29:11.000-03:00","updated":"2024-07-28T22:16:35.332-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/mago/encantamento/","created":"2024-08-17T10:43:47.196-03:00","updated":"2024-07-28T22:16:35.332-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-das-sombras/","created":"2024-07-26T08:26:13.656-03:00","updated":"2024-07-28T22:17:08.770-03:00"}
+{"dg-publish":true,"permalink":"/classes/extras/monge/caminho-das-sombras/","created":"2024-08-17T10:43:41.984-03:00","updated":"2024-07-28T22:17:08.770-03:00"}
 ---
 
 
