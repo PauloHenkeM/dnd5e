@@ -1,4 +1,4 @@
-# Descripion
-Personal repository for uploading Dungeons and Dragons 5th Edition notes
+# Descrição
+Repositório pessoal para upload de notas de Dungeons and Dragons 5ª edição
 
-[Website link](https://dnd5e-ashy.vercel.app/)
+[Link do site](https://dnd5e-ashy.vercel.app/)
